@@ -1,0 +1,4177 @@
+﻿customer_id,Recency,Frequency,Monetary,Cluster,Segment
+1000,196,1,1228.72,0,At Risk Customers
+1003,27,1,1681.96,2,New / Occasional Customers
+1008,49,1,1546.42,2,New / Occasional Customers
+1009,100,3,4616.63,4,Champions
+1014,17,1,2423.92,2,New / Occasional Customers
+1026,146,1,244.3,2,New / Occasional Customers
+1028,55,1,2328.44,2,New / Occasional Customers
+1029,155,1,357.02,0,At Risk Customers
+1031,129,2,2231.42,1,Loyal Customers
+1033,97,1,571.06,2,New / Occasional Customers
+1035,137,1,325.77,2,New / Occasional Customers
+1036,51,1,395.17,2,New / Occasional Customers
+1038,5,1,4503.98,3,High-Value New Customers
+1039,15,2,1852.98,1,Loyal Customers
+1040,14,2,7417.69,4,Champions
+1041,121,1,1296.48,2,New / Occasional Customers
+1042,30,3,4330.68,4,Champions
+1044,4,2,1008.62,1,Loyal Customers
+1047,116,1,922.92,2,New / Occasional Customers
+1054,73,1,2322.16,2,New / Occasional Customers
+1056,79,1,345.71,2,New / Occasional Customers
+1058,222,2,6257.73,4,Champions
+1062,94,2,5304.35,1,Loyal Customers
+1065,223,1,7889.36,3,High-Value New Customers
+1066,142,1,3654.18,3,High-Value New Customers
+1067,119,1,2032.07,2,New / Occasional Customers
+1071,73,1,1331.9,2,New / Occasional Customers
+1076,82,1,1449.62,2,New / Occasional Customers
+1077,89,1,1959.6,2,New / Occasional Customers
+1078,215,1,490.0,0,At Risk Customers
+1079,107,1,4252.77,3,High-Value New Customers
+1080,124,1,2111.96,2,New / Occasional Customers
+1082,225,1,1601.42,0,At Risk Customers
+1083,129,1,1056.76,2,New / Occasional Customers
+1084,220,1,3648.04,0,At Risk Customers
+1086,103,1,1236.24,2,New / Occasional Customers
+1087,192,1,222.61,0,At Risk Customers
+1089,22,1,2169.46,2,New / Occasional Customers
+1090,22,1,3331.6,3,High-Value New Customers
+1092,166,1,2987.93,0,At Risk Customers
+1095,50,2,3681.54,1,Loyal Customers
+1096,18,2,4912.93,1,Loyal Customers
+1099,88,1,2717.82,3,High-Value New Customers
+1100,141,2,788.77,1,Loyal Customers
+1101,42,1,1339.45,2,New / Occasional Customers
+1105,151,1,1244.58,0,At Risk Customers
+1110,41,1,2098.22,2,New / Occasional Customers
+1111,80,1,1839.86,2,New / Occasional Customers
+1112,40,1,2540.56,2,New / Occasional Customers
+1115,137,1,1763.68,2,New / Occasional Customers
+1118,351,1,4522.5,0,At Risk Customers
+1121,88,1,1894.59,2,New / Occasional Customers
+1124,68,2,1684.02,1,Loyal Customers
+1126,32,2,2051.36,1,Loyal Customers
+1130,12,1,1026.78,2,New / Occasional Customers
+1131,182,1,1150.86,0,At Risk Customers
+1132,118,2,3476.2200000000003,1,Loyal Customers
+1134,32,3,7061.16,4,Champions
+1138,17,1,924.05,2,New / Occasional Customers
+1145,56,1,997.25,2,New / Occasional Customers
+1146,32,1,2950.09,3,High-Value New Customers
+1148,30,1,843.58,2,New / Occasional Customers
+1150,159,1,2340.49,0,At Risk Customers
+1151,15,1,673.69,2,New / Occasional Customers
+1152,109,1,772.78,2,New / Occasional Customers
+1153,86,1,1069.29,2,New / Occasional Customers
+1155,6,2,4908.51,1,Loyal Customers
+1158,4,1,2864.37,3,High-Value New Customers
+1159,175,1,5605.16,3,High-Value New Customers
+1160,139,1,2058.0,0,At Risk Customers
+1162,336,1,1483.14,0,At Risk Customers
+1163,16,1,403.7,2,New / Occasional Customers
+1164,180,1,1126.58,0,At Risk Customers
+1165,20,2,1357.8700000000001,1,Loyal Customers
+1167,18,2,3059.2,1,Loyal Customers
+1169,37,2,947.29,1,Loyal Customers
+1172,1,1,332.26,2,New / Occasional Customers
+1174,96,1,1507.02,2,New / Occasional Customers
+1175,128,2,2666.8900000000003,1,Loyal Customers
+1177,142,1,756.39,2,New / Occasional Customers
+1183,46,1,5294.04,3,High-Value New Customers
+1184,57,2,3314.81,1,Loyal Customers
+1187,19,2,9145.76,4,Champions
+1188,20,3,1550.69,1,Loyal Customers
+1190,39,2,1456.45,1,Loyal Customers
+1193,39,1,1818.94,2,New / Occasional Customers
+1195,2,1,1219.67,2,New / Occasional Customers
+1196,34,2,5634.82,4,Champions
+1197,26,1,4518.88,3,High-Value New Customers
+1198,166,1,973.3,0,At Risk Customers
+1200,6,1,1897.32,2,New / Occasional Customers
+1202,248,1,1248.59,0,At Risk Customers
+1203,1,2,3619.66,1,Loyal Customers
+1204,41,1,969.32,2,New / Occasional Customers
+1206,117,1,3324.51,3,High-Value New Customers
+1208,87,1,1136.65,2,New / Occasional Customers
+1209,2,1,816.6,2,New / Occasional Customers
+1212,24,3,2666.46,1,Loyal Customers
+1213,8,1,744.78,2,New / Occasional Customers
+1214,258,1,3055.83,0,At Risk Customers
+1215,53,1,1328.42,2,New / Occasional Customers
+1218,69,2,3526.43,1,Loyal Customers
+1220,209,1,1765.86,0,At Risk Customers
+1222,59,1,898.63,2,New / Occasional Customers
+1223,48,1,522.78,2,New / Occasional Customers
+1225,73,1,268.76,2,New / Occasional Customers
+1226,42,1,1203.09,2,New / Occasional Customers
+1227,19,1,4039.92,3,High-Value New Customers
+1228,301,1,829.75,0,At Risk Customers
+1229,105,1,651.56,2,New / Occasional Customers
+1231,54,1,741.57,2,New / Occasional Customers
+1234,35,1,377.35,2,New / Occasional Customers
+1240,62,1,1882.12,2,New / Occasional Customers
+1241,57,2,3617.15,1,Loyal Customers
+1243,129,1,3898.5,3,High-Value New Customers
+1244,51,2,3078.65,1,Loyal Customers
+1252,48,2,7790.94,4,Champions
+1253,63,1,2191.33,2,New / Occasional Customers
+1262,88,1,797.16,2,New / Occasional Customers
+1264,98,1,1712.22,2,New / Occasional Customers
+1268,15,1,1455.21,2,New / Occasional Customers
+1269,49,1,1787.02,2,New / Occasional Customers
+1270,99,2,3845.93,1,Loyal Customers
+1271,35,1,1130.35,2,New / Occasional Customers
+1274,104,1,2065.7,2,New / Occasional Customers
+1275,135,2,7788.92,4,Champions
+1277,4,1,414.36,2,New / Occasional Customers
+1278,83,2,4367.72,1,Loyal Customers
+1279,72,1,3180.17,3,High-Value New Customers
+1282,40,1,281.46,2,New / Occasional Customers
+1283,51,1,3166.32,3,High-Value New Customers
+1284,93,1,6649.04,3,High-Value New Customers
+1285,241,1,2942.34,0,At Risk Customers
+1290,44,2,1015.65,1,Loyal Customers
+1291,140,1,2457.68,0,At Risk Customers
+1292,289,2,3075.91,0,At Risk Customers
+1295,175,1,267.34,0,At Risk Customers
+1298,278,1,285.16,0,At Risk Customers
+1302,42,1,821.62,2,New / Occasional Customers
+1303,317,1,989.88,0,At Risk Customers
+1304,81,1,529.27,2,New / Occasional Customers
+1307,69,1,553.52,2,New / Occasional Customers
+1308,20,1,566.61,2,New / Occasional Customers
+1312,189,2,6037.98,4,Champions
+1315,71,1,1937.57,2,New / Occasional Customers
+1316,20,5,9432.31,4,Champions
+1317,30,4,8119.4400000000005,4,Champions
+1318,29,2,1692.53,1,Loyal Customers
+1319,110,2,3602.98,1,Loyal Customers
+1322,44,2,2239.44,1,Loyal Customers
+1323,212,1,3132.29,0,At Risk Customers
+1324,35,1,3519.68,3,High-Value New Customers
+1327,1,2,4069.45,1,Loyal Customers
+1329,3,1,443.01,2,New / Occasional Customers
+1331,133,1,4930.51,3,High-Value New Customers
+1332,85,1,3016.32,3,High-Value New Customers
+1334,15,5,12203.21,4,Champions
+1335,10,3,3522.92,1,Loyal Customers
+1336,109,1,3797.19,3,High-Value New Customers
+1337,230,1,783.06,0,At Risk Customers
+1339,6,1,530.31,2,New / Occasional Customers
+1343,23,1,3053.36,3,High-Value New Customers
+1345,10,1,256.67,2,New / Occasional Customers
+1347,147,1,3357.67,3,High-Value New Customers
+1348,19,1,4789.77,3,High-Value New Customers
+1349,101,1,307.29,2,New / Occasional Customers
+1350,245,3,1480.29,1,Loyal Customers
+1351,89,1,4652.64,3,High-Value New Customers
+1352,193,2,1316.79,0,At Risk Customers
+1356,106,1,2397.1,2,New / Occasional Customers
+1357,301,1,1199.55,0,At Risk Customers
+1360,139,3,3696.46,1,Loyal Customers
+1361,3,3,4596.29,4,Champions
+1362,144,1,3356.54,3,High-Value New Customers
+1363,151,2,181.93,1,Loyal Customers
+1365,57,2,3247.63,1,Loyal Customers
+1366,43,1,4299.17,3,High-Value New Customers
+1368,123,2,4747.9400000000005,1,Loyal Customers
+1370,56,1,1920.92,2,New / Occasional Customers
+1372,25,2,7627.08,4,Champions
+1378,31,3,2604.1,1,Loyal Customers
+1379,223,1,863.94,0,At Risk Customers
+1380,156,1,700.35,0,At Risk Customers
+1381,163,1,566.3,0,At Risk Customers
+1382,107,2,4061.77,1,Loyal Customers
+1385,346,1,3694.52,0,At Risk Customers
+1386,44,2,3064.78,1,Loyal Customers
+1387,24,2,1111.73,1,Loyal Customers
+1388,203,1,3964.28,0,At Risk Customers
+1395,10,2,2703.44,1,Loyal Customers
+1397,155,1,2856.24,0,At Risk Customers
+1398,192,1,663.37,0,At Risk Customers
+1400,56,1,527.51,2,New / Occasional Customers
+1403,1,2,2038.8500000000001,1,Loyal Customers
+1404,32,2,1646.99,1,Loyal Customers
+1405,115,1,1296.62,2,New / Occasional Customers
+1410,58,1,162.49,2,New / Occasional Customers
+1412,4,1,698.61,2,New / Occasional Customers
+1418,55,1,829.86,2,New / Occasional Customers
+1419,100,2,5203.04,1,Loyal Customers
+1420,91,1,4219.62,3,High-Value New Customers
+1422,120,1,2685.78,3,High-Value New Customers
+1423,105,1,1066.1,2,New / Occasional Customers
+1424,23,1,513.7,2,New / Occasional Customers
+1425,80,1,518.32,2,New / Occasional Customers
+1427,28,1,2279.68,2,New / Occasional Customers
+1430,8,1,3753.0,3,High-Value New Customers
+1433,242,2,8307.94,4,Champions
+1434,9,1,2580.84,2,New / Occasional Customers
+1436,250,1,3005.46,0,At Risk Customers
+1437,60,2,1919.23,1,Loyal Customers
+1438,31,1,313.88,2,New / Occasional Customers
+1440,93,1,5960.25,3,High-Value New Customers
+1441,40,1,503.92,2,New / Occasional Customers
+1445,83,2,2774.91,1,Loyal Customers
+1447,19,2,2317.7200000000003,1,Loyal Customers
+1450,210,1,2384.76,0,At Risk Customers
+1451,95,1,471.13,2,New / Occasional Customers
+1454,50,1,2611.03,3,High-Value New Customers
+1455,65,1,254.85,2,New / Occasional Customers
+1456,261,2,2899.21,0,At Risk Customers
+1458,23,2,2026.27,1,Loyal Customers
+1461,6,1,579.51,2,New / Occasional Customers
+1462,53,2,1191.03,1,Loyal Customers
+1463,25,1,4949.6,3,High-Value New Customers
+1464,25,2,1238.58,1,Loyal Customers
+1466,103,1,1417.23,2,New / Occasional Customers
+1467,129,2,1121.45,1,Loyal Customers
+1471,47,1,1161.18,2,New / Occasional Customers
+1472,71,1,220.52,2,New / Occasional Customers
+1473,143,1,1213.67,0,At Risk Customers
+1477,29,1,2809.28,3,High-Value New Customers
+1478,46,1,656.62,2,New / Occasional Customers
+1479,25,1,2925.48,3,High-Value New Customers
+1483,22,2,4226.91,1,Loyal Customers
+1484,61,2,4044.9100000000003,1,Loyal Customers
+1486,246,1,2089.06,0,At Risk Customers
+1487,65,1,5778.76,3,High-Value New Customers
+1489,46,2,730.27,1,Loyal Customers
+1490,40,1,1211.39,2,New / Occasional Customers
+1492,15,2,2307.7699999999995,1,Loyal Customers
+1493,307,1,416.59,0,At Risk Customers
+1496,10,2,2929.2999999999997,1,Loyal Customers
+1497,105,1,5020.5,3,High-Value New Customers
+1498,25,1,5302.37,3,High-Value New Customers
+1499,1,1,131.96,2,New / Occasional Customers
+1501,144,1,6016.54,3,High-Value New Customers
+1503,65,1,4151.74,3,High-Value New Customers
+1505,76,1,574.4,2,New / Occasional Customers
+1506,93,4,11867.1,4,Champions
+1509,12,1,963.2,2,New / Occasional Customers
+1510,40,1,4993.48,3,High-Value New Customers
+1513,187,1,165.17,0,At Risk Customers
+1515,15,3,1602.91,1,Loyal Customers
+1517,143,1,2029.92,0,At Risk Customers
+1518,8,3,6890.76,4,Champions
+1521,96,1,334.46,2,New / Occasional Customers
+1523,244,1,5576.1,0,At Risk Customers
+1524,77,1,972.99,2,New / Occasional Customers
+1527,88,1,476.82,2,New / Occasional Customers
+1529,105,2,4588.91,1,Loyal Customers
+1530,8,2,1126.92,1,Loyal Customers
+1531,4,1,2598.35,2,New / Occasional Customers
+1532,44,1,3212.5,3,High-Value New Customers
+1533,249,1,1858.18,0,At Risk Customers
+1538,52,1,1661.69,2,New / Occasional Customers
+1539,27,2,4421.79,1,Loyal Customers
+1543,60,1,4321.89,3,High-Value New Customers
+1545,26,2,1395.81,1,Loyal Customers
+1548,123,1,2348.55,2,New / Occasional Customers
+1550,5,2,7921.13,4,Champions
+1551,8,1,641.61,2,New / Occasional Customers
+1555,147,1,2601.76,0,At Risk Customers
+1557,278,1,1890.24,0,At Risk Customers
+1560,21,1,1852.44,2,New / Occasional Customers
+1564,53,1,1536.96,2,New / Occasional Customers
+1566,109,1,589.15,2,New / Occasional Customers
+1569,97,1,2879.92,3,High-Value New Customers
+1570,107,1,3623.82,3,High-Value New Customers
+1571,143,1,2562.31,0,At Risk Customers
+1577,94,1,1887.37,2,New / Occasional Customers
+1581,121,1,956.08,2,New / Occasional Customers
+1585,232,1,4847.17,0,At Risk Customers
+1589,49,1,1146.6,2,New / Occasional Customers
+1595,102,1,253.56,2,New / Occasional Customers
+1599,58,2,3167.7400000000002,1,Loyal Customers
+1600,35,1,970.88,2,New / Occasional Customers
+1601,135,1,1166.22,2,New / Occasional Customers
+1604,161,1,425.65,0,At Risk Customers
+1607,132,1,766.55,2,New / Occasional Customers
+1608,79,4,8634.02,4,Champions
+1612,45,1,2539.1,2,New / Occasional Customers
+1613,18,2,2440.56,1,Loyal Customers
+1615,12,1,2330.22,2,New / Occasional Customers
+1618,33,2,1529.82,1,Loyal Customers
+1620,145,1,4390.95,3,High-Value New Customers
+1622,46,1,1951.13,2,New / Occasional Customers
+1624,154,2,1483.5700000000002,1,Loyal Customers
+1627,140,1,1327.0,2,New / Occasional Customers
+1629,128,1,432.01,2,New / Occasional Customers
+1631,105,1,2336.52,2,New / Occasional Customers
+1632,15,2,1683.59,1,Loyal Customers
+1635,183,2,1696.4,0,At Risk Customers
+1640,235,1,765.98,0,At Risk Customers
+1641,40,1,1094.88,2,New / Occasional Customers
+1644,66,2,1552.99,1,Loyal Customers
+1645,225,1,3067.74,0,At Risk Customers
+1646,20,2,5386.24,4,Champions
+1647,7,2,3613.1000000000004,1,Loyal Customers
+1649,16,1,1929.76,2,New / Occasional Customers
+1657,201,2,1068.19,0,At Risk Customers
+1658,101,1,1048.12,2,New / Occasional Customers
+1659,44,1,809.91,2,New / Occasional Customers
+1661,134,3,10152.52,4,Champions
+1667,58,1,3170.98,3,High-Value New Customers
+1668,68,1,722.8,2,New / Occasional Customers
+1672,96,1,807.22,2,New / Occasional Customers
+1673,212,1,1104.84,0,At Risk Customers
+1675,37,2,5207.360000000001,1,Loyal Customers
+1676,213,2,3942.9700000000003,0,At Risk Customers
+1681,39,1,407.71,2,New / Occasional Customers
+1682,99,1,2536.28,3,High-Value New Customers
+1683,251,1,1929.0,0,At Risk Customers
+1687,118,1,1318.78,2,New / Occasional Customers
+1688,7,1,1141.31,2,New / Occasional Customers
+1690,39,2,3004.06,1,Loyal Customers
+1694,179,1,3849.17,0,At Risk Customers
+1695,67,1,725.39,2,New / Occasional Customers
+1697,51,1,1989.62,2,New / Occasional Customers
+1698,246,2,4020.0,0,At Risk Customers
+1699,203,1,1136.57,0,At Risk Customers
+1702,287,2,805.1700000000001,0,At Risk Customers
+1703,268,1,2702.64,0,At Risk Customers
+1706,57,1,1735.8,2,New / Occasional Customers
+1708,16,2,1565.29,1,Loyal Customers
+1709,149,1,1876.09,0,At Risk Customers
+1710,36,1,6703.32,3,High-Value New Customers
+1711,77,3,1730.48,1,Loyal Customers
+1712,18,1,3794.86,3,High-Value New Customers
+1713,257,1,1641.2,0,At Risk Customers
+1719,3,2,4606.89,1,Loyal Customers
+1720,31,1,2791.04,3,High-Value New Customers
+1722,34,2,2146.9700000000003,1,Loyal Customers
+1723,13,1,365.57,2,New / Occasional Customers
+1728,98,1,4775.0,3,High-Value New Customers
+1730,15,1,681.53,2,New / Occasional Customers
+1731,56,1,1130.1,2,New / Occasional Customers
+1732,29,1,415.91,2,New / Occasional Customers
+1733,41,1,688.34,2,New / Occasional Customers
+1736,319,1,2510.82,0,At Risk Customers
+1738,12,3,13800.96,4,Champions
+1742,4,1,1286.8,2,New / Occasional Customers
+1745,163,2,1012.98,1,Loyal Customers
+1746,63,1,288.04,2,New / Occasional Customers
+1747,89,3,5489.889999999999,4,Champions
+1749,2,1,882.81,2,New / Occasional Customers
+1751,38,1,1128.93,2,New / Occasional Customers
+1756,254,1,666.3,0,At Risk Customers
+1757,24,1,794.94,2,New / Occasional Customers
+1759,70,1,922.11,2,New / Occasional Customers
+1762,139,1,4314.87,3,High-Value New Customers
+1763,62,1,5219.03,3,High-Value New Customers
+1764,6,1,1182.76,2,New / Occasional Customers
+1765,21,3,6114.2,4,Champions
+1766,70,1,606.83,2,New / Occasional Customers
+1767,23,1,537.62,2,New / Occasional Customers
+1770,225,1,678.33,0,At Risk Customers
+1773,48,4,4761.9400000000005,4,Champions
+1777,27,1,150.84,2,New / Occasional Customers
+1778,123,1,1006.0,2,New / Occasional Customers
+1780,142,1,3213.85,3,High-Value New Customers
+1781,14,1,752.89,2,New / Occasional Customers
+1783,34,1,958.94,2,New / Occasional Customers
+1786,331,2,2626.37,0,At Risk Customers
+1787,83,1,1424.09,2,New / Occasional Customers
+1788,158,1,632.04,0,At Risk Customers
+1789,189,1,4764.74,0,At Risk Customers
+1795,15,1,527.61,2,New / Occasional Customers
+1797,26,1,2043.63,2,New / Occasional Customers
+1798,106,1,3230.25,3,High-Value New Customers
+1800,184,1,1153.65,0,At Risk Customers
+1801,143,1,2547.22,0,At Risk Customers
+1802,19,1,1337.24,2,New / Occasional Customers
+1803,32,1,2206.11,2,New / Occasional Customers
+1808,152,1,506.2,0,At Risk Customers
+1811,8,2,2675.0099999999998,1,Loyal Customers
+1812,244,1,1980.48,0,At Risk Customers
+1814,9,2,2276.38,1,Loyal Customers
+1815,21,1,1156.8,2,New / Occasional Customers
+1819,85,1,3192.12,3,High-Value New Customers
+1823,158,2,2421.66,1,Loyal Customers
+1825,31,2,2864.42,1,Loyal Customers
+1829,13,1,1398.4,2,New / Occasional Customers
+1830,4,2,1788.8899999999999,1,Loyal Customers
+1832,16,1,1846.82,2,New / Occasional Customers
+1834,36,2,1904.63,1,Loyal Customers
+1835,283,1,177.68,0,At Risk Customers
+1837,145,1,343.86,2,New / Occasional Customers
+1839,128,1,756.53,2,New / Occasional Customers
+1840,50,2,6283.03,4,Champions
+1841,16,1,689.02,2,New / Occasional Customers
+1842,94,2,2288.83,1,Loyal Customers
+1846,262,1,2908.1,0,At Risk Customers
+1851,211,1,5448.2,0,At Risk Customers
+1853,49,2,3799.8199999999997,1,Loyal Customers
+1854,83,2,4694.13,1,Loyal Customers
+1856,21,1,1251.12,2,New / Occasional Customers
+1861,53,2,6969.4400000000005,4,Champions
+1862,42,1,787.95,2,New / Occasional Customers
+1865,112,1,934.29,2,New / Occasional Customers
+1867,192,1,1414.74,0,At Risk Customers
+1868,16,1,550.28,2,New / Occasional Customers
+1873,27,1,4479.51,3,High-Value New Customers
+1874,182,1,742.85,0,At Risk Customers
+1880,3,1,7776.56,3,High-Value New Customers
+1881,115,1,2444.0,3,High-Value New Customers
+1885,69,1,773.51,2,New / Occasional Customers
+1886,205,1,3758.12,0,At Risk Customers
+1889,23,1,3985.24,3,High-Value New Customers
+1890,79,1,1673.45,2,New / Occasional Customers
+1894,336,1,3616.48,0,At Risk Customers
+1899,45,1,3473.2,3,High-Value New Customers
+1903,162,1,611.98,0,At Risk Customers
+1908,43,1,619.54,2,New / Occasional Customers
+1914,97,1,337.89,2,New / Occasional Customers
+1915,171,1,1722.87,0,At Risk Customers
+1916,57,1,211.63,2,New / Occasional Customers
+1922,145,1,742.32,2,New / Occasional Customers
+1923,69,1,2511.84,2,New / Occasional Customers
+1926,52,3,3901.2299999999996,1,Loyal Customers
+1927,7,1,944.91,2,New / Occasional Customers
+1929,58,2,2165.5699999999997,1,Loyal Customers
+1930,184,2,1232.25,0,At Risk Customers
+1934,60,2,3780.33,1,Loyal Customers
+1936,109,1,1525.02,2,New / Occasional Customers
+1937,17,1,450.44,2,New / Occasional Customers
+1941,191,3,4066.58,4,Champions
+1943,81,2,5817.66,4,Champions
+1945,157,1,740.14,0,At Risk Customers
+1946,30,1,442.42,2,New / Occasional Customers
+1947,26,1,2008.35,2,New / Occasional Customers
+1948,117,1,3147.14,3,High-Value New Customers
+1950,70,1,3595.68,3,High-Value New Customers
+1951,26,4,5702.030000000001,4,Champions
+1953,42,2,4341.24,1,Loyal Customers
+1955,221,1,2123.25,0,At Risk Customers
+1956,147,1,1135.6,0,At Risk Customers
+1957,206,2,2259.73,0,At Risk Customers
+1958,15,2,3011.63,1,Loyal Customers
+1959,68,1,825.0,2,New / Occasional Customers
+1960,52,2,7002.41,4,Champions
+1963,52,1,1399.0,2,New / Occasional Customers
+1965,2,1,1619.46,2,New / Occasional Customers
+1966,30,1,2704.6,3,High-Value New Customers
+1969,18,1,3084.52,3,High-Value New Customers
+1971,171,1,1431.76,0,At Risk Customers
+1973,134,2,10467.41,4,Champions
+1974,58,2,1278.26,1,Loyal Customers
+1977,61,3,6820.77,4,Champions
+1979,43,1,6200.4,3,High-Value New Customers
+1982,104,1,1212.63,2,New / Occasional Customers
+1985,131,1,4485.96,3,High-Value New Customers
+1986,19,1,723.1,2,New / Occasional Customers
+1987,263,1,564.16,0,At Risk Customers
+1990,98,1,4020.52,3,High-Value New Customers
+1993,5,2,756.09,1,Loyal Customers
+1994,178,1,355.84,0,At Risk Customers
+1995,17,1,493.96,2,New / Occasional Customers
+1996,26,1,3338.77,3,High-Value New Customers
+1997,69,1,2431.34,2,New / Occasional Customers
+2002,36,2,1472.05,1,Loyal Customers
+2004,120,1,315.81,2,New / Occasional Customers
+2008,42,2,2099.95,1,Loyal Customers
+2009,155,2,4369.6,1,Loyal Customers
+2013,5,2,1609.31,1,Loyal Customers
+2014,5,1,232.87,2,New / Occasional Customers
+2017,23,1,325.76,2,New / Occasional Customers
+2020,98,1,3592.26,3,High-Value New Customers
+2025,81,1,407.23,2,New / Occasional Customers
+2026,8,2,7683.26,4,Champions
+2027,159,1,1507.9,0,At Risk Customers
+2029,26,1,970.4,2,New / Occasional Customers
+2030,19,1,415.02,2,New / Occasional Customers
+2035,144,1,2652.92,0,At Risk Customers
+2036,31,1,522.43,2,New / Occasional Customers
+2037,27,1,3138.17,3,High-Value New Customers
+2039,135,2,1490.94,1,Loyal Customers
+2041,17,2,8680.05,4,Champions
+2044,57,1,843.44,2,New / Occasional Customers
+2046,92,1,898.84,2,New / Occasional Customers
+2048,37,1,1290.46,2,New / Occasional Customers
+2051,136,1,507.47,2,New / Occasional Customers
+2053,2,2,1988.96,1,Loyal Customers
+2054,135,1,433.5,2,New / Occasional Customers
+2055,11,1,213.01,2,New / Occasional Customers
+2057,42,1,2175.32,2,New / Occasional Customers
+2058,338,1,1955.16,0,At Risk Customers
+2063,128,1,1665.32,2,New / Occasional Customers
+2064,60,1,4722.15,3,High-Value New Customers
+2066,40,2,2298.8,1,Loyal Customers
+2068,9,1,319.95,2,New / Occasional Customers
+2069,76,2,2338.08,1,Loyal Customers
+2072,63,2,1600.6,1,Loyal Customers
+2073,75,1,3105.8,3,High-Value New Customers
+2074,5,2,5171.09,1,Loyal Customers
+2076,252,1,2587.71,0,At Risk Customers
+2077,44,1,1295.93,2,New / Occasional Customers
+2078,128,1,482.55,2,New / Occasional Customers
+2079,3,1,863.97,2,New / Occasional Customers
+2081,26,1,3992.52,3,High-Value New Customers
+2082,219,2,6424.95,4,Champions
+2089,134,1,679.29,2,New / Occasional Customers
+2097,64,3,4193.98,4,Champions
+2106,137,1,539.16,2,New / Occasional Customers
+2107,43,1,2090.28,2,New / Occasional Customers
+2113,60,1,1287.54,2,New / Occasional Customers
+2114,38,1,1299.41,2,New / Occasional Customers
+2115,28,1,1159.48,2,New / Occasional Customers
+2116,104,1,545.1,2,New / Occasional Customers
+2117,39,1,1873.58,2,New / Occasional Customers
+2119,75,2,1731.77,1,Loyal Customers
+2120,27,1,4068.52,3,High-Value New Customers
+2121,102,2,1081.49,1,Loyal Customers
+2123,56,1,414.46,2,New / Occasional Customers
+2130,34,1,1295.7,2,New / Occasional Customers
+2131,135,1,648.46,2,New / Occasional Customers
+2132,36,1,1207.19,2,New / Occasional Customers
+2135,74,1,390.76,2,New / Occasional Customers
+2136,136,1,2507.7,3,High-Value New Customers
+2140,336,1,3053.3,0,At Risk Customers
+2141,44,1,4993.64,3,High-Value New Customers
+2143,75,1,1030.14,2,New / Occasional Customers
+2144,170,1,251.92,0,At Risk Customers
+2147,88,1,2638.53,3,High-Value New Customers
+2151,100,3,7503.79,4,Champions
+2154,30,1,304.51,2,New / Occasional Customers
+2155,127,3,5645.68,4,Champions
+2156,71,2,1314.3600000000001,1,Loyal Customers
+2157,72,2,1499.4299999999998,1,Loyal Customers
+2163,4,2,1255.83,1,Loyal Customers
+2164,60,1,2502.0,2,New / Occasional Customers
+2165,193,1,1361.19,0,At Risk Customers
+2167,38,2,667.13,1,Loyal Customers
+2169,24,1,633.88,2,New / Occasional Customers
+2170,83,2,7742.3,4,Champions
+2176,48,1,563.42,2,New / Occasional Customers
+2177,136,1,427.52,2,New / Occasional Customers
+2179,56,1,255.85,2,New / Occasional Customers
+2180,17,1,1217.97,2,New / Occasional Customers
+2182,112,1,597.85,2,New / Occasional Customers
+2183,355,1,2957.16,0,At Risk Customers
+2184,134,1,1473.0,2,New / Occasional Customers
+2185,132,1,2041.33,2,New / Occasional Customers
+2189,61,1,3144.92,3,High-Value New Customers
+2191,35,1,1446.88,2,New / Occasional Customers
+2192,74,1,1029.07,2,New / Occasional Customers
+2193,31,2,2115.64,1,Loyal Customers
+2199,11,2,4552.85,1,Loyal Customers
+2200,121,2,2584.41,1,Loyal Customers
+2201,166,1,2167.5,0,At Risk Customers
+2202,76,2,2080.6000000000004,1,Loyal Customers
+2205,134,1,694.49,2,New / Occasional Customers
+2207,137,1,348.62,2,New / Occasional Customers
+2210,126,1,2921.29,3,High-Value New Customers
+2215,137,2,4814.959999999999,1,Loyal Customers
+2223,107,1,6708.92,3,High-Value New Customers
+2224,212,1,888.29,0,At Risk Customers
+2225,173,1,864.8,0,At Risk Customers
+2226,207,1,4514.0,0,At Risk Customers
+2227,61,1,508.2,2,New / Occasional Customers
+2228,28,1,1168.78,2,New / Occasional Customers
+2229,63,1,1940.76,2,New / Occasional Customers
+2232,72,1,490.58,2,New / Occasional Customers
+2234,222,1,66.76,0,At Risk Customers
+2236,159,1,802.98,0,At Risk Customers
+2237,88,1,3555.01,3,High-Value New Customers
+2240,126,1,2536.47,3,High-Value New Customers
+2244,239,1,2059.52,0,At Risk Customers
+2247,12,1,450.13,2,New / Occasional Customers
+2255,2,2,3328.34,1,Loyal Customers
+2258,131,1,617.2,2,New / Occasional Customers
+2260,7,2,4882.51,1,Loyal Customers
+2262,24,1,415.06,2,New / Occasional Customers
+2266,128,1,641.5,2,New / Occasional Customers
+2275,289,1,767.39,0,At Risk Customers
+2277,69,1,951.32,2,New / Occasional Customers
+2278,66,1,2229.28,2,New / Occasional Customers
+2280,234,1,1117.05,0,At Risk Customers
+2281,57,1,1506.42,2,New / Occasional Customers
+2282,24,1,2032.3,2,New / Occasional Customers
+2286,104,2,1859.9899999999998,1,Loyal Customers
+2287,104,2,7664.75,4,Champions
+2288,69,1,2882.34,3,High-Value New Customers
+2289,104,1,2204.36,2,New / Occasional Customers
+2292,238,1,2318.59,0,At Risk Customers
+2294,103,2,1449.48,1,Loyal Customers
+2295,75,1,6400.47,3,High-Value New Customers
+2296,111,2,2406.66,1,Loyal Customers
+2297,46,2,2106.12,1,Loyal Customers
+2303,58,1,403.28,2,New / Occasional Customers
+2307,32,1,1828.44,2,New / Occasional Customers
+2308,183,1,1523.48,0,At Risk Customers
+2312,89,1,5409.68,3,High-Value New Customers
+2314,4,2,2389.71,1,Loyal Customers
+2319,116,1,799.92,2,New / Occasional Customers
+2324,270,1,632.77,0,At Risk Customers
+2325,102,1,5234.01,3,High-Value New Customers
+2327,285,1,354.06,0,At Risk Customers
+2329,25,2,2434.0,1,Loyal Customers
+2335,5,2,3961.23,1,Loyal Customers
+2344,32,2,2970.8500000000004,1,Loyal Customers
+2347,27,2,3007.0,1,Loyal Customers
+2349,111,2,4454.23,1,Loyal Customers
+2350,12,1,1769.0,2,New / Occasional Customers
+2355,62,2,2391.05,1,Loyal Customers
+2357,269,1,484.42,0,At Risk Customers
+2359,11,3,10788.55,4,Champions
+2361,95,1,1184.9,2,New / Occasional Customers
+2363,65,1,423.72,2,New / Occasional Customers
+2364,275,1,4331.28,0,At Risk Customers
+2365,48,1,495.65,2,New / Occasional Customers
+2367,27,1,1637.1,2,New / Occasional Customers
+2368,81,1,793.74,2,New / Occasional Customers
+2370,123,1,540.62,2,New / Occasional Customers
+2375,33,1,3161.86,3,High-Value New Customers
+2376,17,1,1353.56,2,New / Occasional Customers
+2378,167,2,5497.6,4,Champions
+2381,1,1,869.54,2,New / Occasional Customers
+2385,30,1,2476.74,2,New / Occasional Customers
+2387,139,1,643.25,2,New / Occasional Customers
+2388,39,1,1168.64,2,New / Occasional Customers
+2390,253,1,1128.06,0,At Risk Customers
+2394,166,1,2244.2,0,At Risk Customers
+2395,3,1,963.64,2,New / Occasional Customers
+2396,5,2,3426.21,1,Loyal Customers
+2398,40,2,7151.139999999999,4,Champions
+2399,37,1,256.94,2,New / Occasional Customers
+2402,132,2,4831.389999999999,1,Loyal Customers
+2405,63,1,1034.52,2,New / Occasional Customers
+2406,161,1,2242.92,0,At Risk Customers
+2407,44,1,242.01,2,New / Occasional Customers
+2410,51,1,1982.73,2,New / Occasional Customers
+2412,24,2,842.66,1,Loyal Customers
+2415,15,1,2792.32,3,High-Value New Customers
+2417,113,3,7266.429999999999,4,Champions
+2418,54,3,3150.91,1,Loyal Customers
+2419,64,1,262.53,2,New / Occasional Customers
+2421,123,2,4790.17,1,Loyal Customers
+2422,43,3,2554.2200000000003,1,Loyal Customers
+2423,5,2,1721.88,1,Loyal Customers
+2424,42,1,3172.36,3,High-Value New Customers
+2425,126,1,1592.51,2,New / Occasional Customers
+2429,2,1,3957.48,3,High-Value New Customers
+2430,141,1,641.88,2,New / Occasional Customers
+2431,168,2,2341.2799999999997,1,Loyal Customers
+2435,1,2,5916.63,4,Champions
+2436,95,1,1363.24,2,New / Occasional Customers
+2438,65,1,4495.8,3,High-Value New Customers
+2440,170,1,1616.89,0,At Risk Customers
+2443,31,2,1095.1399999999999,1,Loyal Customers
+2446,156,1,6305.0,3,High-Value New Customers
+2448,111,1,3704.66,3,High-Value New Customers
+2451,170,2,4754.38,1,Loyal Customers
+2453,162,2,8017.26,4,Champions
+2455,76,1,2008.08,2,New / Occasional Customers
+2458,90,1,1843.14,2,New / Occasional Customers
+2459,40,1,1398.81,2,New / Occasional Customers
+2460,308,1,634.56,0,At Risk Customers
+2461,5,1,3136.9,3,High-Value New Customers
+2462,80,2,3195.4700000000003,1,Loyal Customers
+2465,9,2,1060.6599999999999,1,Loyal Customers
+2466,35,1,1050.38,2,New / Occasional Customers
+2469,151,2,2834.2,1,Loyal Customers
+2472,96,1,2631.31,3,High-Value New Customers
+2474,226,1,2877.06,0,At Risk Customers
+2476,323,1,1014.83,0,At Risk Customers
+2478,60,1,619.42,2,New / Occasional Customers
+2484,40,1,442.98,2,New / Occasional Customers
+2486,10,1,986.19,2,New / Occasional Customers
+2487,119,1,3466.22,3,High-Value New Customers
+2488,47,3,2745.75,1,Loyal Customers
+2489,80,1,384.48,2,New / Occasional Customers
+2490,15,1,1874.09,2,New / Occasional Customers
+2491,165,1,1057.06,0,At Risk Customers
+2492,91,1,1765.4,2,New / Occasional Customers
+2494,6,1,174.93,2,New / Occasional Customers
+2498,297,1,2589.03,0,At Risk Customers
+2501,191,1,289.33,0,At Risk Customers
+2503,205,1,1406.12,0,At Risk Customers
+2506,45,1,5779.33,3,High-Value New Customers
+2507,268,1,943.81,0,At Risk Customers
+2509,1,4,9080.46,4,Champions
+2510,122,1,655.47,2,New / Occasional Customers
+2511,111,1,3293.65,3,High-Value New Customers
+2515,29,2,2717.28,1,Loyal Customers
+2517,268,2,4964.02,0,At Risk Customers
+2519,73,2,1165.01,1,Loyal Customers
+2522,65,1,2041.77,2,New / Occasional Customers
+2524,50,1,544.2,2,New / Occasional Customers
+2526,113,2,4137.12,1,Loyal Customers
+2527,70,2,4376.7,1,Loyal Customers
+2528,107,1,325.58,2,New / Occasional Customers
+2532,124,1,2456.1,3,High-Value New Customers
+2533,237,1,3765.61,0,At Risk Customers
+2534,51,1,2291.33,2,New / Occasional Customers
+2535,41,1,800.73,2,New / Occasional Customers
+2543,25,1,308.43,2,New / Occasional Customers
+2546,16,1,5820.69,3,High-Value New Customers
+2549,13,2,4126.59,1,Loyal Customers
+2551,119,2,2166.74,1,Loyal Customers
+2556,149,1,4668.81,3,High-Value New Customers
+2557,170,1,1406.84,0,At Risk Customers
+2558,4,3,7011.08,4,Champions
+2559,35,1,3969.94,3,High-Value New Customers
+2564,14,1,3319.36,3,High-Value New Customers
+2567,66,1,602.4,2,New / Occasional Customers
+2569,19,1,217.17,2,New / Occasional Customers
+2572,78,1,1479.39,2,New / Occasional Customers
+2573,218,1,233.0,0,At Risk Customers
+2574,50,3,8379.22,4,Champions
+2576,64,1,1934.76,2,New / Occasional Customers
+2577,64,1,1496.55,2,New / Occasional Customers
+2583,189,1,473.5,0,At Risk Customers
+2584,30,1,3175.56,3,High-Value New Customers
+2585,20,3,10070.72,4,Champions
+2586,3,1,4102.48,3,High-Value New Customers
+2590,192,2,1663.9,0,At Risk Customers
+2591,149,1,3883.94,3,High-Value New Customers
+2595,37,1,822.96,2,New / Occasional Customers
+2596,82,1,425.54,2,New / Occasional Customers
+2597,163,1,3559.62,0,At Risk Customers
+2599,341,1,2026.4,0,At Risk Customers
+2600,290,1,819.53,0,At Risk Customers
+2601,101,3,2820.4300000000003,1,Loyal Customers
+2602,134,1,5324.58,3,High-Value New Customers
+2607,179,2,8590.07,4,Champions
+2608,187,1,2632.28,0,At Risk Customers
+2611,55,1,868.77,2,New / Occasional Customers
+2613,71,1,2156.08,2,New / Occasional Customers
+2615,39,1,1471.45,2,New / Occasional Customers
+2622,76,1,236.64,2,New / Occasional Customers
+2629,86,1,372.65,2,New / Occasional Customers
+2631,56,1,4762.62,3,High-Value New Customers
+2632,21,1,631.96,2,New / Occasional Customers
+2633,97,1,320.26,2,New / Occasional Customers
+2636,175,1,545.95,0,At Risk Customers
+2644,49,2,3809.29,1,Loyal Customers
+2646,83,2,2113.0499999999997,1,Loyal Customers
+2647,102,1,2839.53,3,High-Value New Customers
+2648,108,3,6517.379999999999,4,Champions
+2649,74,1,1448.16,2,New / Occasional Customers
+2650,96,1,752.76,2,New / Occasional Customers
+2656,275,1,1952.0,0,At Risk Customers
+2658,51,1,783.21,2,New / Occasional Customers
+2659,230,1,3550.06,0,At Risk Customers
+2663,108,2,2529.43,1,Loyal Customers
+2665,130,1,2962.44,3,High-Value New Customers
+2666,133,1,180.92,2,New / Occasional Customers
+2667,44,2,2895.0600000000004,1,Loyal Customers
+2668,158,1,749.17,0,At Risk Customers
+2669,29,1,673.05,2,New / Occasional Customers
+2671,70,3,7731.25,4,Champions
+2678,22,1,236.89,2,New / Occasional Customers
+2680,14,2,4179.96,1,Loyal Customers
+2684,19,2,3029.67,1,Loyal Customers
+2688,28,4,4665.7699999999995,4,Champions
+2689,63,3,3816.79,1,Loyal Customers
+2690,26,1,557.97,2,New / Occasional Customers
+2691,47,1,92.11,2,New / Occasional Customers
+2692,63,1,223.47,2,New / Occasional Customers
+2693,201,1,1687.28,0,At Risk Customers
+2698,3,1,296.98,2,New / Occasional Customers
+2701,127,1,3732.45,3,High-Value New Customers
+2703,28,1,1355.73,2,New / Occasional Customers
+2705,17,1,5568.58,3,High-Value New Customers
+2707,39,1,731.68,2,New / Occasional Customers
+2708,109,1,2952.29,3,High-Value New Customers
+2710,95,2,1335.5700000000002,1,Loyal Customers
+2711,88,1,1368.76,2,New / Occasional Customers
+2714,51,1,514.09,2,New / Occasional Customers
+2716,110,1,2245.98,2,New / Occasional Customers
+2717,45,2,3890.17,1,Loyal Customers
+2721,104,1,389.03,2,New / Occasional Customers
+2722,137,1,2545.56,3,High-Value New Customers
+2726,270,2,2550.6800000000003,0,At Risk Customers
+2727,60,1,1124.67,2,New / Occasional Customers
+2728,55,2,2921.7200000000003,1,Loyal Customers
+2730,57,1,518.11,2,New / Occasional Customers
+2732,73,1,435.85,2,New / Occasional Customers
+2733,15,1,1231.76,2,New / Occasional Customers
+2735,54,2,1635.5300000000002,1,Loyal Customers
+2736,4,1,1461.58,2,New / Occasional Customers
+2737,63,1,1798.58,2,New / Occasional Customers
+2738,207,2,2302.67,0,At Risk Customers
+2739,53,1,1943.51,2,New / Occasional Customers
+2740,306,1,476.04,0,At Risk Customers
+2742,126,1,1051.26,2,New / Occasional Customers
+2743,128,1,765.41,2,New / Occasional Customers
+2745,354,1,468.55,0,At Risk Customers
+2746,27,1,1431.67,2,New / Occasional Customers
+2748,314,1,592.78,0,At Risk Customers
+2749,53,1,333.0,2,New / Occasional Customers
+2751,88,2,8097.55,4,Champions
+2753,70,2,3799.0899999999997,1,Loyal Customers
+2754,82,1,1175.41,2,New / Occasional Customers
+2755,21,1,1076.95,2,New / Occasional Customers
+2756,137,2,1468.6,1,Loyal Customers
+2757,27,1,3275.71,3,High-Value New Customers
+2758,116,1,587.9,2,New / Occasional Customers
+2759,36,1,3785.88,3,High-Value New Customers
+2760,255,1,2884.8,0,At Risk Customers
+2761,41,1,1030.62,2,New / Occasional Customers
+2769,134,1,343.64,2,New / Occasional Customers
+2770,3,2,6422.71,4,Champions
+2771,64,1,762.26,2,New / Occasional Customers
+2772,20,1,2171.84,2,New / Occasional Customers
+2780,6,2,6567.049999999999,4,Champions
+2783,59,4,6986.240000000001,4,Champions
+2786,52,1,1198.02,2,New / Occasional Customers
+2787,202,1,1560.73,0,At Risk Customers
+2788,196,1,707.16,0,At Risk Customers
+2790,20,1,108.44,2,New / Occasional Customers
+2793,27,1,331.95,2,New / Occasional Customers
+2794,244,1,4580.96,0,At Risk Customers
+2796,72,1,3518.39,3,High-Value New Customers
+2797,4,1,1169.0,2,New / Occasional Customers
+2798,6,2,4643.15,1,Loyal Customers
+2799,91,3,6504.94,4,Champions
+2801,118,2,1282.23,1,Loyal Customers
+2802,68,1,2972.79,3,High-Value New Customers
+2804,76,1,2572.61,3,High-Value New Customers
+2810,183,2,3787.02,1,Loyal Customers
+2811,109,1,2227.05,2,New / Occasional Customers
+2812,96,1,1791.55,2,New / Occasional Customers
+2813,106,1,609.45,2,New / Occasional Customers
+2814,79,2,6410.81,4,Champions
+2816,11,1,2391.37,2,New / Occasional Customers
+2817,20,1,1364.4,2,New / Occasional Customers
+2818,64,2,6011.61,4,Champions
+2819,56,1,427.93,2,New / Occasional Customers
+2821,32,3,8288.779999999999,4,Champions
+2824,85,3,7341.73,4,Champions
+2829,29,1,643.17,2,New / Occasional Customers
+2831,90,1,805.68,2,New / Occasional Customers
+2832,327,1,4980.84,0,At Risk Customers
+2833,80,1,2638.71,3,High-Value New Customers
+2835,269,1,941.6,0,At Risk Customers
+2838,40,1,2397.51,2,New / Occasional Customers
+2840,125,1,1597.05,2,New / Occasional Customers
+2841,144,1,3929.76,3,High-Value New Customers
+2842,57,2,3089.34,1,Loyal Customers
+2845,5,1,1238.5,2,New / Occasional Customers
+2847,76,1,4613.8,3,High-Value New Customers
+2848,129,1,2121.01,2,New / Occasional Customers
+2855,169,1,2712.04,0,At Risk Customers
+2858,186,1,3152.38,0,At Risk Customers
+2859,76,1,4138.96,3,High-Value New Customers
+2863,287,1,924.69,0,At Risk Customers
+2865,106,1,146.24,2,New / Occasional Customers
+2867,123,1,847.85,2,New / Occasional Customers
+2869,45,1,454.2,2,New / Occasional Customers
+2871,192,2,4114.53,1,Loyal Customers
+2875,342,1,930.17,0,At Risk Customers
+2882,290,1,763.25,0,At Risk Customers
+2883,31,1,478.52,2,New / Occasional Customers
+2884,154,1,617.88,0,At Risk Customers
+2886,146,1,1603.0,0,At Risk Customers
+2887,201,1,1927.85,0,At Risk Customers
+2888,147,1,1966.66,0,At Risk Customers
+2889,48,2,4884.33,1,Loyal Customers
+2891,312,1,1406.27,0,At Risk Customers
+2892,113,1,342.8,2,New / Occasional Customers
+2894,17,1,2382.92,2,New / Occasional Customers
+2896,139,1,3365.4,3,High-Value New Customers
+2897,68,1,823.77,2,New / Occasional Customers
+2903,128,1,1175.54,2,New / Occasional Customers
+2905,81,1,1739.54,2,New / Occasional Customers
+2908,36,1,3074.4,3,High-Value New Customers
+2909,71,1,1826.85,2,New / Occasional Customers
+2913,190,2,1228.38,0,At Risk Customers
+2914,104,1,461.23,2,New / Occasional Customers
+2916,2,2,4901.32,1,Loyal Customers
+2919,109,2,1208.96,1,Loyal Customers
+2920,40,1,391.61,2,New / Occasional Customers
+2924,31,1,907.07,2,New / Occasional Customers
+2928,81,2,372.48,1,Loyal Customers
+2930,86,1,2868.06,3,High-Value New Customers
+2931,8,1,4104.24,3,High-Value New Customers
+2932,51,1,790.8,2,New / Occasional Customers
+2933,4,1,255.36,2,New / Occasional Customers
+2934,80,1,873.0,2,New / Occasional Customers
+2935,30,1,2615.72,2,New / Occasional Customers
+2936,141,3,3655.1000000000004,1,Loyal Customers
+2938,194,1,1864.33,0,At Risk Customers
+2939,15,5,10970.79,4,Champions
+2940,121,1,262.75,2,New / Occasional Customers
+2941,132,1,1301.2,2,New / Occasional Customers
+2944,35,1,629.29,2,New / Occasional Customers
+2949,134,2,3033.5,1,Loyal Customers
+2950,99,1,7273.84,3,High-Value New Customers
+2952,254,1,251.28,0,At Risk Customers
+2955,36,2,5796.3,4,Champions
+2957,365,1,584.86,0,At Risk Customers
+2960,5,1,1527.31,2,New / Occasional Customers
+2962,132,1,2069.36,2,New / Occasional Customers
+2964,229,1,1198.49,0,At Risk Customers
+2967,35,1,821.97,2,New / Occasional Customers
+2970,199,1,3120.36,0,At Risk Customers
+2971,19,1,2426.64,2,New / Occasional Customers
+2972,26,1,363.71,2,New / Occasional Customers
+2973,8,3,5777.7,4,Champions
+2974,78,1,890.53,2,New / Occasional Customers
+2976,178,1,1399.04,0,At Risk Customers
+2977,48,1,2622.92,3,High-Value New Customers
+2978,138,1,395.35,2,New / Occasional Customers
+2980,57,2,2601.2,1,Loyal Customers
+2986,125,1,569.71,2,New / Occasional Customers
+2988,229,2,537.24,0,At Risk Customers
+2990,10,1,299.85,2,New / Occasional Customers
+2992,7,2,1485.57,1,Loyal Customers
+2993,75,1,934.68,2,New / Occasional Customers
+2994,47,3,12989.279999999999,4,Champions
+2995,55,1,736.83,2,New / Occasional Customers
+3000,9,2,2312.56,1,Loyal Customers
+3002,22,1,1464.6,2,New / Occasional Customers
+3005,105,1,720.4,2,New / Occasional Customers
+3009,172,1,1952.78,0,At Risk Customers
+3013,19,1,180.62,2,New / Occasional Customers
+3015,12,2,3544.8,1,Loyal Customers
+3019,173,1,805.68,0,At Risk Customers
+3020,62,1,707.3,2,New / Occasional Customers
+3021,94,2,3663.0899999999997,1,Loyal Customers
+3022,153,1,3718.5,3,High-Value New Customers
+3024,141,2,2757.8900000000003,1,Loyal Customers
+3027,90,1,1859.91,2,New / Occasional Customers
+3029,61,1,3623.36,3,High-Value New Customers
+3030,29,1,836.96,2,New / Occasional Customers
+3036,13,2,3871.66,1,Loyal Customers
+3038,31,1,1149.52,2,New / Occasional Customers
+3045,15,1,1281.66,2,New / Occasional Customers
+3046,14,1,1960.17,2,New / Occasional Customers
+3048,90,1,354.54,2,New / Occasional Customers
+3049,59,2,2610.6,1,Loyal Customers
+3052,180,3,6955.42,4,Champions
+3057,111,1,2733.19,3,High-Value New Customers
+3059,87,1,913.98,2,New / Occasional Customers
+3061,12,1,3134.76,3,High-Value New Customers
+3065,167,1,1164.46,0,At Risk Customers
+3067,250,1,1071.75,0,At Risk Customers
+3068,69,1,887.56,2,New / Occasional Customers
+3069,52,1,676.4,2,New / Occasional Customers
+3071,136,1,1649.41,2,New / Occasional Customers
+3072,51,2,4101.24,1,Loyal Customers
+3073,141,1,4979.55,3,High-Value New Customers
+3077,40,1,2031.59,2,New / Occasional Customers
+3078,114,1,224.83,2,New / Occasional Customers
+3079,132,1,3527.74,3,High-Value New Customers
+3081,7,1,1658.87,2,New / Occasional Customers
+3087,81,2,967.83,1,Loyal Customers
+3088,344,1,246.29,0,At Risk Customers
+3090,64,1,734.66,2,New / Occasional Customers
+3092,82,2,7062.03,4,Champions
+3094,50,1,2375.11,2,New / Occasional Customers
+3101,339,1,1956.67,0,At Risk Customers
+3105,157,1,821.18,0,At Risk Customers
+3106,93,1,2749.36,3,High-Value New Customers
+3107,193,1,1754.48,0,At Risk Customers
+3111,91,1,169.29,2,New / Occasional Customers
+3113,102,1,1879.1,2,New / Occasional Customers
+3116,17,2,2318.0699999999997,1,Loyal Customers
+3117,50,1,1065.5,2,New / Occasional Customers
+3118,85,2,2332.74,1,Loyal Customers
+3119,29,2,4961.79,1,Loyal Customers
+3121,31,2,4383.87,1,Loyal Customers
+3122,39,1,2434.09,2,New / Occasional Customers
+3123,82,1,403.01,2,New / Occasional Customers
+3124,98,1,240.26,2,New / Occasional Customers
+3126,1,1,724.99,2,New / Occasional Customers
+3128,161,3,2478.08,1,Loyal Customers
+3129,27,1,2074.68,2,New / Occasional Customers
+3131,34,1,881.86,2,New / Occasional Customers
+3133,49,1,1733.53,2,New / Occasional Customers
+3134,120,1,604.0,2,New / Occasional Customers
+3135,26,2,1976.2,1,Loyal Customers
+3137,86,1,3071.68,3,High-Value New Customers
+3139,148,1,2161.92,0,At Risk Customers
+3140,19,2,3433.88,1,Loyal Customers
+3141,36,1,893.18,2,New / Occasional Customers
+3142,188,2,965.03,0,At Risk Customers
+3144,194,1,2964.06,0,At Risk Customers
+3145,56,1,2348.29,2,New / Occasional Customers
+3150,120,1,351.11,2,New / Occasional Customers
+3151,10,1,3652.0,3,High-Value New Customers
+3155,2,1,257.28,2,New / Occasional Customers
+3160,32,1,825.21,2,New / Occasional Customers
+3162,22,2,5189.4400000000005,1,Loyal Customers
+3166,20,1,165.26,2,New / Occasional Customers
+3170,6,1,1152.64,2,New / Occasional Customers
+3173,61,1,1159.81,2,New / Occasional Customers
+3176,1,1,1004.96,2,New / Occasional Customers
+3180,230,1,119.71,0,At Risk Customers
+3182,8,1,1050.62,2,New / Occasional Customers
+3183,62,1,401.2,2,New / Occasional Customers
+3184,72,1,1203.93,2,New / Occasional Customers
+3188,48,2,2043.6399999999999,1,Loyal Customers
+3189,185,1,653.14,0,At Risk Customers
+3191,82,2,4114.66,1,Loyal Customers
+3192,22,2,3772.46,1,Loyal Customers
+3193,281,2,6477.18,0,At Risk Customers
+3196,162,1,796.46,0,At Risk Customers
+3197,94,1,2187.33,2,New / Occasional Customers
+3199,173,1,113.04,0,At Risk Customers
+3200,46,3,4233.42,4,Champions
+3202,120,1,1859.47,2,New / Occasional Customers
+3203,11,1,438.66,2,New / Occasional Customers
+3204,191,1,3017.0,0,At Risk Customers
+3205,117,1,2309.84,2,New / Occasional Customers
+3206,65,1,2005.05,2,New / Occasional Customers
+3207,235,2,7242.75,4,Champions
+3211,42,1,5794.96,3,High-Value New Customers
+3213,39,2,3030.91,1,Loyal Customers
+3214,133,1,634.7,2,New / Occasional Customers
+3216,171,1,2933.06,0,At Risk Customers
+3218,111,1,4502.4,3,High-Value New Customers
+3221,77,2,3051.3599999999997,1,Loyal Customers
+3222,130,1,2717.68,3,High-Value New Customers
+3225,40,3,4888.14,4,Champions
+3228,104,1,1034.3,2,New / Occasional Customers
+3229,76,1,2260.08,2,New / Occasional Customers
+3237,109,1,1911.91,2,New / Occasional Customers
+3238,203,1,3150.44,0,At Risk Customers
+3239,270,1,3147.62,0,At Risk Customers
+3240,39,2,5949.87,4,Champions
+3241,177,1,1005.99,0,At Risk Customers
+3243,128,1,993.0,2,New / Occasional Customers
+3244,181,1,1171.08,0,At Risk Customers
+3245,6,2,5923.93,4,Champions
+3247,91,1,997.77,2,New / Occasional Customers
+3251,170,1,1336.07,0,At Risk Customers
+3252,71,2,2312.12,1,Loyal Customers
+3253,57,2,1151.15,1,Loyal Customers
+3258,70,1,4411.99,3,High-Value New Customers
+3259,107,1,533.81,2,New / Occasional Customers
+3263,9,2,4747.86,1,Loyal Customers
+3267,19,1,798.8,2,New / Occasional Customers
+3273,49,1,423.2,2,New / Occasional Customers
+3277,3,2,2710.45,1,Loyal Customers
+3279,95,1,240.42,2,New / Occasional Customers
+3280,75,1,386.38,2,New / Occasional Customers
+3281,36,1,644.69,2,New / Occasional Customers
+3282,127,1,2087.93,2,New / Occasional Customers
+3283,45,1,4274.84,3,High-Value New Customers
+3284,97,1,2739.08,3,High-Value New Customers
+3285,82,1,1263.83,2,New / Occasional Customers
+3287,57,1,147.91,2,New / Occasional Customers
+3291,57,2,5370.21,4,Champions
+3292,33,1,1468.34,2,New / Occasional Customers
+3293,102,1,521.76,2,New / Occasional Customers
+3296,81,1,625.81,2,New / Occasional Customers
+3300,93,3,4454.7300000000005,4,Champions
+3301,27,1,3925.78,3,High-Value New Customers
+3307,192,1,1220.33,0,At Risk Customers
+3310,108,2,5221.030000000001,1,Loyal Customers
+3311,24,1,685.27,2,New / Occasional Customers
+3315,83,1,2191.24,2,New / Occasional Customers
+3316,100,1,137.74,2,New / Occasional Customers
+3318,72,1,3604.26,3,High-Value New Customers
+3320,82,1,2607.94,3,High-Value New Customers
+3322,7,2,1001.37,1,Loyal Customers
+3326,42,3,3405.75,1,Loyal Customers
+3332,139,1,1074.4,2,New / Occasional Customers
+3333,1,1,1789.48,2,New / Occasional Customers
+3334,132,1,59.89,2,New / Occasional Customers
+3336,110,1,705.1,2,New / Occasional Customers
+3338,154,1,492.48,0,At Risk Customers
+3339,201,1,721.76,0,At Risk Customers
+3342,3,1,5903.34,3,High-Value New Customers
+3343,17,1,910.42,2,New / Occasional Customers
+3344,18,1,505.66,2,New / Occasional Customers
+3345,144,1,600.6,2,New / Occasional Customers
+3346,94,1,3470.25,3,High-Value New Customers
+3347,107,1,1242.62,2,New / Occasional Customers
+3350,62,2,1715.62,1,Loyal Customers
+3352,35,1,3358.76,3,High-Value New Customers
+3357,343,1,1420.48,0,At Risk Customers
+3358,34,1,4474.89,3,High-Value New Customers
+3361,67,1,2519.24,2,New / Occasional Customers
+3362,103,1,279.9,2,New / Occasional Customers
+3366,17,2,2239.67,1,Loyal Customers
+3368,38,1,394.78,2,New / Occasional Customers
+3374,13,2,2421.4700000000003,1,Loyal Customers
+3375,67,1,856.0,2,New / Occasional Customers
+3376,131,1,1505.65,2,New / Occasional Customers
+3377,343,1,6388.2,0,At Risk Customers
+3381,81,2,969.0799999999999,1,Loyal Customers
+3382,46,1,391.84,2,New / Occasional Customers
+3383,20,2,5576.62,4,Champions
+3384,78,1,251.7,2,New / Occasional Customers
+3386,13,2,4699.51,1,Loyal Customers
+3387,125,1,3658.96,3,High-Value New Customers
+3391,50,1,2749.4,3,High-Value New Customers
+3392,26,1,372.63,2,New / Occasional Customers
+3393,76,1,3370.34,3,High-Value New Customers
+3394,181,1,196.74,0,At Risk Customers
+3398,51,1,3165.84,3,High-Value New Customers
+3402,15,4,4704.38,4,Champions
+3403,90,2,6197.36,4,Champions
+3404,29,1,1355.7,2,New / Occasional Customers
+3405,17,1,1821.53,2,New / Occasional Customers
+3406,167,1,1057.37,0,At Risk Customers
+3407,52,2,1278.8899999999999,1,Loyal Customers
+3409,66,2,1790.9299999999998,1,Loyal Customers
+3412,51,2,6989.15,4,Champions
+3414,229,1,592.12,0,At Risk Customers
+3415,17,1,961.2,2,New / Occasional Customers
+3418,59,1,638.0,2,New / Occasional Customers
+3419,29,2,3938.33,1,Loyal Customers
+3420,135,1,2290.18,2,New / Occasional Customers
+3422,123,1,1727.88,2,New / Occasional Customers
+3423,202,1,207.01,0,At Risk Customers
+3424,72,1,3025.64,3,High-Value New Customers
+3425,106,2,1945.23,1,Loyal Customers
+3432,189,2,4211.07,1,Loyal Customers
+3434,63,1,648.62,2,New / Occasional Customers
+3435,289,1,1218.84,0,At Risk Customers
+3436,129,2,2152.7,1,Loyal Customers
+3437,27,2,3057.62,1,Loyal Customers
+3438,157,3,4428.71,4,Champions
+3439,39,1,920.65,2,New / Occasional Customers
+3440,59,1,3063.96,3,High-Value New Customers
+3441,10,3,10079.25,4,Champions
+3444,139,1,356.44,2,New / Occasional Customers
+3448,44,1,2963.9,3,High-Value New Customers
+3449,35,1,1049.52,2,New / Occasional Customers
+3452,162,1,886.34,0,At Risk Customers
+3453,214,1,405.05,0,At Risk Customers
+3456,24,3,2437.7,1,Loyal Customers
+3457,51,1,2720.07,3,High-Value New Customers
+3458,45,1,3372.98,3,High-Value New Customers
+3460,91,1,727.54,2,New / Occasional Customers
+3461,89,1,442.26,2,New / Occasional Customers
+3462,76,2,3136.1400000000003,1,Loyal Customers
+3465,176,1,2744.0,0,At Risk Customers
+3466,123,1,4520.0,3,High-Value New Customers
+3467,3,1,3949.23,3,High-Value New Customers
+3473,2,4,4706.65,4,Champions
+3474,60,1,1513.84,2,New / Occasional Customers
+3475,211,1,257.44,0,At Risk Customers
+3481,142,1,174.59,2,New / Occasional Customers
+3482,130,1,2203.12,2,New / Occasional Customers
+3483,84,1,3297.71,3,High-Value New Customers
+3486,251,1,5275.04,0,At Risk Customers
+3488,105,1,2360.82,2,New / Occasional Customers
+3493,26,1,1731.48,2,New / Occasional Customers
+3499,186,1,250.58,0,At Risk Customers
+3502,2,1,1859.06,2,New / Occasional Customers
+3503,130,1,305.54,2,New / Occasional Customers
+3507,12,1,2470.9,2,New / Occasional Customers
+3508,44,1,436.31,2,New / Occasional Customers
+3510,55,1,273.54,2,New / Occasional Customers
+3513,7,3,1897.7,1,Loyal Customers
+3514,16,1,2836.86,3,High-Value New Customers
+3515,118,1,2332.66,2,New / Occasional Customers
+3520,8,1,2173.56,2,New / Occasional Customers
+3521,6,1,516.03,2,New / Occasional Customers
+3523,148,1,2151.97,0,At Risk Customers
+3524,8,1,2757.08,3,High-Value New Customers
+3528,36,1,3108.08,3,High-Value New Customers
+3531,51,1,296.31,2,New / Occasional Customers
+3534,24,2,4984.02,1,Loyal Customers
+3535,56,2,3622.63,1,Loyal Customers
+3537,37,2,3244.62,1,Loyal Customers
+3539,12,1,1041.32,2,New / Occasional Customers
+3541,164,1,1572.76,0,At Risk Customers
+3543,57,3,6348.01,4,Champions
+3544,62,2,1812.22,1,Loyal Customers
+3545,48,1,2429.0,2,New / Occasional Customers
+3550,138,1,6604.36,3,High-Value New Customers
+3551,9,2,5448.4,4,Champions
+3555,21,1,3296.3,3,High-Value New Customers
+3558,9,2,3705.1299999999997,1,Loyal Customers
+3559,30,2,5479.88,4,Champions
+3560,1,1,576.52,2,New / Occasional Customers
+3561,133,1,254.86,2,New / Occasional Customers
+3562,5,1,3824.88,3,High-Value New Customers
+3565,1,1,848.64,2,New / Occasional Customers
+3566,29,1,1955.35,2,New / Occasional Customers
+3567,9,1,694.84,2,New / Occasional Customers
+3571,66,1,1518.45,2,New / Occasional Customers
+3573,9,1,2340.42,2,New / Occasional Customers
+3575,45,1,735.45,2,New / Occasional Customers
+3576,7,1,1079.81,2,New / Occasional Customers
+3577,1,1,2658.4,2,New / Occasional Customers
+3578,195,1,1727.02,0,At Risk Customers
+3580,46,1,1473.45,2,New / Occasional Customers
+3581,14,2,2547.36,1,Loyal Customers
+3582,57,1,1015.69,2,New / Occasional Customers
+3584,256,1,478.91,0,At Risk Customers
+3586,3,1,3007.06,3,High-Value New Customers
+3590,26,1,996.11,2,New / Occasional Customers
+3592,117,1,263.01,2,New / Occasional Customers
+3593,10,3,3994.54,4,Champions
+3594,10,1,839.79,2,New / Occasional Customers
+3595,158,1,544.64,0,At Risk Customers
+3597,21,2,2591.53,1,Loyal Customers
+3598,69,1,940.04,2,New / Occasional Customers
+3599,13,1,187.98,2,New / Occasional Customers
+3600,117,2,1794.19,1,Loyal Customers
+3605,180,1,341.07,0,At Risk Customers
+3608,7,1,620.78,2,New / Occasional Customers
+3609,94,2,3116.0299999999997,1,Loyal Customers
+3613,312,2,5662.04,0,At Risk Customers
+3617,119,1,2846.45,3,High-Value New Customers
+3619,6,2,3243.06,1,Loyal Customers
+3621,109,2,6670.0,4,Champions
+3622,8,1,224.89,2,New / Occasional Customers
+3623,70,1,3065.9,3,High-Value New Customers
+3624,212,1,168.82,0,At Risk Customers
+3626,49,1,1101.24,2,New / Occasional Customers
+3627,82,1,4768.74,3,High-Value New Customers
+3629,268,1,4764.84,0,At Risk Customers
+3630,19,2,9547.78,4,Champions
+3632,124,1,1977.56,2,New / Occasional Customers
+3634,75,1,317.66,2,New / Occasional Customers
+3635,88,1,1303.14,2,New / Occasional Customers
+3638,19,3,9572.16,4,Champions
+3639,101,2,6934.1900000000005,4,Champions
+3640,15,1,640.66,2,New / Occasional Customers
+3642,131,2,3481.49,1,Loyal Customers
+3645,8,2,11806.82,4,Champions
+3647,124,1,1677.22,2,New / Occasional Customers
+3649,76,1,3040.89,3,High-Value New Customers
+3651,42,1,317.03,2,New / Occasional Customers
+3654,29,1,3644.12,3,High-Value New Customers
+3656,70,2,2618.1800000000003,1,Loyal Customers
+3657,40,1,2605.69,2,New / Occasional Customers
+3658,156,3,4867.0,4,Champions
+3660,6,1,747.12,2,New / Occasional Customers
+3661,63,1,947.05,2,New / Occasional Customers
+3662,32,1,6559.04,3,High-Value New Customers
+3665,190,2,7405.12,4,Champions
+3666,15,2,1620.78,1,Loyal Customers
+3667,55,1,1210.41,2,New / Occasional Customers
+3669,234,1,962.27,0,At Risk Customers
+3672,50,1,559.71,2,New / Occasional Customers
+3676,251,1,1690.0,0,At Risk Customers
+3680,13,2,3406.58,1,Loyal Customers
+3681,128,1,3297.92,3,High-Value New Customers
+3682,17,1,2922.6,3,High-Value New Customers
+3686,77,1,1174.43,2,New / Occasional Customers
+3688,43,1,504.6,2,New / Occasional Customers
+3690,204,1,5307.62,0,At Risk Customers
+3691,37,2,1492.97,1,Loyal Customers
+3693,56,1,3024.68,3,High-Value New Customers
+3697,50,1,2325.48,2,New / Occasional Customers
+3699,79,1,318.05,2,New / Occasional Customers
+3701,90,1,542.49,2,New / Occasional Customers
+3705,136,1,232.75,2,New / Occasional Customers
+3706,64,1,1081.96,2,New / Occasional Customers
+3711,85,1,202.3,2,New / Occasional Customers
+3713,73,1,1173.89,2,New / Occasional Customers
+3715,37,2,5040.16,1,Loyal Customers
+3716,59,1,1167.95,2,New / Occasional Customers
+3717,46,1,701.42,2,New / Occasional Customers
+3718,44,2,1744.21,1,Loyal Customers
+3720,55,2,3747.54,1,Loyal Customers
+3722,53,1,3429.88,3,High-Value New Customers
+3725,207,1,676.94,0,At Risk Customers
+3726,18,1,6909.44,3,High-Value New Customers
+3727,189,1,2799.69,0,At Risk Customers
+3728,115,1,254.29,2,New / Occasional Customers
+3732,16,1,1229.92,2,New / Occasional Customers
+3733,225,1,807.14,0,At Risk Customers
+3735,123,1,110.17,2,New / Occasional Customers
+3741,27,3,6094.389999999999,4,Champions
+3742,26,1,1125.14,2,New / Occasional Customers
+3745,59,1,896.08,2,New / Occasional Customers
+3746,76,2,9284.9,4,Champions
+3750,85,1,650.18,2,New / Occasional Customers
+3751,60,1,2637.54,3,High-Value New Customers
+3752,73,2,3028.48,1,Loyal Customers
+3753,11,1,569.7,2,New / Occasional Customers
+3754,38,1,623.83,2,New / Occasional Customers
+3761,1,2,2952.99,1,Loyal Customers
+3763,61,1,915.39,2,New / Occasional Customers
+3765,38,2,2730.73,1,Loyal Customers
+3767,186,3,7697.549999999999,4,Champions
+3768,23,1,2236.3,2,New / Occasional Customers
+3769,45,2,1289.6499999999999,1,Loyal Customers
+3772,4,1,674.32,2,New / Occasional Customers
+3773,175,1,437.63,0,At Risk Customers
+3774,223,1,2699.41,0,At Risk Customers
+3775,110,2,4084.83,1,Loyal Customers
+3777,177,2,3038.35,1,Loyal Customers
+3779,75,1,2386.57,2,New / Occasional Customers
+3783,47,1,604.38,2,New / Occasional Customers
+3784,86,2,1658.4,1,Loyal Customers
+3788,144,1,929.44,2,New / Occasional Customers
+3790,235,1,1459.87,0,At Risk Customers
+3792,168,2,3030.7200000000003,1,Loyal Customers
+3793,6,3,3480.98,1,Loyal Customers
+3796,307,1,2238.27,0,At Risk Customers
+3798,159,1,205.98,0,At Risk Customers
+3799,58,2,6810.64,4,Champions
+3801,315,1,821.75,0,At Risk Customers
+3802,8,1,2927.54,3,High-Value New Customers
+3803,142,2,3018.73,1,Loyal Customers
+3804,198,1,1918.85,0,At Risk Customers
+3806,8,2,3081.5,1,Loyal Customers
+3812,126,2,2872.67,1,Loyal Customers
+3813,27,1,744.09,2,New / Occasional Customers
+3816,146,1,3193.45,3,High-Value New Customers
+3818,44,1,3395.26,3,High-Value New Customers
+3821,48,2,2830.43,1,Loyal Customers
+3822,28,1,505.58,2,New / Occasional Customers
+3823,72,1,2194.52,2,New / Occasional Customers
+3824,49,3,3904.47,1,Loyal Customers
+3827,47,3,6372.849999999999,4,Champions
+3828,238,1,950.18,0,At Risk Customers
+3829,83,1,564.28,2,New / Occasional Customers
+3830,22,1,1358.58,2,New / Occasional Customers
+3831,12,1,7265.12,3,High-Value New Customers
+3832,131,1,6699.59,3,High-Value New Customers
+3833,68,1,5109.3,3,High-Value New Customers
+3834,69,1,968.5,2,New / Occasional Customers
+3835,122,1,3122.06,3,High-Value New Customers
+3839,103,1,903.92,2,New / Occasional Customers
+3844,53,1,2859.8,3,High-Value New Customers
+3845,34,2,2819.12,1,Loyal Customers
+3846,96,1,1652.19,2,New / Occasional Customers
+3847,87,1,4909.18,3,High-Value New Customers
+3848,116,2,5083.42,1,Loyal Customers
+3849,172,1,2315.04,0,At Risk Customers
+3850,121,1,3675.3,3,High-Value New Customers
+3851,167,1,2101.57,0,At Risk Customers
+3852,184,1,1110.02,0,At Risk Customers
+3854,27,1,652.25,2,New / Occasional Customers
+3857,2,1,2698.49,2,New / Occasional Customers
+3858,126,1,1594.4,2,New / Occasional Customers
+3860,176,1,2441.37,0,At Risk Customers
+3861,138,1,470.39,2,New / Occasional Customers
+3862,151,1,3433.82,3,High-Value New Customers
+3863,194,1,244.54,0,At Risk Customers
+3870,143,1,6415.09,3,High-Value New Customers
+3872,80,1,3073.8,3,High-Value New Customers
+3874,46,1,1674.7,2,New / Occasional Customers
+3876,125,1,4145.45,3,High-Value New Customers
+3880,316,1,461.33,0,At Risk Customers
+3881,107,1,4236.88,3,High-Value New Customers
+3883,44,2,4394.8,1,Loyal Customers
+3884,26,1,4545.56,3,High-Value New Customers
+3885,102,1,3134.36,3,High-Value New Customers
+3886,133,1,2776.48,3,High-Value New Customers
+3887,97,1,4259.91,3,High-Value New Customers
+3888,125,2,1600.38,1,Loyal Customers
+3889,231,1,1150.2,0,At Risk Customers
+3890,100,1,3330.18,3,High-Value New Customers
+3891,18,1,1779.52,2,New / Occasional Customers
+3892,73,2,2469.43,1,Loyal Customers
+3893,9,1,413.16,2,New / Occasional Customers
+3894,219,1,4068.51,0,At Risk Customers
+3897,13,2,1052.3000000000002,1,Loyal Customers
+3907,145,2,2540.27,1,Loyal Customers
+3908,229,1,1345.32,0,At Risk Customers
+3909,111,1,3640.35,3,High-Value New Customers
+3910,172,2,2581.38,1,Loyal Customers
+3914,141,1,4176.51,3,High-Value New Customers
+3915,114,1,1288.01,2,New / Occasional Customers
+3916,202,1,2369.47,0,At Risk Customers
+3918,15,1,1907.28,2,New / Occasional Customers
+3920,129,1,1047.76,2,New / Occasional Customers
+3921,98,1,1324.54,2,New / Occasional Customers
+3922,149,1,1124.12,0,At Risk Customers
+3923,54,1,318.92,2,New / Occasional Customers
+3924,8,2,2837.02,1,Loyal Customers
+3927,65,2,8560.119999999999,4,Champions
+3928,269,1,490.16,0,At Risk Customers
+3930,116,1,1088.14,2,New / Occasional Customers
+3931,19,1,1234.71,2,New / Occasional Customers
+3933,21,1,1443.76,2,New / Occasional Customers
+3934,137,3,5505.83,4,Champions
+3935,114,1,6430.12,3,High-Value New Customers
+3936,39,2,1458.47,1,Loyal Customers
+3937,212,1,464.54,0,At Risk Customers
+3938,38,1,3931.06,3,High-Value New Customers
+3939,114,1,4369.58,3,High-Value New Customers
+3941,24,1,1630.36,2,New / Occasional Customers
+3942,7,1,730.25,2,New / Occasional Customers
+3943,54,1,1311.95,2,New / Occasional Customers
+3944,121,1,683.05,2,New / Occasional Customers
+3945,284,1,427.77,0,At Risk Customers
+3947,172,1,543.58,0,At Risk Customers
+3948,205,1,2062.9,0,At Risk Customers
+3950,34,2,9031.64,4,Champions
+3956,208,1,378.45,0,At Risk Customers
+3961,62,1,862.45,2,New / Occasional Customers
+3962,44,2,3816.76,1,Loyal Customers
+3964,186,1,404.17,0,At Risk Customers
+3966,144,2,4789.88,1,Loyal Customers
+3967,72,1,680.25,2,New / Occasional Customers
+3968,130,1,199.8,2,New / Occasional Customers
+3970,30,1,1755.35,2,New / Occasional Customers
+3973,59,2,1321.01,1,Loyal Customers
+3975,111,1,1413.24,2,New / Occasional Customers
+3976,196,2,6368.5599999999995,4,Champions
+3978,13,1,1462.08,2,New / Occasional Customers
+3979,96,1,1357.1,2,New / Occasional Customers
+3980,207,2,5666.77,4,Champions
+3982,52,1,2393.76,2,New / Occasional Customers
+3985,123,1,2319.93,2,New / Occasional Customers
+3988,47,2,4183.2,1,Loyal Customers
+3989,89,2,4387.52,1,Loyal Customers
+3990,11,1,911.58,2,New / Occasional Customers
+3991,142,1,2342.56,0,At Risk Customers
+3992,3,1,337.88,2,New / Occasional Customers
+3999,24,1,2157.54,2,New / Occasional Customers
+4003,337,1,899.28,0,At Risk Customers
+4004,186,3,11708.76,4,Champions
+4007,62,1,2343.08,2,New / Occasional Customers
+4009,130,1,4003.56,3,High-Value New Customers
+4012,274,1,3915.48,0,At Risk Customers
+4013,13,2,1972.88,1,Loyal Customers
+4015,277,1,1574.48,0,At Risk Customers
+4017,45,1,1952.4,2,New / Occasional Customers
+4018,96,1,249.86,2,New / Occasional Customers
+4019,3,3,6437.1900000000005,4,Champions
+4021,336,1,52.83,0,At Risk Customers
+4024,6,1,2207.74,2,New / Occasional Customers
+4026,31,2,1639.45,1,Loyal Customers
+4027,2,1,1179.36,2,New / Occasional Customers
+4028,117,2,5048.360000000001,1,Loyal Customers
+4029,207,1,1469.52,0,At Risk Customers
+4034,238,1,571.17,0,At Risk Customers
+4037,4,1,664.41,2,New / Occasional Customers
+4043,49,1,2557.87,2,New / Occasional Customers
+4049,187,1,1857.63,0,At Risk Customers
+4050,53,1,556.25,2,New / Occasional Customers
+4052,50,1,1791.86,2,New / Occasional Customers
+4053,46,1,741.15,2,New / Occasional Customers
+4054,76,2,1499.75,1,Loyal Customers
+4056,1,1,1388.4,2,New / Occasional Customers
+4057,43,3,1832.0,1,Loyal Customers
+4059,150,2,4818.08,1,Loyal Customers
+4060,4,1,1658.27,2,New / Occasional Customers
+4061,130,1,3396.89,3,High-Value New Customers
+4062,61,1,1836.99,2,New / Occasional Customers
+4065,188,1,1786.8,0,At Risk Customers
+4067,17,1,3567.62,3,High-Value New Customers
+4070,27,1,6676.36,3,High-Value New Customers
+4071,26,2,2540.1,1,Loyal Customers
+4072,72,1,3269.61,3,High-Value New Customers
+4074,61,1,1346.17,2,New / Occasional Customers
+4077,48,1,210.68,2,New / Occasional Customers
+4079,41,2,3955.5099999999998,1,Loyal Customers
+4080,17,1,4065.77,3,High-Value New Customers
+4083,14,5,8232.84,4,Champions
+4085,37,1,3217.4,3,High-Value New Customers
+4087,22,1,741.99,2,New / Occasional Customers
+4089,57,1,5932.46,3,High-Value New Customers
+4090,261,1,1444.09,0,At Risk Customers
+4092,168,1,3916.67,3,High-Value New Customers
+4094,114,1,588.27,2,New / Occasional Customers
+4096,33,1,4301.07,3,High-Value New Customers
+4098,87,1,5001.84,3,High-Value New Customers
+4099,153,1,2414.06,0,At Risk Customers
+4104,61,2,4315.97,1,Loyal Customers
+4105,137,2,4288.38,1,Loyal Customers
+4108,39,1,1312.99,2,New / Occasional Customers
+4118,20,1,2096.38,2,New / Occasional Customers
+4122,97,2,3769.7599999999998,1,Loyal Customers
+4124,180,1,1192.32,0,At Risk Customers
+4130,10,2,3697.2200000000003,1,Loyal Customers
+4131,46,1,607.71,2,New / Occasional Customers
+4132,51,1,1157.08,2,New / Occasional Customers
+4136,95,2,1630.75,1,Loyal Customers
+4138,24,2,2299.74,1,Loyal Customers
+4139,261,1,1271.76,0,At Risk Customers
+4140,135,1,3213.84,3,High-Value New Customers
+4143,8,1,3290.92,3,High-Value New Customers
+4145,34,1,1245.78,2,New / Occasional Customers
+4146,62,1,6681.54,3,High-Value New Customers
+4148,149,1,1473.2,0,At Risk Customers
+4150,43,1,1815.75,2,New / Occasional Customers
+4152,30,2,8320.56,4,Champions
+4153,118,1,1728.76,2,New / Occasional Customers
+4158,124,1,596.49,2,New / Occasional Customers
+4161,64,1,5184.08,3,High-Value New Customers
+4162,24,3,8425.67,4,Champions
+4164,9,1,542.22,2,New / Occasional Customers
+4165,54,1,3750.87,3,High-Value New Customers
+4167,18,2,868.72,1,Loyal Customers
+4168,28,2,6306.76,4,Champions
+4169,109,3,3673.29,1,Loyal Customers
+4170,176,1,2308.1,0,At Risk Customers
+4175,27,1,4287.3,3,High-Value New Customers
+4176,60,1,496.25,2,New / Occasional Customers
+4177,263,1,2418.4,0,At Risk Customers
+4178,4,1,1395.26,2,New / Occasional Customers
+4179,294,2,2921.35,0,At Risk Customers
+4180,35,1,1669.84,2,New / Occasional Customers
+4184,54,1,1930.11,2,New / Occasional Customers
+4185,360,1,5984.71,0,At Risk Customers
+4187,86,2,4956.900000000001,1,Loyal Customers
+4190,49,2,2516.34,1,Loyal Customers
+4192,44,2,2515.1,1,Loyal Customers
+4193,14,1,2965.89,3,High-Value New Customers
+4195,105,1,1201.96,2,New / Occasional Customers
+4199,17,1,7250.68,3,High-Value New Customers
+4203,5,1,1047.03,2,New / Occasional Customers
+4205,84,1,926.28,2,New / Occasional Customers
+4209,186,1,1557.32,0,At Risk Customers
+4210,105,1,462.73,2,New / Occasional Customers
+4211,77,1,2203.68,2,New / Occasional Customers
+4212,230,1,1973.96,0,At Risk Customers
+4213,279,1,688.26,0,At Risk Customers
+4215,164,1,3273.55,0,At Risk Customers
+4218,132,2,2586.7,1,Loyal Customers
+4219,83,1,868.6,2,New / Occasional Customers
+4221,23,1,1375.28,2,New / Occasional Customers
+4223,13,1,302.58,2,New / Occasional Customers
+4226,71,1,3746.3,3,High-Value New Customers
+4227,146,1,3564.21,3,High-Value New Customers
+4228,260,1,977.43,0,At Risk Customers
+4229,109,1,1200.71,2,New / Occasional Customers
+4234,36,1,636.91,2,New / Occasional Customers
+4236,22,1,3526.62,3,High-Value New Customers
+4237,24,1,509.78,2,New / Occasional Customers
+4238,82,3,7986.4,4,Champions
+4240,126,1,2616.22,3,High-Value New Customers
+4242,300,1,1817.49,0,At Risk Customers
+4243,164,2,4260.97,1,Loyal Customers
+4244,40,1,2282.56,2,New / Occasional Customers
+4245,59,3,1619.72,1,Loyal Customers
+4246,102,1,1663.83,2,New / Occasional Customers
+4247,124,1,1152.74,2,New / Occasional Customers
+4249,91,1,1963.58,2,New / Occasional Customers
+4251,27,2,5128.53,1,Loyal Customers
+4252,210,1,1997.42,0,At Risk Customers
+4254,5,4,4072.35,4,Champions
+4258,59,1,2097.84,2,New / Occasional Customers
+4262,65,1,2245.91,2,New / Occasional Customers
+4263,20,1,1729.49,2,New / Occasional Customers
+4265,106,1,6237.02,3,High-Value New Customers
+4268,8,1,2126.4,2,New / Occasional Customers
+4269,18,2,823.76,1,Loyal Customers
+4270,187,1,2175.73,0,At Risk Customers
+4272,183,1,1733.94,0,At Risk Customers
+4273,42,1,1424.13,2,New / Occasional Customers
+4278,77,1,1409.9,2,New / Occasional Customers
+4283,42,2,4764.04,1,Loyal Customers
+4285,213,1,1462.23,0,At Risk Customers
+4290,1,1,2518.56,2,New / Occasional Customers
+4292,45,1,650.52,2,New / Occasional Customers
+4294,97,1,1101.18,2,New / Occasional Customers
+4295,88,1,2481.93,2,New / Occasional Customers
+4296,241,1,4806.65,0,At Risk Customers
+4297,2,3,6885.57,4,Champions
+4299,157,1,1944.66,0,At Risk Customers
+4300,112,1,2458.92,3,High-Value New Customers
+4301,156,1,700.53,0,At Risk Customers
+4304,282,1,2436.72,0,At Risk Customers
+4307,80,2,2687.38,1,Loyal Customers
+4309,9,1,1238.01,2,New / Occasional Customers
+4310,101,2,5213.93,1,Loyal Customers
+4311,249,1,232.62,0,At Risk Customers
+4314,209,1,1841.14,0,At Risk Customers
+4315,99,1,1811.52,2,New / Occasional Customers
+4317,13,3,5285.85,4,Champions
+4318,180,2,4225.06,1,Loyal Customers
+4319,50,2,1502.8600000000001,1,Loyal Customers
+4323,58,2,1299.37,1,Loyal Customers
+4325,60,1,2445.17,2,New / Occasional Customers
+4327,145,1,994.55,0,At Risk Customers
+4330,56,3,6137.64,4,Champions
+4332,50,2,2045.28,1,Loyal Customers
+4333,128,2,731.19,1,Loyal Customers
+4334,134,2,6667.530000000001,4,Champions
+4336,276,1,5997.12,0,At Risk Customers
+4337,27,2,6784.42,4,Champions
+4338,146,2,1376.1299999999999,1,Loyal Customers
+4339,90,1,1984.44,2,New / Occasional Customers
+4340,141,2,2141.76,1,Loyal Customers
+4341,197,1,1294.19,0,At Risk Customers
+4342,41,1,2480.58,2,New / Occasional Customers
+4349,204,1,4420.73,0,At Risk Customers
+4350,246,1,3135.84,0,At Risk Customers
+4351,60,1,1947.43,2,New / Occasional Customers
+4352,171,1,2243.24,0,At Risk Customers
+4355,71,1,1341.51,2,New / Occasional Customers
+4356,184,1,844.92,0,At Risk Customers
+4359,132,1,314.25,2,New / Occasional Customers
+4360,40,3,7021.110000000001,4,Champions
+4361,82,1,238.8,2,New / Occasional Customers
+4363,139,1,1721.16,2,New / Occasional Customers
+4364,15,2,7837.120000000001,4,Champions
+4366,116,2,881.91,1,Loyal Customers
+4374,54,1,613.03,2,New / Occasional Customers
+4378,157,1,497.05,0,At Risk Customers
+4379,103,1,4067.38,3,High-Value New Customers
+4381,95,1,2339.8,2,New / Occasional Customers
+4387,61,1,1003.8,2,New / Occasional Customers
+4388,31,1,1246.36,2,New / Occasional Customers
+4390,62,2,1222.6399999999999,1,Loyal Customers
+4391,39,2,3928.09,1,Loyal Customers
+4392,25,3,2719.58,1,Loyal Customers
+4394,5,1,980.67,2,New / Occasional Customers
+4396,82,1,2756.07,3,High-Value New Customers
+4399,114,2,2117.3,1,Loyal Customers
+4405,10,2,4808.39,1,Loyal Customers
+4406,133,1,3534.66,3,High-Value New Customers
+4409,112,1,6970.42,3,High-Value New Customers
+4410,117,2,2222.85,1,Loyal Customers
+4411,14,2,1267.95,1,Loyal Customers
+4412,172,1,2063.49,0,At Risk Customers
+4413,3,1,4710.4,3,High-Value New Customers
+4419,15,1,1521.7,2,New / Occasional Customers
+4426,68,2,1065.17,1,Loyal Customers
+4427,74,1,334.12,2,New / Occasional Customers
+4430,282,1,1693.71,0,At Risk Customers
+4431,33,3,3672.6099999999997,1,Loyal Customers
+4432,29,1,1791.32,2,New / Occasional Customers
+4433,18,3,5489.330000000001,4,Champions
+4434,260,1,1345.54,0,At Risk Customers
+4438,59,1,2820.69,3,High-Value New Customers
+4442,44,2,652.86,1,Loyal Customers
+4443,65,4,6934.299999999999,4,Champions
+4444,35,2,6973.95,4,Champions
+4454,181,1,480.07,0,At Risk Customers
+4459,124,2,6336.02,4,Champions
+4464,191,1,2895.1,0,At Risk Customers
+4466,123,1,770.69,2,New / Occasional Customers
+4469,27,1,1458.63,2,New / Occasional Customers
+4472,23,1,3625.96,3,High-Value New Customers
+4473,111,1,4621.36,3,High-Value New Customers
+4474,259,1,599.22,0,At Risk Customers
+4476,2,2,1663.8899999999999,1,Loyal Customers
+4477,81,1,774.38,2,New / Occasional Customers
+4478,28,1,2363.85,2,New / Occasional Customers
+4479,5,2,8329.7,4,Champions
+4486,16,1,664.62,2,New / Occasional Customers
+4487,35,1,521.72,2,New / Occasional Customers
+4492,16,2,2056.4300000000003,1,Loyal Customers
+4493,104,1,596.07,2,New / Occasional Customers
+4495,305,1,3321.72,0,At Risk Customers
+4496,8,1,739.44,2,New / Occasional Customers
+4502,339,1,714.18,0,At Risk Customers
+4504,154,1,173.14,0,At Risk Customers
+4507,29,1,2014.81,2,New / Occasional Customers
+4509,169,1,2263.75,0,At Risk Customers
+4510,12,1,1570.05,2,New / Occasional Customers
+4512,137,1,4512.32,3,High-Value New Customers
+4514,198,2,3893.09,1,Loyal Customers
+4517,79,2,2295.0299999999997,1,Loyal Customers
+4518,40,1,1527.33,2,New / Occasional Customers
+4522,60,1,4767.7,3,High-Value New Customers
+4523,120,1,5779.32,3,High-Value New Customers
+4527,38,1,1290.7,2,New / Occasional Customers
+4529,139,2,6720.13,4,Champions
+4532,59,1,931.34,2,New / Occasional Customers
+4538,63,1,863.99,2,New / Occasional Customers
+4539,3,1,961.02,2,New / Occasional Customers
+4542,95,3,2648.98,1,Loyal Customers
+4543,32,1,800.04,2,New / Occasional Customers
+4544,146,1,2742.6,0,At Risk Customers
+4546,95,3,5091.650000000001,4,Champions
+4548,57,1,1570.77,2,New / Occasional Customers
+4554,63,2,3604.8500000000004,1,Loyal Customers
+4555,54,1,4871.5,3,High-Value New Customers
+4561,166,1,2660.36,0,At Risk Customers
+4563,240,1,639.9,0,At Risk Customers
+4564,95,3,4397.78,4,Champions
+4569,20,1,2062.38,2,New / Occasional Customers
+4571,105,2,3554.92,1,Loyal Customers
+4572,124,2,2226.78,1,Loyal Customers
+4575,12,1,6218.53,3,High-Value New Customers
+4577,99,2,2289.94,1,Loyal Customers
+4579,31,1,1203.75,2,New / Occasional Customers
+4581,154,1,3190.78,0,At Risk Customers
+4582,119,1,381.47,2,New / Occasional Customers
+4584,61,1,1095.97,2,New / Occasional Customers
+4587,8,1,3850.44,3,High-Value New Customers
+4589,209,1,383.64,0,At Risk Customers
+4590,4,1,6133.61,3,High-Value New Customers
+4591,44,1,611.71,2,New / Occasional Customers
+4595,108,2,4245.41,1,Loyal Customers
+4596,211,2,6535.43,4,Champions
+4597,314,1,3567.6,0,At Risk Customers
+4598,129,1,1289.91,2,New / Occasional Customers
+4599,211,1,184.9,0,At Risk Customers
+4600,28,1,259.79,2,New / Occasional Customers
+4604,314,1,305.32,0,At Risk Customers
+4605,38,1,873.84,2,New / Occasional Customers
+4608,123,1,5934.75,3,High-Value New Customers
+4609,220,1,1378.16,0,At Risk Customers
+4610,176,1,260.97,0,At Risk Customers
+4611,96,1,3040.3,3,High-Value New Customers
+4614,31,1,2116.93,2,New / Occasional Customers
+4618,81,1,2309.25,2,New / Occasional Customers
+4619,70,1,2335.77,2,New / Occasional Customers
+4621,39,1,2842.54,3,High-Value New Customers
+4622,135,2,4269.92,1,Loyal Customers
+4623,81,1,1094.55,2,New / Occasional Customers
+4624,299,1,2266.72,0,At Risk Customers
+4625,41,3,5667.76,4,Champions
+4629,57,1,615.47,2,New / Occasional Customers
+4631,53,4,7725.790000000001,4,Champions
+4632,242,1,4713.37,0,At Risk Customers
+4633,318,1,1445.38,0,At Risk Customers
+4634,29,1,2452.52,2,New / Occasional Customers
+4635,301,1,6233.48,0,At Risk Customers
+4636,129,1,739.65,2,New / Occasional Customers
+4638,1,2,1778.41,1,Loyal Customers
+4639,230,1,975.59,0,At Risk Customers
+4642,21,1,1548.43,2,New / Occasional Customers
+4643,33,1,483.06,2,New / Occasional Customers
+4647,206,1,595.87,0,At Risk Customers
+4648,284,1,2733.66,0,At Risk Customers
+4649,249,2,1861.74,0,At Risk Customers
+4653,81,1,387.64,2,New / Occasional Customers
+4654,176,1,921.82,0,At Risk Customers
+4657,300,1,3754.47,0,At Risk Customers
+4660,98,1,1366.91,2,New / Occasional Customers
+4665,60,1,2427.4,2,New / Occasional Customers
+4670,113,1,866.48,2,New / Occasional Customers
+4674,49,2,898.15,1,Loyal Customers
+4676,32,1,745.51,2,New / Occasional Customers
+4677,6,1,4654.66,3,High-Value New Customers
+4680,92,1,205.97,2,New / Occasional Customers
+4687,111,1,914.64,2,New / Occasional Customers
+4688,135,2,8653.130000000001,4,Champions
+4692,5,2,4754.51,1,Loyal Customers
+4693,71,1,164.45,2,New / Occasional Customers
+4694,126,1,276.81,2,New / Occasional Customers
+4703,66,1,1713.57,2,New / Occasional Customers
+4704,21,1,2722.9,3,High-Value New Customers
+4705,71,1,2530.89,2,New / Occasional Customers
+4706,115,1,1093.93,2,New / Occasional Customers
+4707,118,1,1013.44,2,New / Occasional Customers
+4709,9,1,2622.78,2,New / Occasional Customers
+4710,13,1,794.66,2,New / Occasional Customers
+4711,16,1,244.78,2,New / Occasional Customers
+4714,14,2,4254.76,1,Loyal Customers
+4716,153,2,1149.72,1,Loyal Customers
+4720,155,1,858.28,0,At Risk Customers
+4721,61,2,4242.63,1,Loyal Customers
+4725,124,2,6865.23,4,Champions
+4726,21,1,1633.54,2,New / Occasional Customers
+4727,238,1,998.24,0,At Risk Customers
+4728,66,1,6321.76,3,High-Value New Customers
+4730,146,1,902.54,0,At Risk Customers
+4731,259,1,1767.68,0,At Risk Customers
+4732,12,1,1245.51,2,New / Occasional Customers
+4733,96,1,2331.11,2,New / Occasional Customers
+4735,17,1,1084.0,2,New / Occasional Customers
+4740,14,1,1905.8,2,New / Occasional Customers
+4741,109,1,2471.74,3,High-Value New Customers
+4744,49,1,1725.16,2,New / Occasional Customers
+4745,102,1,183.36,2,New / Occasional Customers
+4747,49,2,2332.3900000000003,1,Loyal Customers
+4749,106,2,1955.46,1,Loyal Customers
+4750,2,1,4305.24,3,High-Value New Customers
+4752,47,1,2768.64,3,High-Value New Customers
+4753,42,1,3126.12,3,High-Value New Customers
+4764,43,1,751.09,2,New / Occasional Customers
+4766,11,2,885.63,1,Loyal Customers
+4770,126,2,942.8,1,Loyal Customers
+4774,90,1,786.74,2,New / Occasional Customers
+4780,32,2,3309.3,1,Loyal Customers
+4786,157,3,5536.85,4,Champions
+4787,11,1,7657.8,3,High-Value New Customers
+4789,16,1,273.35,2,New / Occasional Customers
+4796,79,1,735.32,2,New / Occasional Customers
+4797,222,1,1116.86,0,At Risk Customers
+4798,53,2,9076.93,4,Champions
+4800,123,1,1995.76,2,New / Occasional Customers
+4804,135,2,1535.82,1,Loyal Customers
+4805,42,1,792.16,2,New / Occasional Customers
+4809,186,1,3851.35,0,At Risk Customers
+4810,165,2,1880.1,1,Loyal Customers
+4811,68,1,1429.28,2,New / Occasional Customers
+4813,4,1,3862.44,3,High-Value New Customers
+4814,221,1,1264.95,0,At Risk Customers
+4816,222,1,6170.93,0,At Risk Customers
+4818,16,4,6372.86,4,Champions
+4819,25,1,1279.72,2,New / Occasional Customers
+4820,106,1,2950.38,3,High-Value New Customers
+4821,96,1,1836.24,2,New / Occasional Customers
+4822,123,2,8346.199999999999,4,Champions
+4825,57,2,1490.6,1,Loyal Customers
+4827,44,1,2221.98,2,New / Occasional Customers
+4829,15,1,568.17,2,New / Occasional Customers
+4830,38,2,1547.7,1,Loyal Customers
+4832,221,2,1990.24,0,At Risk Customers
+4833,6,3,3596.5999999999995,1,Loyal Customers
+4836,49,2,666.77,1,Loyal Customers
+4841,13,2,2304.5699999999997,1,Loyal Customers
+4842,16,1,676.41,2,New / Occasional Customers
+4846,43,2,4914.88,1,Loyal Customers
+4847,148,1,4287.6,3,High-Value New Customers
+4850,116,1,1923.75,2,New / Occasional Customers
+4851,58,2,2957.42,1,Loyal Customers
+4852,47,1,1511.68,2,New / Occasional Customers
+4853,26,1,1440.87,2,New / Occasional Customers
+4854,61,1,1240.29,2,New / Occasional Customers
+4856,12,1,1059.04,2,New / Occasional Customers
+4857,48,1,5463.21,3,High-Value New Customers
+4858,35,1,404.22,2,New / Occasional Customers
+4860,247,1,1047.66,0,At Risk Customers
+4861,148,2,2796.2,1,Loyal Customers
+4862,75,1,488.26,2,New / Occasional Customers
+4863,139,2,4157.91,1,Loyal Customers
+4864,30,2,2406.74,1,Loyal Customers
+4865,168,1,1068.18,0,At Risk Customers
+4866,176,2,6544.44,4,Champions
+4869,152,1,2169.25,0,At Risk Customers
+4870,219,1,898.68,0,At Risk Customers
+4875,20,1,2180.9,2,New / Occasional Customers
+4876,132,2,1527.08,1,Loyal Customers
+4877,187,1,2775.81,0,At Risk Customers
+4879,112,2,8158.59,4,Champions
+4882,14,1,1967.73,2,New / Occasional Customers
+4883,102,2,2364.35,1,Loyal Customers
+4884,68,4,3392.8900000000003,4,Champions
+4886,92,2,1225.46,1,Loyal Customers
+4887,1,2,3840.1899999999996,1,Loyal Customers
+4890,3,1,568.79,2,New / Occasional Customers
+4891,65,1,1709.76,2,New / Occasional Customers
+4892,111,1,1010.33,2,New / Occasional Customers
+4896,8,1,1024.17,2,New / Occasional Customers
+4897,93,1,551.66,2,New / Occasional Customers
+4899,79,1,600.81,2,New / Occasional Customers
+4900,46,2,1777.66,1,Loyal Customers
+4901,189,1,3558.64,0,At Risk Customers
+4903,69,2,4042.13,1,Loyal Customers
+4904,40,1,1223.08,2,New / Occasional Customers
+4906,7,2,1877.35,1,Loyal Customers
+4907,208,1,1197.76,0,At Risk Customers
+4908,52,3,1773.8400000000001,1,Loyal Customers
+4910,9,1,1676.0,2,New / Occasional Customers
+4912,12,2,5631.179999999999,4,Champions
+4915,61,2,3262.0,1,Loyal Customers
+4920,13,1,1679.13,2,New / Occasional Customers
+4922,322,1,483.1,0,At Risk Customers
+4925,50,1,484.65,2,New / Occasional Customers
+4927,8,2,3224.07,1,Loyal Customers
+4929,125,1,687.46,2,New / Occasional Customers
+4930,49,1,2446.4,2,New / Occasional Customers
+4933,65,1,2719.84,3,High-Value New Customers
+4937,241,1,3209.76,0,At Risk Customers
+4938,195,1,1386.1,0,At Risk Customers
+4939,21,2,6339.5,4,Champions
+4940,86,1,1604.26,2,New / Occasional Customers
+4941,69,2,1640.37,1,Loyal Customers
+4943,11,1,2549.12,2,New / Occasional Customers
+4944,11,2,1870.42,1,Loyal Customers
+4949,20,2,8753.49,4,Champions
+4950,21,2,5362.47,4,Champions
+4952,14,1,1834.4,2,New / Occasional Customers
+4953,17,1,3283.82,3,High-Value New Customers
+4956,109,1,1199.66,2,New / Occasional Customers
+4959,34,2,7128.1900000000005,4,Champions
+4960,19,2,2946.5,1,Loyal Customers
+4964,43,1,772.32,2,New / Occasional Customers
+4965,137,1,5348.71,3,High-Value New Customers
+4972,270,1,150.38,0,At Risk Customers
+4980,112,1,1369.58,2,New / Occasional Customers
+4981,6,1,458.07,2,New / Occasional Customers
+4982,110,1,3112.16,3,High-Value New Customers
+4983,136,1,79.71,2,New / Occasional Customers
+4984,3,2,5128.49,1,Loyal Customers
+4985,113,1,1006.89,2,New / Occasional Customers
+4986,115,2,6459.74,4,Champions
+4993,119,1,3796.27,3,High-Value New Customers
+4995,15,1,1183.12,2,New / Occasional Customers
+4998,112,1,1850.24,2,New / Occasional Customers
+4999,20,1,3064.19,3,High-Value New Customers
+5001,23,1,1028.84,2,New / Occasional Customers
+5004,3,2,8443.94,4,Champions
+5010,113,2,4216.62,1,Loyal Customers
+5012,3,1,333.74,2,New / Occasional Customers
+5013,66,2,4122.15,1,Loyal Customers
+5014,69,1,152.16,2,New / Occasional Customers
+5015,95,1,529.96,2,New / Occasional Customers
+5018,14,2,4148.030000000001,1,Loyal Customers
+5022,12,1,474.8,2,New / Occasional Customers
+5026,47,2,2539.03,1,Loyal Customers
+5028,42,1,2863.78,3,High-Value New Customers
+5030,118,1,2261.92,2,New / Occasional Customers
+5032,20,2,5641.2699999999995,4,Champions
+5033,81,1,868.47,2,New / Occasional Customers
+5034,60,1,784.35,2,New / Occasional Customers
+5037,5,2,1138.6,1,Loyal Customers
+5038,14,2,2512.57,1,Loyal Customers
+5039,292,1,5867.1,0,At Risk Customers
+5045,201,1,1715.42,0,At Risk Customers
+5046,131,1,3983.36,3,High-Value New Customers
+5047,232,1,2393.85,0,At Risk Customers
+5048,218,2,3428.31,0,At Risk Customers
+5050,262,1,2751.56,0,At Risk Customers
+5054,29,1,335.14,2,New / Occasional Customers
+5055,309,1,356.62,0,At Risk Customers
+5056,92,1,1225.19,2,New / Occasional Customers
+5059,23,3,3399.3100000000004,1,Loyal Customers
+5060,18,1,5304.18,3,High-Value New Customers
+5061,65,1,1104.81,2,New / Occasional Customers
+5064,34,1,685.66,2,New / Occasional Customers
+5066,121,1,6746.0,3,High-Value New Customers
+5067,120,1,1183.0,2,New / Occasional Customers
+5069,118,1,1020.28,2,New / Occasional Customers
+5071,86,1,1725.08,2,New / Occasional Customers
+5074,151,1,105.26,0,At Risk Customers
+5075,92,1,1648.8,2,New / Occasional Customers
+5079,34,2,1421.5500000000002,1,Loyal Customers
+5081,227,1,2189.33,0,At Risk Customers
+5082,253,2,2299.04,0,At Risk Customers
+5083,309,1,286.18,0,At Risk Customers
+5087,5,1,2965.56,3,High-Value New Customers
+5088,150,1,1046.38,0,At Risk Customers
+5090,276,1,1895.4,0,At Risk Customers
+5091,109,1,912.44,2,New / Occasional Customers
+5092,106,2,5768.9,4,Champions
+5093,130,1,4636.12,3,High-Value New Customers
+5098,104,1,757.4,2,New / Occasional Customers
+5103,34,1,285.07,2,New / Occasional Customers
+5105,22,1,407.7,2,New / Occasional Customers
+5107,102,1,1424.89,2,New / Occasional Customers
+5108,14,1,1140.74,2,New / Occasional Customers
+5109,50,2,3145.08,1,Loyal Customers
+5111,37,1,275.99,2,New / Occasional Customers
+5113,50,1,469.93,2,New / Occasional Customers
+5115,190,1,3400.42,0,At Risk Customers
+5118,101,1,1688.7,2,New / Occasional Customers
+5119,63,2,3172.1499999999996,1,Loyal Customers
+5120,260,2,2992.91,0,At Risk Customers
+5123,151,1,140.4,0,At Risk Customers
+5126,77,1,4094.21,3,High-Value New Customers
+5127,292,1,2613.52,0,At Risk Customers
+5128,357,1,2595.81,0,At Risk Customers
+5132,64,1,1352.01,2,New / Occasional Customers
+5133,172,1,586.87,0,At Risk Customers
+5138,26,1,2891.82,3,High-Value New Customers
+5140,243,1,1418.33,0,At Risk Customers
+5141,48,1,940.71,2,New / Occasional Customers
+5143,16,2,1620.78,1,Loyal Customers
+5144,134,1,879.59,2,New / Occasional Customers
+5146,38,1,1760.28,2,New / Occasional Customers
+5147,84,1,446.38,2,New / Occasional Customers
+5148,163,3,6018.0599999999995,4,Champions
+5151,134,1,4337.17,3,High-Value New Customers
+5153,311,1,1722.1,0,At Risk Customers
+5161,106,1,58.43,2,New / Occasional Customers
+5162,8,1,1248.08,2,New / Occasional Customers
+5163,133,1,2251.19,2,New / Occasional Customers
+5166,50,1,1061.77,2,New / Occasional Customers
+5172,163,1,903.48,0,At Risk Customers
+5174,32,2,1503.4,1,Loyal Customers
+5176,36,4,15955.15,4,Champions
+5179,113,1,1319.44,2,New / Occasional Customers
+5180,95,1,3580.77,3,High-Value New Customers
+5183,121,1,991.8,2,New / Occasional Customers
+5188,63,1,4880.26,3,High-Value New Customers
+5194,213,1,769.59,0,At Risk Customers
+5199,91,1,880.7,2,New / Occasional Customers
+5200,6,1,178.74,2,New / Occasional Customers
+5202,79,1,861.31,2,New / Occasional Customers
+5206,68,1,4256.56,3,High-Value New Customers
+5211,67,1,4036.14,3,High-Value New Customers
+5212,35,1,1241.29,2,New / Occasional Customers
+5213,58,3,4566.01,4,Champions
+5217,161,1,2023.81,0,At Risk Customers
+5218,20,1,390.54,2,New / Occasional Customers
+5220,1,1,1020.52,2,New / Occasional Customers
+5221,141,3,4751.84,4,Champions
+5222,236,1,1258.38,0,At Risk Customers
+5224,173,1,824.3,0,At Risk Customers
+5225,14,2,935.03,1,Loyal Customers
+5227,155,1,633.0,0,At Risk Customers
+5228,69,1,1246.53,2,New / Occasional Customers
+5229,198,2,2889.7799999999997,0,At Risk Customers
+5232,70,1,43.35,2,New / Occasional Customers
+5238,134,1,787.17,2,New / Occasional Customers
+5239,80,1,594.6,2,New / Occasional Customers
+5241,98,1,1445.98,2,New / Occasional Customers
+5242,35,2,916.84,1,Loyal Customers
+5244,130,1,863.44,2,New / Occasional Customers
+5245,98,2,6146.6,4,Champions
+5246,57,1,2238.2,2,New / Occasional Customers
+5249,359,1,926.31,0,At Risk Customers
+5252,103,2,2427.33,1,Loyal Customers
+5253,145,1,1474.56,0,At Risk Customers
+5255,120,2,2754.84,1,Loyal Customers
+5264,43,1,472.87,2,New / Occasional Customers
+5265,35,1,591.32,2,New / Occasional Customers
+5266,33,1,2223.78,2,New / Occasional Customers
+5270,88,1,2493.64,2,New / Occasional Customers
+5274,204,2,1383.16,0,At Risk Customers
+5276,157,2,3381.56,1,Loyal Customers
+5278,101,1,4951.04,3,High-Value New Customers
+5279,50,2,1914.4099999999999,1,Loyal Customers
+5280,27,2,2874.03,1,Loyal Customers
+5281,67,2,1360.48,1,Loyal Customers
+5284,18,1,1169.3,2,New / Occasional Customers
+5285,10,2,2528.77,1,Loyal Customers
+5288,52,2,5552.33,4,Champions
+5291,74,1,1186.63,2,New / Occasional Customers
+5292,23,1,1072.87,2,New / Occasional Customers
+5294,29,1,555.14,2,New / Occasional Customers
+5295,72,1,444.02,2,New / Occasional Customers
+5297,251,1,1252.05,0,At Risk Customers
+5298,38,2,2981.79,1,Loyal Customers
+5299,37,1,1387.8,2,New / Occasional Customers
+5300,25,1,1095.1,2,New / Occasional Customers
+5301,34,2,1802.29,1,Loyal Customers
+5302,79,1,3899.16,3,High-Value New Customers
+5303,261,1,1001.53,0,At Risk Customers
+5308,175,1,1357.89,0,At Risk Customers
+5310,59,1,3534.4,3,High-Value New Customers
+5312,116,2,2660.37,1,Loyal Customers
+5313,49,1,1620.68,2,New / Occasional Customers
+5317,120,1,1178.38,2,New / Occasional Customers
+5319,338,1,837.3,0,At Risk Customers
+5322,49,1,3699.76,3,High-Value New Customers
+5323,132,1,3361.66,3,High-Value New Customers
+5327,36,1,1477.92,2,New / Occasional Customers
+5328,22,1,3805.9,3,High-Value New Customers
+5332,78,1,1275.4,2,New / Occasional Customers
+5334,196,1,1727.08,0,At Risk Customers
+5335,103,1,1113.81,2,New / Occasional Customers
+5337,180,2,3008.5699999999997,1,Loyal Customers
+5339,174,1,3675.57,0,At Risk Customers
+5340,24,1,4948.2,3,High-Value New Customers
+5342,47,1,532.5,2,New / Occasional Customers
+5343,189,1,776.36,0,At Risk Customers
+5349,193,1,431.06,0,At Risk Customers
+5351,3,1,1644.67,2,New / Occasional Customers
+5352,81,1,2582.32,3,High-Value New Customers
+5358,138,1,831.26,2,New / Occasional Customers
+5362,155,1,3331.59,3,High-Value New Customers
+5364,48,1,147.89,2,New / Occasional Customers
+5371,179,1,2112.24,0,At Risk Customers
+5372,278,2,3448.7400000000002,0,At Risk Customers
+5375,6,1,336.52,2,New / Occasional Customers
+5376,11,2,5905.45,4,Champions
+5378,12,1,3867.51,3,High-Value New Customers
+5379,33,1,1235.02,2,New / Occasional Customers
+5382,64,3,3372.62,1,Loyal Customers
+5395,207,1,2786.42,0,At Risk Customers
+5397,135,1,4361.91,3,High-Value New Customers
+5398,141,1,1835.82,0,At Risk Customers
+5399,38,1,3984.39,3,High-Value New Customers
+5400,113,1,590.27,2,New / Occasional Customers
+5402,3,2,1546.35,1,Loyal Customers
+5403,91,2,9428.04,4,Champions
+5406,87,2,4037.97,1,Loyal Customers
+5409,78,1,2449.83,2,New / Occasional Customers
+5413,165,1,2911.58,0,At Risk Customers
+5415,177,2,3356.38,1,Loyal Customers
+5416,28,3,4996.34,4,Champions
+5418,29,1,5081.0,3,High-Value New Customers
+5419,9,1,364.26,2,New / Occasional Customers
+5421,320,1,1156.78,0,At Risk Customers
+5422,109,1,906.09,2,New / Occasional Customers
+5424,180,1,365.8,0,At Risk Customers
+5425,114,1,4752.42,3,High-Value New Customers
+5426,197,1,720.48,0,At Risk Customers
+5427,113,1,1361.9,2,New / Occasional Customers
+5429,67,1,1303.03,2,New / Occasional Customers
+5430,22,1,533.86,2,New / Occasional Customers
+5431,277,1,3757.12,0,At Risk Customers
+5432,93,1,1113.82,2,New / Occasional Customers
+5434,67,2,2254.5699999999997,1,Loyal Customers
+5435,4,1,695.71,2,New / Occasional Customers
+5442,104,2,937.58,1,Loyal Customers
+5443,183,1,2294.12,0,At Risk Customers
+5446,29,3,3457.06,1,Loyal Customers
+5448,68,1,1576.32,2,New / Occasional Customers
+5450,264,1,3222.07,0,At Risk Customers
+5453,17,1,434.92,2,New / Occasional Customers
+5459,75,2,3951.57,1,Loyal Customers
+5460,8,1,1026.87,2,New / Occasional Customers
+5461,120,1,262.45,2,New / Occasional Customers
+5463,16,3,1868.11,1,Loyal Customers
+5464,156,1,5860.0,3,High-Value New Customers
+5466,37,2,4672.51,1,Loyal Customers
+5467,2,1,1604.38,2,New / Occasional Customers
+5468,78,1,567.43,2,New / Occasional Customers
+5469,22,1,930.92,2,New / Occasional Customers
+5470,30,1,167.16,2,New / Occasional Customers
+5471,86,2,2483.94,1,Loyal Customers
+5475,36,1,1787.51,2,New / Occasional Customers
+5478,87,1,1465.94,2,New / Occasional Customers
+5479,204,1,2663.02,0,At Risk Customers
+5480,189,1,1075.73,0,At Risk Customers
+5484,39,2,4552.2,1,Loyal Customers
+5485,282,2,2295.85,0,At Risk Customers
+5486,53,1,859.6,2,New / Occasional Customers
+5488,56,1,943.28,2,New / Occasional Customers
+5489,326,1,4844.2,0,At Risk Customers
+5490,102,1,626.14,2,New / Occasional Customers
+5493,39,1,1158.28,2,New / Occasional Customers
+5496,229,1,3870.3,0,At Risk Customers
+5498,80,1,5022.84,3,High-Value New Customers
+5500,102,1,1184.51,2,New / Occasional Customers
+5502,21,1,1496.63,2,New / Occasional Customers
+5503,44,1,442.61,2,New / Occasional Customers
+5504,45,1,2470.05,2,New / Occasional Customers
+5505,48,2,2380.4700000000003,1,Loyal Customers
+5508,39,2,4799.0599999999995,1,Loyal Customers
+5509,108,1,316.54,2,New / Occasional Customers
+5513,95,1,3092.52,3,High-Value New Customers
+5514,30,2,5784.89,4,Champions
+5515,178,1,3339.2,0,At Risk Customers
+5516,314,1,950.89,0,At Risk Customers
+5518,22,2,4699.67,1,Loyal Customers
+5519,56,1,1929.7,2,New / Occasional Customers
+5521,123,1,2050.89,2,New / Occasional Customers
+5522,165,2,1226.31,1,Loyal Customers
+5525,224,1,4709.6,0,At Risk Customers
+5526,8,1,395.05,2,New / Occasional Customers
+5527,98,1,3662.71,3,High-Value New Customers
+5528,42,1,1233.59,2,New / Occasional Customers
+5529,185,1,6006.6,3,High-Value New Customers
+5531,174,1,508.56,0,At Risk Customers
+5532,140,1,3069.25,3,High-Value New Customers
+5533,46,3,4167.73,4,Champions
+5534,30,2,5666.76,4,Champions
+5537,134,1,1249.43,2,New / Occasional Customers
+5538,81,2,940.72,1,Loyal Customers
+5540,6,1,580.56,2,New / Occasional Customers
+5541,112,1,643.98,2,New / Occasional Customers
+5544,46,1,591.86,2,New / Occasional Customers
+5545,69,1,644.84,2,New / Occasional Customers
+5552,163,1,1091.95,0,At Risk Customers
+5553,14,2,7667.139999999999,4,Champions
+5557,15,4,6930.64,4,Champions
+5558,158,1,330.65,0,At Risk Customers
+5560,67,1,2349.4,2,New / Occasional Customers
+5561,55,2,3559.89,1,Loyal Customers
+5568,59,1,791.84,2,New / Occasional Customers
+5569,126,1,1486.43,2,New / Occasional Customers
+5573,67,2,3589.67,1,Loyal Customers
+5574,112,2,3038.9300000000003,1,Loyal Customers
+5578,93,1,3571.08,3,High-Value New Customers
+5580,119,1,1790.6,2,New / Occasional Customers
+5581,202,2,7678.41,4,Champions
+5587,24,2,1328.86,1,Loyal Customers
+5593,108,1,3227.0,3,High-Value New Customers
+5595,96,3,3271.27,1,Loyal Customers
+5596,56,1,2303.3,2,New / Occasional Customers
+5597,36,2,1570.8000000000002,1,Loyal Customers
+5599,301,1,390.62,0,At Risk Customers
+5601,214,2,5046.88,0,At Risk Customers
+5605,3,1,1793.48,2,New / Occasional Customers
+5606,294,1,1151.22,0,At Risk Customers
+5607,196,1,1332.66,0,At Risk Customers
+5609,62,1,2748.3,3,High-Value New Customers
+5610,298,1,277.34,0,At Risk Customers
+5611,167,1,1745.14,0,At Risk Customers
+5612,123,1,475.44,2,New / Occasional Customers
+5614,163,1,563.73,0,At Risk Customers
+5615,192,2,2101.19,0,At Risk Customers
+5617,39,1,278.64,2,New / Occasional Customers
+5627,20,1,3737.79,3,High-Value New Customers
+5630,22,2,1151.0900000000001,1,Loyal Customers
+5631,81,1,499.9,2,New / Occasional Customers
+5634,28,1,254.67,2,New / Occasional Customers
+5635,197,2,8180.68,4,Champions
+5639,122,1,1712.44,2,New / Occasional Customers
+5640,251,1,459.4,0,At Risk Customers
+5642,158,1,548.44,0,At Risk Customers
+5643,32,2,1160.69,1,Loyal Customers
+5644,78,1,1070.96,2,New / Occasional Customers
+5648,147,1,216.78,2,New / Occasional Customers
+5651,67,1,876.37,2,New / Occasional Customers
+5652,18,2,2492.8999999999996,1,Loyal Customers
+5659,57,1,1153.28,2,New / Occasional Customers
+5661,202,1,2823.96,0,At Risk Customers
+5665,37,1,469.09,2,New / Occasional Customers
+5666,53,1,946.73,2,New / Occasional Customers
+5667,14,1,2610.47,2,New / Occasional Customers
+5668,71,1,2285.5,2,New / Occasional Customers
+5669,83,3,4882.39,4,Champions
+5671,110,1,1765.91,2,New / Occasional Customers
+5673,212,1,1062.0,0,At Risk Customers
+5674,234,2,1245.6399999999999,0,At Risk Customers
+5675,35,1,1180.09,2,New / Occasional Customers
+5676,58,1,907.08,2,New / Occasional Customers
+5677,39,1,370.56,2,New / Occasional Customers
+5679,27,1,3437.48,3,High-Value New Customers
+5681,68,1,3379.94,3,High-Value New Customers
+5682,26,1,1529.45,2,New / Occasional Customers
+5684,112,2,3551.24,1,Loyal Customers
+5686,112,1,2532.53,3,High-Value New Customers
+5687,5,1,862.64,2,New / Occasional Customers
+5688,57,2,3969.02,1,Loyal Customers
+5690,17,1,920.54,2,New / Occasional Customers
+5694,9,1,2481.91,2,New / Occasional Customers
+5696,110,1,3156.37,3,High-Value New Customers
+5697,49,1,345.63,2,New / Occasional Customers
+5698,12,1,2775.34,3,High-Value New Customers
+5702,97,1,294.26,2,New / Occasional Customers
+5703,126,1,1401.94,2,New / Occasional Customers
+5707,7,1,2424.23,2,New / Occasional Customers
+5709,17,2,3759.04,1,Loyal Customers
+5710,59,2,6117.19,4,Champions
+5714,14,1,422.94,2,New / Occasional Customers
+5720,38,2,5847.68,4,Champions
+5722,100,1,1102.16,2,New / Occasional Customers
+5723,214,1,1612.0,0,At Risk Customers
+5724,90,1,854.45,2,New / Occasional Customers
+5725,26,2,4757.410000000001,1,Loyal Customers
+5727,23,1,750.8,2,New / Occasional Customers
+5729,123,1,992.72,2,New / Occasional Customers
+5730,109,1,761.88,2,New / Occasional Customers
+5736,207,1,361.68,0,At Risk Customers
+5737,222,1,1497.16,0,At Risk Customers
+5738,1,1,728.72,2,New / Occasional Customers
+5740,97,3,7861.7,4,Champions
+5742,13,1,2210.87,2,New / Occasional Customers
+5745,50,1,257.17,2,New / Occasional Customers
+5747,85,1,712.32,2,New / Occasional Customers
+5748,180,2,2531.29,1,Loyal Customers
+5749,64,2,1525.8200000000002,1,Loyal Customers
+5751,33,2,1727.17,1,Loyal Customers
+5754,5,2,2924.19,1,Loyal Customers
+5755,31,2,3578.55,1,Loyal Customers
+5756,7,2,6746.84,4,Champions
+5757,50,2,6397.4,4,Champions
+5760,6,2,7326.25,4,Champions
+5763,59,2,3507.06,1,Loyal Customers
+5764,80,1,617.48,2,New / Occasional Customers
+5766,1,1,774.99,2,New / Occasional Customers
+5767,49,2,2244.07,1,Loyal Customers
+5770,254,2,5324.23,0,At Risk Customers
+5771,15,2,4523.67,1,Loyal Customers
+5774,51,1,357.36,2,New / Occasional Customers
+5775,48,1,186.55,2,New / Occasional Customers
+5776,98,2,3154.48,1,Loyal Customers
+5777,111,1,2031.06,2,New / Occasional Customers
+5778,36,2,6754.82,4,Champions
+5779,42,1,5844.78,3,High-Value New Customers
+5780,68,1,3272.59,3,High-Value New Customers
+5781,21,2,2517.3900000000003,1,Loyal Customers
+5782,79,1,2711.56,3,High-Value New Customers
+5785,130,1,865.06,2,New / Occasional Customers
+5787,60,1,2778.81,3,High-Value New Customers
+5791,9,1,1268.46,2,New / Occasional Customers
+5792,41,1,958.41,2,New / Occasional Customers
+5793,62,3,7953.709999999999,4,Champions
+5798,11,3,4788.68,4,Champions
+5799,4,1,361.09,2,New / Occasional Customers
+5800,204,1,419.94,0,At Risk Customers
+5801,67,1,495.59,2,New / Occasional Customers
+5804,244,2,2556.78,0,At Risk Customers
+5805,144,1,384.64,2,New / Occasional Customers
+5808,21,2,6736.77,4,Champions
+5812,9,1,171.39,2,New / Occasional Customers
+5813,110,1,1580.76,2,New / Occasional Customers
+5817,126,1,742.07,2,New / Occasional Customers
+5823,201,1,250.03,0,At Risk Customers
+5824,22,1,1914.12,2,New / Occasional Customers
+5825,7,2,1723.68,1,Loyal Customers
+5826,116,1,1313.32,2,New / Occasional Customers
+5827,27,1,6661.28,3,High-Value New Customers
+5830,131,1,1014.56,2,New / Occasional Customers
+5834,27,1,1543.69,2,New / Occasional Customers
+5837,126,1,187.52,2,New / Occasional Customers
+5838,53,2,4807.65,1,Loyal Customers
+5839,79,1,660.25,2,New / Occasional Customers
+5840,277,1,1668.56,0,At Risk Customers
+5845,18,1,2803.58,3,High-Value New Customers
+5847,43,1,1229.98,2,New / Occasional Customers
+5848,29,1,515.5,2,New / Occasional Customers
+5850,14,1,1276.46,2,New / Occasional Customers
+5852,4,3,8973.34,4,Champions
+5858,5,2,5974.68,4,Champions
+5860,7,2,4225.01,1,Loyal Customers
+5863,3,2,3859.38,1,Loyal Customers
+5864,76,2,1423.8500000000001,1,Loyal Customers
+5869,231,1,5321.72,0,At Risk Customers
+5872,60,1,1639.93,2,New / Occasional Customers
+5875,201,1,4387.44,0,At Risk Customers
+5876,8,1,2264.48,2,New / Occasional Customers
+5877,168,1,554.03,0,At Risk Customers
+5880,75,2,4883.01,1,Loyal Customers
+5884,87,1,684.24,2,New / Occasional Customers
+5885,191,1,84.96,0,At Risk Customers
+5886,65,1,1609.88,2,New / Occasional Customers
+5888,143,1,464.76,2,New / Occasional Customers
+5889,56,3,5474.77,4,Champions
+5893,88,1,574.56,2,New / Occasional Customers
+5894,85,1,1318.08,2,New / Occasional Customers
+5895,67,2,2113.96,1,Loyal Customers
+5902,8,1,2075.62,2,New / Occasional Customers
+5903,117,1,1424.99,2,New / Occasional Customers
+5904,64,2,2455.31,1,Loyal Customers
+5905,179,1,1440.58,0,At Risk Customers
+5906,52,1,250.93,2,New / Occasional Customers
+5909,244,2,6184.5,4,Champions
+5910,25,1,796.09,2,New / Occasional Customers
+5915,7,1,5287.19,3,High-Value New Customers
+5918,95,2,3059.07,1,Loyal Customers
+5920,105,2,4470.3,1,Loyal Customers
+5921,64,2,7634.02,4,Champions
+5923,40,1,1037.8,2,New / Occasional Customers
+5924,1,3,3255.02,1,Loyal Customers
+5925,187,1,184.5,0,At Risk Customers
+5926,8,3,3734.0,1,Loyal Customers
+5932,314,1,909.21,0,At Risk Customers
+5933,2,1,2290.32,2,New / Occasional Customers
+5934,255,1,1934.72,0,At Risk Customers
+5936,125,1,1344.64,2,New / Occasional Customers
+5938,96,1,2953.72,3,High-Value New Customers
+5939,45,1,4156.23,3,High-Value New Customers
+5941,30,1,2470.8,2,New / Occasional Customers
+5942,44,2,6460.49,4,Champions
+5943,36,1,475.63,2,New / Occasional Customers
+5944,84,3,2372.7200000000003,1,Loyal Customers
+5946,27,1,2888.49,3,High-Value New Customers
+5949,26,1,1833.37,2,New / Occasional Customers
+5952,59,3,10124.29,4,Champions
+5956,1,1,5080.54,3,High-Value New Customers
+5958,49,1,1965.47,2,New / Occasional Customers
+5960,30,1,5352.26,3,High-Value New Customers
+5961,12,1,5472.29,3,High-Value New Customers
+5965,32,1,950.8,2,New / Occasional Customers
+5970,12,1,1772.96,2,New / Occasional Customers
+5972,11,1,1660.75,2,New / Occasional Customers
+5973,142,2,1992.8,1,Loyal Customers
+5975,3,1,704.02,2,New / Occasional Customers
+5976,12,1,173.72,2,New / Occasional Customers
+5977,54,1,2180.96,2,New / Occasional Customers
+5979,139,3,2977.09,1,Loyal Customers
+5981,137,2,3929.55,1,Loyal Customers
+5982,151,1,1115.64,0,At Risk Customers
+5985,123,1,1616.39,2,New / Occasional Customers
+5989,6,2,1368.8200000000002,1,Loyal Customers
+5993,18,1,1566.6,2,New / Occasional Customers
+5994,9,1,684.72,2,New / Occasional Customers
+5996,123,2,2586.74,1,Loyal Customers
+5997,24,1,319.13,2,New / Occasional Customers
+5999,2,3,4053.8099999999995,4,Champions
+6000,28,1,588.74,2,New / Occasional Customers
+6005,20,3,3645.11,1,Loyal Customers
+6006,72,1,766.38,2,New / Occasional Customers
+6007,183,1,1908.3,0,At Risk Customers
+6010,62,1,377.58,2,New / Occasional Customers
+6011,4,1,3368.28,3,High-Value New Customers
+6013,112,1,621.54,2,New / Occasional Customers
+6018,28,1,843.21,2,New / Occasional Customers
+6019,63,2,1951.97,1,Loyal Customers
+6020,271,1,821.05,0,At Risk Customers
+6021,42,1,2497.51,2,New / Occasional Customers
+6024,228,1,1407.37,0,At Risk Customers
+6025,114,1,2584.7,3,High-Value New Customers
+6026,109,1,776.79,2,New / Occasional Customers
+6027,167,1,704.19,0,At Risk Customers
+6028,4,2,2721.99,1,Loyal Customers
+6031,19,1,805.05,2,New / Occasional Customers
+6035,6,1,2649.55,2,New / Occasional Customers
+6036,319,1,2799.21,0,At Risk Customers
+6038,13,2,5932.62,4,Champions
+6042,59,1,955.96,2,New / Occasional Customers
+6045,76,2,2783.81,1,Loyal Customers
+6046,186,1,846.77,0,At Risk Customers
+6047,28,1,3983.08,3,High-Value New Customers
+6050,8,1,3225.6,3,High-Value New Customers
+6052,85,1,1180.78,2,New / Occasional Customers
+6053,148,1,202.98,2,New / Occasional Customers
+6054,154,1,454.09,0,At Risk Customers
+6056,314,1,1512.9,0,At Risk Customers
+6057,61,1,738.37,2,New / Occasional Customers
+6058,6,3,5955.150000000001,4,Champions
+6063,84,1,1693.91,2,New / Occasional Customers
+6065,12,1,1849.16,2,New / Occasional Customers
+6066,19,2,3142.15,1,Loyal Customers
+6067,26,1,4645.32,3,High-Value New Customers
+6071,17,1,345.57,2,New / Occasional Customers
+6077,48,1,812.71,2,New / Occasional Customers
+6080,45,1,1041.35,2,New / Occasional Customers
+6081,44,1,1117.0,2,New / Occasional Customers
+6082,57,1,311.67,2,New / Occasional Customers
+6084,64,1,975.51,2,New / Occasional Customers
+6085,22,3,11545.2,4,Champions
+6086,44,2,7884.4400000000005,4,Champions
+6087,60,2,1206.27,1,Loyal Customers
+6088,25,4,6311.89,4,Champions
+6092,88,1,1973.55,2,New / Occasional Customers
+6093,268,1,97.93,0,At Risk Customers
+6096,143,1,1136.62,2,New / Occasional Customers
+6097,48,1,1135.33,2,New / Occasional Customers
+6098,24,1,276.84,2,New / Occasional Customers
+6101,10,2,669.14,1,Loyal Customers
+6104,18,3,5695.15,4,Champions
+6107,325,1,4978.23,0,At Risk Customers
+6109,55,1,767.02,2,New / Occasional Customers
+6111,19,2,6919.66,4,Champions
+6112,114,1,461.97,2,New / Occasional Customers
+6116,39,4,8182.58,4,Champions
+6118,199,2,1146.08,0,At Risk Customers
+6119,81,1,374.3,2,New / Occasional Customers
+6121,105,1,4633.45,3,High-Value New Customers
+6125,82,1,1299.33,2,New / Occasional Customers
+6126,227,2,8373.25,4,Champions
+6127,216,1,552.51,0,At Risk Customers
+6128,11,1,1845.74,2,New / Occasional Customers
+6129,255,1,3389.65,0,At Risk Customers
+6135,190,3,7899.21,4,Champions
+6138,163,1,1580.56,0,At Risk Customers
+6141,57,1,356.04,2,New / Occasional Customers
+6142,25,1,1956.35,2,New / Occasional Customers
+6144,130,1,874.13,2,New / Occasional Customers
+6145,138,1,3296.76,3,High-Value New Customers
+6148,45,2,2677.02,1,Loyal Customers
+6151,21,2,1626.8,1,Loyal Customers
+6153,74,1,5532.55,3,High-Value New Customers
+6154,236,1,967.94,0,At Risk Customers
+6155,267,1,3630.6,0,At Risk Customers
+6156,24,1,4108.1,3,High-Value New Customers
+6163,1,1,1755.32,2,New / Occasional Customers
+6164,25,1,362.7,2,New / Occasional Customers
+6165,85,1,1419.34,2,New / Occasional Customers
+6166,22,2,597.67,1,Loyal Customers
+6170,75,1,409.22,2,New / Occasional Customers
+6171,35,1,1563.53,2,New / Occasional Customers
+6173,16,1,2489.67,2,New / Occasional Customers
+6174,2,1,1226.08,2,New / Occasional Customers
+6176,165,1,2478.35,0,At Risk Customers
+6177,117,1,4306.6,3,High-Value New Customers
+6178,56,2,902.99,1,Loyal Customers
+6181,25,1,1024.35,2,New / Occasional Customers
+6182,278,1,2524.68,0,At Risk Customers
+6186,198,1,532.81,0,At Risk Customers
+6187,198,1,5872.2,3,High-Value New Customers
+6191,53,2,2162.92,1,Loyal Customers
+6193,223,1,771.51,0,At Risk Customers
+6195,21,1,950.69,2,New / Occasional Customers
+6196,134,1,1040.85,2,New / Occasional Customers
+6197,243,1,3179.88,0,At Risk Customers
+6198,101,1,351.14,2,New / Occasional Customers
+6201,49,1,2824.14,3,High-Value New Customers
+6202,43,1,5126.22,3,High-Value New Customers
+6204,21,1,3725.64,3,High-Value New Customers
+6206,19,1,2858.81,3,High-Value New Customers
+6208,114,1,6342.08,3,High-Value New Customers
+6209,128,1,560.63,2,New / Occasional Customers
+6210,22,3,1845.8,1,Loyal Customers
+6212,21,1,154.87,2,New / Occasional Customers
+6213,56,1,600.99,2,New / Occasional Customers
+6215,52,1,200.52,2,New / Occasional Customers
+6217,197,1,299.92,0,At Risk Customers
+6221,16,2,2513.08,1,Loyal Customers
+6223,14,1,5321.89,3,High-Value New Customers
+6225,280,1,7110.36,0,At Risk Customers
+6228,18,2,2497.25,1,Loyal Customers
+6229,109,1,2906.51,3,High-Value New Customers
+6230,159,2,1713.0500000000002,1,Loyal Customers
+6233,79,1,1369.14,2,New / Occasional Customers
+6239,152,2,2065.63,1,Loyal Customers
+6240,132,1,6439.0,3,High-Value New Customers
+6241,171,1,932.63,0,At Risk Customers
+6243,39,3,5940.6,4,Champions
+6246,69,1,480.02,2,New / Occasional Customers
+6254,76,1,865.04,2,New / Occasional Customers
+6255,62,1,890.75,2,New / Occasional Customers
+6256,102,3,11609.37,4,Champions
+6257,131,1,787.64,2,New / Occasional Customers
+6258,1,1,2273.91,2,New / Occasional Customers
+6262,83,1,583.32,2,New / Occasional Customers
+6264,90,1,763.27,2,New / Occasional Customers
+6266,103,1,2065.59,2,New / Occasional Customers
+6270,33,1,893.04,2,New / Occasional Customers
+6274,74,1,444.39,2,New / Occasional Customers
+6276,140,3,5208.5,4,Champions
+6279,307,1,4469.82,0,At Risk Customers
+6282,127,1,990.99,2,New / Occasional Customers
+6283,80,3,7051.29,4,Champions
+6288,97,2,1588.95,1,Loyal Customers
+6289,15,2,3774.6400000000003,1,Loyal Customers
+6290,245,1,1214.27,0,At Risk Customers
+6295,87,2,3641.89,1,Loyal Customers
+6301,15,1,148.19,2,New / Occasional Customers
+6302,10,1,451.17,2,New / Occasional Customers
+6303,149,1,6920.28,3,High-Value New Customers
+6306,93,1,509.73,2,New / Occasional Customers
+6307,222,1,1847.48,0,At Risk Customers
+6311,40,1,1231.51,2,New / Occasional Customers
+6312,42,3,10562.77,4,Champions
+6319,106,2,4126.9400000000005,1,Loyal Customers
+6321,74,1,3448.11,3,High-Value New Customers
+6324,177,1,1079.25,0,At Risk Customers
+6325,3,1,2156.11,2,New / Occasional Customers
+6327,92,1,880.27,2,New / Occasional Customers
+6329,3,1,2361.48,2,New / Occasional Customers
+6330,88,1,3664.58,3,High-Value New Customers
+6332,73,2,1802.3799999999999,1,Loyal Customers
+6337,96,1,550.22,2,New / Occasional Customers
+6339,85,3,5153.5599999999995,4,Champions
+6340,166,1,715.67,0,At Risk Customers
+6341,228,3,7200.61,4,Champions
+6343,28,2,4942.68,1,Loyal Customers
+6345,195,2,248.44,0,At Risk Customers
+6346,16,1,955.08,2,New / Occasional Customers
+6352,294,1,1784.88,0,At Risk Customers
+6356,139,1,1113.81,2,New / Occasional Customers
+6358,180,1,364.23,0,At Risk Customers
+6359,181,1,2908.87,0,At Risk Customers
+6360,34,1,1000.13,2,New / Occasional Customers
+6361,47,1,210.37,2,New / Occasional Customers
+6363,26,1,1062.77,2,New / Occasional Customers
+6364,51,1,5811.3,3,High-Value New Customers
+6365,310,1,1575.87,0,At Risk Customers
+6369,343,1,902.62,0,At Risk Customers
+6370,188,1,1471.64,0,At Risk Customers
+6371,50,1,1786.32,2,New / Occasional Customers
+6375,12,1,3273.0,3,High-Value New Customers
+6376,139,2,2818.32,1,Loyal Customers
+6377,87,1,1327.66,2,New / Occasional Customers
+6378,117,1,964.68,2,New / Occasional Customers
+6379,44,2,7686.69,4,Champions
+6380,81,1,1128.54,2,New / Occasional Customers
+6382,9,1,1608.39,2,New / Occasional Customers
+6383,15,1,1712.73,2,New / Occasional Customers
+6388,77,1,240.69,2,New / Occasional Customers
+6389,4,1,6243.88,3,High-Value New Customers
+6391,13,2,2673.88,1,Loyal Customers
+6393,113,1,4315.03,3,High-Value New Customers
+6394,59,1,1471.56,2,New / Occasional Customers
+6395,158,2,4144.370000000001,1,Loyal Customers
+6399,163,1,1764.48,0,At Risk Customers
+6406,1,1,5299.16,3,High-Value New Customers
+6407,90,1,846.92,2,New / Occasional Customers
+6408,8,1,1401.01,2,New / Occasional Customers
+6409,36,2,6503.26,4,Champions
+6411,18,1,594.02,2,New / Occasional Customers
+6413,40,1,2085.57,2,New / Occasional Customers
+6414,146,1,217.46,2,New / Occasional Customers
+6415,102,2,5423.620000000001,4,Champions
+6421,180,1,1462.36,0,At Risk Customers
+6425,90,1,1321.52,2,New / Occasional Customers
+6428,3,1,1465.86,2,New / Occasional Customers
+6430,111,2,2162.6,1,Loyal Customers
+6432,142,1,1695.6,0,At Risk Customers
+6433,194,1,3494.94,0,At Risk Customers
+6434,18,1,1502.8,2,New / Occasional Customers
+6435,126,1,1911.84,2,New / Occasional Customers
+6436,35,4,6849.07,4,Champions
+6437,18,1,771.46,2,New / Occasional Customers
+6438,170,1,995.43,0,At Risk Customers
+6443,147,2,4832.33,1,Loyal Customers
+6445,22,1,234.08,2,New / Occasional Customers
+6450,171,1,432.13,0,At Risk Customers
+6454,157,1,3599.19,3,High-Value New Customers
+6456,2,3,7025.41,4,Champions
+6459,45,4,7390.51,4,Champions
+6463,114,1,840.36,2,New / Occasional Customers
+6464,80,1,3926.16,3,High-Value New Customers
+6465,5,1,3022.43,3,High-Value New Customers
+6467,79,2,2182.85,1,Loyal Customers
+6469,278,1,1258.17,0,At Risk Customers
+6471,164,2,4597.04,1,Loyal Customers
+6472,98,1,535.48,2,New / Occasional Customers
+6473,187,1,5650.16,3,High-Value New Customers
+6474,63,1,261.0,2,New / Occasional Customers
+6476,146,1,4322.37,3,High-Value New Customers
+6477,25,1,660.68,2,New / Occasional Customers
+6478,76,3,5704.41,4,Champions
+6479,276,2,2662.4300000000003,0,At Risk Customers
+6482,38,1,357.37,2,New / Occasional Customers
+6485,115,2,1408.96,1,Loyal Customers
+6489,5,2,1257.0,1,Loyal Customers
+6493,38,1,932.87,2,New / Occasional Customers
+6494,41,2,4019.45,1,Loyal Customers
+6496,154,1,1189.97,0,At Risk Customers
+6497,36,2,3032.6,1,Loyal Customers
+6498,183,1,1349.02,0,At Risk Customers
+6499,23,1,1990.5,2,New / Occasional Customers
+6500,144,1,621.07,2,New / Occasional Customers
+6503,58,2,2084.0,1,Loyal Customers
+6507,55,1,3154.12,3,High-Value New Customers
+6511,107,3,2254.33,1,Loyal Customers
+6512,34,1,1769.36,2,New / Occasional Customers
+6515,195,1,388.03,0,At Risk Customers
+6517,260,1,1591.33,0,At Risk Customers
+6520,17,1,732.78,2,New / Occasional Customers
+6521,67,1,611.07,2,New / Occasional Customers
+6524,193,1,2239.85,0,At Risk Customers
+6525,132,1,1767.75,2,New / Occasional Customers
+6526,20,1,4015.68,3,High-Value New Customers
+6528,10,1,1066.81,2,New / Occasional Customers
+6529,127,1,1237.77,2,New / Occasional Customers
+6530,117,1,1041.03,2,New / Occasional Customers
+6531,48,1,2206.14,2,New / Occasional Customers
+6532,122,1,1564.69,2,New / Occasional Customers
+6534,78,1,1506.05,2,New / Occasional Customers
+6536,97,1,283.74,2,New / Occasional Customers
+6539,270,1,934.5,0,At Risk Customers
+6543,98,2,2597.04,1,Loyal Customers
+6545,86,3,7164.860000000001,4,Champions
+6546,58,1,354.37,2,New / Occasional Customers
+6547,55,2,1589.5099999999998,1,Loyal Customers
+6549,10,1,1521.54,2,New / Occasional Customers
+6552,1,1,216.49,2,New / Occasional Customers
+6553,35,2,657.22,1,Loyal Customers
+6554,25,2,769.94,1,Loyal Customers
+6555,49,1,564.98,2,New / Occasional Customers
+6556,61,1,2284.62,2,New / Occasional Customers
+6557,84,1,2724.21,3,High-Value New Customers
+6558,54,1,1235.71,2,New / Occasional Customers
+6561,218,1,865.52,0,At Risk Customers
+6562,219,1,438.65,0,At Risk Customers
+6564,17,2,2423.6,1,Loyal Customers
+6567,183,1,2260.56,0,At Risk Customers
+6568,56,1,1806.24,2,New / Occasional Customers
+6569,220,1,786.03,0,At Risk Customers
+6571,18,3,3110.32,1,Loyal Customers
+6574,234,1,1755.1,0,At Risk Customers
+6578,137,2,3883.7700000000004,1,Loyal Customers
+6582,226,1,2692.74,0,At Risk Customers
+6587,53,1,877.52,2,New / Occasional Customers
+6592,46,1,331.04,2,New / Occasional Customers
+6594,89,2,4785.469999999999,1,Loyal Customers
+6595,88,1,1676.06,2,New / Occasional Customers
+6598,22,1,941.4,2,New / Occasional Customers
+6599,174,3,4147.35,4,Champions
+6605,19,1,1204.71,2,New / Occasional Customers
+6607,15,2,1953.28,1,Loyal Customers
+6610,26,2,4152.37,1,Loyal Customers
+6611,17,2,1341.6100000000001,1,Loyal Customers
+6612,144,1,1997.46,0,At Risk Customers
+6624,231,1,1736.4,0,At Risk Customers
+6626,8,1,2847.24,3,High-Value New Customers
+6627,227,1,2739.16,0,At Risk Customers
+6629,115,1,2288.46,2,New / Occasional Customers
+6633,17,2,1078.9,1,Loyal Customers
+6634,32,2,4477.66,1,Loyal Customers
+6637,59,2,2012.6399999999999,1,Loyal Customers
+6639,2,2,6626.67,4,Champions
+6640,78,2,2318.94,1,Loyal Customers
+6642,122,2,3539.98,1,Loyal Customers
+6643,82,1,962.45,2,New / Occasional Customers
+6644,246,2,1997.2199999999998,0,At Risk Customers
+6647,6,1,1964.16,2,New / Occasional Customers
+6650,40,1,131.26,2,New / Occasional Customers
+6654,5,1,351.02,2,New / Occasional Customers
+6655,1,1,1528.97,2,New / Occasional Customers
+6657,133,1,1583.01,2,New / Occasional Customers
+6658,49,2,4624.110000000001,1,Loyal Customers
+6661,45,1,1088.01,2,New / Occasional Customers
+6663,226,1,1215.08,0,At Risk Customers
+6667,129,2,2829.16,1,Loyal Customers
+6668,264,1,1291.31,0,At Risk Customers
+6670,78,1,1274.92,2,New / Occasional Customers
+6671,93,2,2223.46,1,Loyal Customers
+6672,166,1,3784.0,3,High-Value New Customers
+6679,97,1,323.27,2,New / Occasional Customers
+6684,168,1,929.06,0,At Risk Customers
+6685,308,1,1106.14,0,At Risk Customers
+6686,250,1,2700.44,0,At Risk Customers
+6691,92,3,2444.6099999999997,1,Loyal Customers
+6692,70,1,444.28,2,New / Occasional Customers
+6697,167,1,1102.28,0,At Risk Customers
+6700,263,1,3438.5,0,At Risk Customers
+6702,208,1,7142.29,3,High-Value New Customers
+6705,67,3,4900.120000000001,4,Champions
+6706,102,1,3573.0,3,High-Value New Customers
+6709,115,1,860.56,2,New / Occasional Customers
+6712,77,2,2190.92,1,Loyal Customers
+6714,49,2,1267.4499999999998,1,Loyal Customers
+6718,229,1,2407.64,0,At Risk Customers
+6720,101,1,2958.72,3,High-Value New Customers
+6722,291,1,203.16,0,At Risk Customers
+6723,107,1,2462.82,3,High-Value New Customers
+6724,23,2,2609.05,1,Loyal Customers
+6726,161,1,364.42,0,At Risk Customers
+6731,63,1,3974.24,3,High-Value New Customers
+6732,97,1,1224.56,2,New / Occasional Customers
+6734,292,1,4444.59,0,At Risk Customers
+6736,46,1,2029.81,2,New / Occasional Customers
+6743,93,3,4053.02,4,Champions
+6744,311,1,954.53,0,At Risk Customers
+6745,76,1,1618.2,2,New / Occasional Customers
+6747,271,1,811.5,0,At Risk Customers
+6748,12,1,988.68,2,New / Occasional Customers
+6750,48,1,1128.26,2,New / Occasional Customers
+6752,49,1,1405.98,2,New / Occasional Customers
+6754,60,2,8315.720000000001,4,Champions
+6755,13,1,2399.89,2,New / Occasional Customers
+6756,313,1,1613.62,0,At Risk Customers
+6760,87,1,895.37,2,New / Occasional Customers
+6764,201,2,2600.16,0,At Risk Customers
+6767,162,1,4927.84,3,High-Value New Customers
+6768,16,1,839.94,2,New / Occasional Customers
+6772,18,1,1130.59,2,New / Occasional Customers
+6773,26,1,980.45,2,New / Occasional Customers
+6775,105,1,2662.65,3,High-Value New Customers
+6776,41,1,404.06,2,New / Occasional Customers
+6780,25,1,608.31,2,New / Occasional Customers
+6781,4,2,2557.13,1,Loyal Customers
+6782,3,1,4833.27,3,High-Value New Customers
+6786,208,2,1231.25,0,At Risk Customers
+6787,3,3,3630.08,1,Loyal Customers
+6788,119,1,2106.1,2,New / Occasional Customers
+6790,20,1,2973.4,3,High-Value New Customers
+6791,146,1,671.26,0,At Risk Customers
+6793,16,2,4052.34,1,Loyal Customers
+6794,51,1,634.5,2,New / Occasional Customers
+6798,237,1,1274.76,0,At Risk Customers
+6801,132,1,575.16,2,New / Occasional Customers
+6803,290,2,4089.4900000000002,0,At Risk Customers
+6806,20,1,3764.54,3,High-Value New Customers
+6808,58,1,2644.04,3,High-Value New Customers
+6809,20,2,5535.290000000001,4,Champions
+6812,23,1,277.66,2,New / Occasional Customers
+6813,19,1,1581.61,2,New / Occasional Customers
+6815,93,1,1823.12,2,New / Occasional Customers
+6819,42,2,6840.87,4,Champions
+6825,89,1,2346.25,2,New / Occasional Customers
+6828,108,1,3171.45,3,High-Value New Customers
+6830,40,1,1842.3,2,New / Occasional Customers
+6833,43,1,4737.48,3,High-Value New Customers
+6837,306,1,3485.44,0,At Risk Customers
+6838,39,2,3188.13,1,Loyal Customers
+6839,220,1,370.03,0,At Risk Customers
+6840,87,2,2896.77,1,Loyal Customers
+6845,229,1,1685.42,0,At Risk Customers
+6850,68,1,1519.53,2,New / Occasional Customers
+6851,328,1,783.21,0,At Risk Customers
+6854,7,1,1402.02,2,New / Occasional Customers
+6856,40,1,764.32,2,New / Occasional Customers
+6857,35,1,2523.62,2,New / Occasional Customers
+6858,181,1,2214.71,0,At Risk Customers
+6861,4,3,6677.67,4,Champions
+6863,4,2,4466.73,1,Loyal Customers
+6864,5,2,1347.82,1,Loyal Customers
+6867,51,1,1011.31,2,New / Occasional Customers
+6869,53,2,1614.65,1,Loyal Customers
+6872,59,1,2364.55,2,New / Occasional Customers
+6875,142,1,768.18,2,New / Occasional Customers
+6878,59,1,2543.81,2,New / Occasional Customers
+6881,92,1,362.81,2,New / Occasional Customers
+6883,184,1,923.33,0,At Risk Customers
+6884,20,1,1393.38,2,New / Occasional Customers
+6885,42,1,1905.38,2,New / Occasional Customers
+6891,176,1,6089.47,3,High-Value New Customers
+6895,18,2,5557.8099999999995,4,Champions
+6896,68,1,3379.7,3,High-Value New Customers
+6897,67,1,881.22,2,New / Occasional Customers
+6898,12,1,6021.52,3,High-Value New Customers
+6899,158,2,3025.88,1,Loyal Customers
+6902,2,2,3055.6800000000003,1,Loyal Customers
+6906,96,1,309.9,2,New / Occasional Customers
+6907,7,1,1601.47,2,New / Occasional Customers
+6908,17,1,1797.84,2,New / Occasional Customers
+6909,107,2,4565.71,1,Loyal Customers
+6912,104,2,669.31,1,Loyal Customers
+6913,69,1,1999.79,2,New / Occasional Customers
+6917,36,1,1235.52,2,New / Occasional Customers
+6921,255,1,2092.75,0,At Risk Customers
+6923,83,1,459.88,2,New / Occasional Customers
+6925,97,1,721.67,2,New / Occasional Customers
+6926,21,1,3549.36,3,High-Value New Customers
+6927,41,1,3566.13,3,High-Value New Customers
+6931,66,1,1239.66,2,New / Occasional Customers
+6932,166,2,3453.45,1,Loyal Customers
+6939,52,1,1314.31,2,New / Occasional Customers
+6943,56,2,1909.97,1,Loyal Customers
+6944,81,1,1665.29,2,New / Occasional Customers
+6946,13,1,1197.99,2,New / Occasional Customers
+6947,116,3,2951.5299999999997,1,Loyal Customers
+6950,1,1,138.5,2,New / Occasional Customers
+6953,155,2,3730.21,1,Loyal Customers
+6955,121,1,1991.52,2,New / Occasional Customers
+6959,44,2,978.48,1,Loyal Customers
+6963,236,2,2985.01,0,At Risk Customers
+6969,35,2,3681.11,1,Loyal Customers
+6972,67,1,1266.91,2,New / Occasional Customers
+6974,86,2,949.52,1,Loyal Customers
+6978,21,2,1319.74,1,Loyal Customers
+6979,91,2,4909.82,1,Loyal Customers
+6984,186,1,216.35,0,At Risk Customers
+6985,71,1,1470.74,2,New / Occasional Customers
+6986,108,2,758.0,1,Loyal Customers
+6987,2,1,703.02,2,New / Occasional Customers
+6989,9,1,880.66,2,New / Occasional Customers
+6990,180,1,773.79,0,At Risk Customers
+6992,199,3,1711.41,1,Loyal Customers
+6993,196,1,3400.04,0,At Risk Customers
+6996,203,1,3065.95,0,At Risk Customers
+6998,29,1,802.69,2,New / Occasional Customers
+7001,5,1,218.74,2,New / Occasional Customers
+7002,13,1,1375.99,2,New / Occasional Customers
+7003,75,3,6094.67,4,Champions
+7005,13,2,6127.66,4,Champions
+7008,94,1,2127.85,2,New / Occasional Customers
+7010,73,2,5193.19,1,Loyal Customers
+7011,63,1,725.98,2,New / Occasional Customers
+7012,128,1,1356.05,2,New / Occasional Customers
+7015,24,5,10077.0,4,Champions
+7018,61,2,5590.009999999999,4,Champions
+7024,35,1,1375.11,2,New / Occasional Customers
+7025,72,1,2319.08,2,New / Occasional Customers
+7028,151,1,302.12,0,At Risk Customers
+7030,199,1,4865.55,0,At Risk Customers
+7031,363,1,3777.44,0,At Risk Customers
+7032,50,1,554.44,2,New / Occasional Customers
+7036,240,1,1302.04,0,At Risk Customers
+7039,156,2,808.28,1,Loyal Customers
+7040,117,1,3022.36,3,High-Value New Customers
+7044,59,1,1550.44,2,New / Occasional Customers
+7045,37,1,415.06,2,New / Occasional Customers
+7047,40,1,259.26,2,New / Occasional Customers
+7050,202,1,4573.62,0,At Risk Customers
+7051,62,1,263.76,2,New / Occasional Customers
+7055,16,1,530.37,2,New / Occasional Customers
+7056,140,1,410.94,2,New / Occasional Customers
+7057,90,1,3535.05,3,High-Value New Customers
+7058,13,1,3211.59,3,High-Value New Customers
+7060,54,2,4974.6,1,Loyal Customers
+7061,13,1,874.51,2,New / Occasional Customers
+7062,106,1,4011.36,3,High-Value New Customers
+7063,338,1,1484.67,0,At Risk Customers
+7064,2,1,596.59,2,New / Occasional Customers
+7066,89,2,2428.31,1,Loyal Customers
+7067,108,1,2033.18,2,New / Occasional Customers
+7069,5,1,2874.62,3,High-Value New Customers
+7071,10,2,1531.9199999999998,1,Loyal Customers
+7072,26,3,6381.92,4,Champions
+7073,66,2,4805.88,1,Loyal Customers
+7074,242,1,702.41,0,At Risk Customers
+7077,264,1,167.03,0,At Risk Customers
+7078,240,1,369.08,0,At Risk Customers
+7080,21,1,187.4,2,New / Occasional Customers
+7081,206,1,328.49,0,At Risk Customers
+7082,42,2,3036.1899999999996,1,Loyal Customers
+7094,179,1,966.74,0,At Risk Customers
+7096,6,1,2429.47,2,New / Occasional Customers
+7097,66,1,5580.16,3,High-Value New Customers
+7098,35,2,7012.71,4,Champions
+7099,41,2,4033.6400000000003,1,Loyal Customers
+7100,74,2,2416.06,1,Loyal Customers
+7101,24,1,754.52,2,New / Occasional Customers
+7102,84,1,967.53,2,New / Occasional Customers
+7105,26,1,1051.32,2,New / Occasional Customers
+7106,95,1,1627.92,2,New / Occasional Customers
+7107,148,1,2898.6,0,At Risk Customers
+7110,72,1,2049.4,2,New / Occasional Customers
+7111,43,3,4088.6099999999997,4,Champions
+7119,22,1,2009.24,2,New / Occasional Customers
+7121,225,1,947.94,0,At Risk Customers
+7122,168,2,6075.05,4,Champions
+7123,13,1,4408.56,3,High-Value New Customers
+7126,54,2,3929.1899999999996,1,Loyal Customers
+7127,257,1,3957.72,0,At Risk Customers
+7128,115,1,1957.65,2,New / Occasional Customers
+7129,46,1,2383.98,2,New / Occasional Customers
+7130,10,2,1519.06,1,Loyal Customers
+7132,157,2,1545.56,1,Loyal Customers
+7133,285,1,2089.82,0,At Risk Customers
+7134,4,2,4711.66,1,Loyal Customers
+7139,239,1,1102.73,0,At Risk Customers
+7142,80,3,6206.889999999999,4,Champions
+7144,28,1,3583.95,3,High-Value New Customers
+7145,30,1,2531.1,2,New / Occasional Customers
+7147,49,1,842.44,2,New / Occasional Customers
+7148,109,2,8230.609999999999,4,Champions
+7150,12,2,3531.63,1,Loyal Customers
+7151,265,2,4224.4800000000005,0,At Risk Customers
+7152,91,1,861.56,2,New / Occasional Customers
+7153,140,1,4571.76,3,High-Value New Customers
+7155,44,1,1537.08,2,New / Occasional Customers
+7160,2,1,2949.7,3,High-Value New Customers
+7162,334,1,391.58,0,At Risk Customers
+7165,160,2,3437.56,1,Loyal Customers
+7166,141,1,827.51,2,New / Occasional Customers
+7170,61,1,3375.24,3,High-Value New Customers
+7171,57,4,9938.119999999999,4,Champions
+7173,253,1,1027.78,0,At Risk Customers
+7176,153,1,657.44,0,At Risk Customers
+7177,101,2,2852.17,1,Loyal Customers
+7179,217,1,1582.71,0,At Risk Customers
+7185,14,1,789.26,2,New / Occasional Customers
+7187,28,1,698.56,2,New / Occasional Customers
+7189,39,3,4847.74,4,Champions
+7190,202,2,1302.8000000000002,0,At Risk Customers
+7192,4,1,113.22,2,New / Occasional Customers
+7194,101,1,1193.87,2,New / Occasional Customers
+7195,113,1,2215.76,2,New / Occasional Customers
+7201,218,1,2397.48,0,At Risk Customers
+7202,101,1,2882.12,3,High-Value New Customers
+7204,5,1,694.69,2,New / Occasional Customers
+7209,4,1,656.09,2,New / Occasional Customers
+7210,73,1,2370.42,2,New / Occasional Customers
+7211,77,1,504.7,2,New / Occasional Customers
+7213,69,1,341.49,2,New / Occasional Customers
+7214,2,1,1149.66,2,New / Occasional Customers
+7215,74,2,2398.96,1,Loyal Customers
+7216,201,2,3578.08,0,At Risk Customers
+7217,63,2,868.3799999999999,1,Loyal Customers
+7218,219,1,704.41,0,At Risk Customers
+7219,78,2,2253.31,1,Loyal Customers
+7224,21,1,1369.68,2,New / Occasional Customers
+7225,70,2,6234.070000000001,4,Champions
+7226,157,2,1291.97,1,Loyal Customers
+7227,18,2,851.82,1,Loyal Customers
+7229,289,1,1683.48,0,At Risk Customers
+7232,104,1,2775.5,3,High-Value New Customers
+7234,1,1,887.02,2,New / Occasional Customers
+7235,68,1,1854.04,2,New / Occasional Customers
+7237,21,1,1308.62,2,New / Occasional Customers
+7242,68,1,548.38,2,New / Occasional Customers
+7245,9,1,2460.21,2,New / Occasional Customers
+7246,123,1,441.9,2,New / Occasional Customers
+7248,80,1,4405.72,3,High-Value New Customers
+7249,105,3,5363.76,4,Champions
+7251,275,1,2513.42,0,At Risk Customers
+7252,239,1,4129.66,0,At Risk Customers
+7254,34,2,2755.36,1,Loyal Customers
+7259,13,2,4965.61,1,Loyal Customers
+7261,85,1,2108.41,2,New / Occasional Customers
+7262,43,1,1115.22,2,New / Occasional Customers
+7263,56,1,6895.33,3,High-Value New Customers
+7265,134,1,1361.34,2,New / Occasional Customers
+7269,103,1,886.36,2,New / Occasional Customers
+7271,25,1,1086.28,2,New / Occasional Customers
+7272,63,2,1362.17,1,Loyal Customers
+7274,36,1,2067.51,2,New / Occasional Customers
+7275,42,1,2099.56,2,New / Occasional Customers
+7280,78,1,1107.99,2,New / Occasional Customers
+7281,98,1,673.44,2,New / Occasional Customers
+7282,20,2,536.6400000000001,1,Loyal Customers
+7283,40,1,1032.07,2,New / Occasional Customers
+7284,228,2,6763.8,4,Champions
+7287,135,1,3499.77,3,High-Value New Customers
+7288,20,1,142.75,2,New / Occasional Customers
+7293,68,2,3920.44,1,Loyal Customers
+7296,33,1,2480.14,2,New / Occasional Customers
+7297,53,2,2643.7799999999997,1,Loyal Customers
+7298,78,1,1955.52,2,New / Occasional Customers
+7299,122,2,2160.71,1,Loyal Customers
+7304,45,1,1715.31,2,New / Occasional Customers
+7308,190,1,2919.4,0,At Risk Customers
+7310,61,1,1846.76,2,New / Occasional Customers
+7312,166,1,114.34,0,At Risk Customers
+7313,170,1,285.46,0,At Risk Customers
+7315,223,1,2164.1,0,At Risk Customers
+7317,15,1,400.06,2,New / Occasional Customers
+7319,119,1,1382.92,2,New / Occasional Customers
+7321,60,1,1906.02,2,New / Occasional Customers
+7322,194,1,3321.32,0,At Risk Customers
+7323,84,1,1806.66,2,New / Occasional Customers
+7325,70,2,1155.9,1,Loyal Customers
+7326,28,1,812.97,2,New / Occasional Customers
+7327,143,2,2120.2,1,Loyal Customers
+7332,115,1,2636.98,3,High-Value New Customers
+7333,68,2,2795.84,1,Loyal Customers
+7336,7,1,1468.75,2,New / Occasional Customers
+7339,256,1,7016.6,0,At Risk Customers
+7340,2,2,990.4300000000001,1,Loyal Customers
+7341,44,1,2565.0,2,New / Occasional Customers
+7343,40,1,642.38,2,New / Occasional Customers
+7344,23,3,7873.650000000001,4,Champions
+7345,24,1,304.65,2,New / Occasional Customers
+7346,22,1,5381.88,3,High-Value New Customers
+7348,64,1,1475.24,2,New / Occasional Customers
+7349,32,1,1057.97,2,New / Occasional Customers
+7351,4,1,2194.02,2,New / Occasional Customers
+7353,122,1,502.51,2,New / Occasional Customers
+7354,1,1,986.04,2,New / Occasional Customers
+7356,85,1,5128.03,3,High-Value New Customers
+7358,327,1,1741.08,0,At Risk Customers
+7360,13,2,4415.95,1,Loyal Customers
+7363,129,2,2149.41,1,Loyal Customers
+7367,3,1,3865.47,3,High-Value New Customers
+7369,14,1,755.96,2,New / Occasional Customers
+7372,81,2,1536.66,1,Loyal Customers
+7373,52,1,558.55,2,New / Occasional Customers
+7375,54,1,2955.24,3,High-Value New Customers
+7377,179,1,1461.32,0,At Risk Customers
+7384,94,1,5062.32,3,High-Value New Customers
+7385,34,1,3140.45,3,High-Value New Customers
+7388,15,1,4491.65,3,High-Value New Customers
+7389,73,2,745.65,1,Loyal Customers
+7390,214,1,688.74,0,At Risk Customers
+7391,19,3,5199.73,4,Champions
+7393,54,1,702.9,2,New / Occasional Customers
+7396,134,1,698.68,2,New / Occasional Customers
+7397,15,2,7561.35,4,Champions
+7400,134,1,181.69,2,New / Occasional Customers
+7401,4,1,3411.01,3,High-Value New Customers
+7402,59,1,5223.94,3,High-Value New Customers
+7411,25,3,1281.23,1,Loyal Customers
+7412,50,1,662.09,2,New / Occasional Customers
+7418,118,1,1722.82,2,New / Occasional Customers
+7423,63,1,4441.77,3,High-Value New Customers
+7428,118,2,6649.44,4,Champions
+7429,59,1,476.52,2,New / Occasional Customers
+7433,72,1,1120.5,2,New / Occasional Customers
+7434,113,1,706.11,2,New / Occasional Customers
+7435,65,1,1355.17,2,New / Occasional Customers
+7436,74,1,3601.4,3,High-Value New Customers
+7437,20,2,8666.23,4,Champions
+7439,3,2,2552.0299999999997,1,Loyal Customers
+7450,88,1,262.27,2,New / Occasional Customers
+7454,119,1,2047.1,2,New / Occasional Customers
+7457,33,1,2239.22,2,New / Occasional Customers
+7458,51,1,2266.28,2,New / Occasional Customers
+7461,17,1,1605.58,2,New / Occasional Customers
+7462,12,3,7983.16,4,Champions
+7468,112,1,3384.9,3,High-Value New Customers
+7469,109,2,3936.37,1,Loyal Customers
+7472,75,1,2642.6,3,High-Value New Customers
+7473,24,1,2575.76,2,New / Occasional Customers
+7476,1,2,2583.14,1,Loyal Customers
+7477,271,1,1125.6,0,At Risk Customers
+7491,38,2,2648.45,1,Loyal Customers
+7493,4,1,3287.17,3,High-Value New Customers
+7494,30,2,6142.879999999999,4,Champions
+7495,95,1,1330.18,2,New / Occasional Customers
+7496,101,1,3574.2,3,High-Value New Customers
+7505,34,1,4091.46,3,High-Value New Customers
+7507,38,1,5312.97,3,High-Value New Customers
+7508,146,3,4737.23,4,Champions
+7509,30,1,5269.01,3,High-Value New Customers
+7510,23,1,782.25,2,New / Occasional Customers
+7512,75,3,8996.67,4,Champions
+7513,165,1,692.0,0,At Risk Customers
+7514,301,1,2801.16,0,At Risk Customers
+7515,12,1,862.74,2,New / Occasional Customers
+7517,5,3,6569.68,4,Champions
+7518,29,1,579.58,2,New / Occasional Customers
+7519,162,1,308.12,0,At Risk Customers
+7522,95,2,8118.65,4,Champions
+7525,5,1,2191.66,2,New / Occasional Customers
+7526,75,2,1943.8799999999999,1,Loyal Customers
+7533,50,1,2519.82,2,New / Occasional Customers
+7537,122,1,1045.2,2,New / Occasional Customers
+7538,81,1,2329.2,2,New / Occasional Customers
+7539,119,1,2625.16,3,High-Value New Customers
+7542,19,4,6380.799999999999,4,Champions
+7543,27,1,780.36,2,New / Occasional Customers
+7544,173,2,4950.79,1,Loyal Customers
+7545,177,1,1232.38,0,At Risk Customers
+7548,40,1,1145.56,2,New / Occasional Customers
+7549,57,3,7543.19,4,Champions
+7550,83,1,322.1,2,New / Occasional Customers
+7553,155,2,6591.74,4,Champions
+7555,66,2,4962.84,1,Loyal Customers
+7556,316,1,1330.44,0,At Risk Customers
+7558,125,1,472.02,2,New / Occasional Customers
+7561,205,1,1058.06,0,At Risk Customers
+7562,151,1,3365.24,3,High-Value New Customers
+7564,67,2,1842.81,1,Loyal Customers
+7567,76,1,2793.26,3,High-Value New Customers
+7568,145,2,2816.3599999999997,1,Loyal Customers
+7569,65,1,79.11,2,New / Occasional Customers
+7571,68,1,228.42,2,New / Occasional Customers
+7572,281,1,520.47,0,At Risk Customers
+7574,124,2,12451.970000000001,4,Champions
+7576,48,1,3417.58,3,High-Value New Customers
+7578,61,1,4041.07,3,High-Value New Customers
+7580,184,1,958.78,0,At Risk Customers
+7581,165,1,1665.69,0,At Risk Customers
+7588,42,1,1161.13,2,New / Occasional Customers
+7591,42,1,637.2,2,New / Occasional Customers
+7599,16,1,615.53,2,New / Occasional Customers
+7600,6,3,6181.150000000001,4,Champions
+7601,42,2,1641.98,1,Loyal Customers
+7603,60,2,6031.84,4,Champions
+7604,149,2,9822.45,4,Champions
+7606,96,1,687.39,2,New / Occasional Customers
+7608,113,1,742.16,2,New / Occasional Customers
+7609,62,3,9031.48,4,Champions
+7611,20,2,4121.42,1,Loyal Customers
+7612,168,1,1057.77,0,At Risk Customers
+7615,8,1,3786.18,3,High-Value New Customers
+7616,4,1,1242.19,2,New / Occasional Customers
+7618,36,2,4994.63,1,Loyal Customers
+7623,166,2,3319.14,1,Loyal Customers
+7624,263,1,1017.49,0,At Risk Customers
+7628,47,1,2560.16,2,New / Occasional Customers
+7629,29,2,3148.19,1,Loyal Customers
+7631,168,1,3397.02,0,At Risk Customers
+7633,2,2,3881.13,1,Loyal Customers
+7634,208,1,832.37,0,At Risk Customers
+7637,197,1,1274.51,0,At Risk Customers
+7639,28,2,5717.47,4,Champions
+7646,78,1,4060.86,3,High-Value New Customers
+7650,50,2,3484.2299999999996,1,Loyal Customers
+7652,18,1,5412.63,3,High-Value New Customers
+7654,8,1,1900.16,2,New / Occasional Customers
+7655,15,1,1386.23,2,New / Occasional Customers
+7657,85,2,2204.82,1,Loyal Customers
+7658,30,2,5916.89,4,Champions
+7661,218,1,2009.44,0,At Risk Customers
+7662,120,1,932.44,2,New / Occasional Customers
+7669,67,1,1699.0,2,New / Occasional Customers
+7676,95,1,1237.41,2,New / Occasional Customers
+7678,21,2,2588.72,1,Loyal Customers
+7680,17,1,3438.16,3,High-Value New Customers
+7682,24,2,3235.21,1,Loyal Customers
+7685,70,1,1211.11,2,New / Occasional Customers
+7687,31,1,2343.88,2,New / Occasional Customers
+7689,103,1,1063.08,2,New / Occasional Customers
+7695,152,1,2888.34,0,At Risk Customers
+7696,28,2,3199.42,1,Loyal Customers
+7697,119,1,4039.74,3,High-Value New Customers
+7699,4,1,1435.14,2,New / Occasional Customers
+7701,2,3,6087.040000000001,4,Champions
+7705,69,1,854.89,2,New / Occasional Customers
+7706,134,1,481.13,2,New / Occasional Customers
+7710,2,1,1412.22,2,New / Occasional Customers
+7711,148,2,3607.44,1,Loyal Customers
+7712,50,1,1781.16,2,New / Occasional Customers
+7714,100,2,7014.92,4,Champions
+7715,117,2,3705.77,1,Loyal Customers
+7719,12,3,2515.23,1,Loyal Customers
+7724,17,2,1876.5400000000002,1,Loyal Customers
+7725,18,1,4667.68,3,High-Value New Customers
+7726,276,1,4252.35,0,At Risk Customers
+7727,56,1,277.07,2,New / Occasional Customers
+7729,52,1,936.15,2,New / Occasional Customers
+7731,23,1,3664.64,3,High-Value New Customers
+7734,171,1,4079.31,3,High-Value New Customers
+7736,104,2,3416.85,1,Loyal Customers
+7737,79,1,347.17,2,New / Occasional Customers
+7740,142,1,3216.07,3,High-Value New Customers
+7741,272,2,4098.42,0,At Risk Customers
+7744,3,4,11728.23,4,Champions
+7751,2,1,4220.6,3,High-Value New Customers
+7753,233,1,242.85,0,At Risk Customers
+7755,16,2,899.0699999999999,1,Loyal Customers
+7756,25,1,381.48,2,New / Occasional Customers
+7759,49,2,9361.09,4,Champions
+7761,90,1,2510.24,3,High-Value New Customers
+7762,110,1,3646.88,3,High-Value New Customers
+7765,23,1,2573.94,2,New / Occasional Customers
+7766,1,1,6717.64,3,High-Value New Customers
+7767,306,1,1987.18,0,At Risk Customers
+7768,5,1,2382.05,2,New / Occasional Customers
+7772,65,1,190.58,2,New / Occasional Customers
+7773,51,1,1278.8,2,New / Occasional Customers
+7774,286,1,256.13,0,At Risk Customers
+7776,27,2,2097.81,1,Loyal Customers
+7777,85,2,1812.9,1,Loyal Customers
+7778,313,1,2742.1,0,At Risk Customers
+7781,21,1,3366.72,3,High-Value New Customers
+7787,22,3,5321.52,4,Champions
+7789,61,1,3516.52,3,High-Value New Customers
+7790,150,1,1823.39,0,At Risk Customers
+7795,165,1,754.06,0,At Risk Customers
+7796,1,1,2433.42,2,New / Occasional Customers
+7797,9,1,3118.0,3,High-Value New Customers
+7799,324,1,4404.24,0,At Risk Customers
+7800,24,1,2582.55,2,New / Occasional Customers
+7801,132,1,3719.24,3,High-Value New Customers
+7802,4,1,102.31,2,New / Occasional Customers
+7804,195,1,3025.68,0,At Risk Customers
+7805,59,1,4663.52,3,High-Value New Customers
+7807,2,3,2204.38,1,Loyal Customers
+7811,24,2,2831.05,1,Loyal Customers
+7812,179,1,1076.07,0,At Risk Customers
+7817,98,1,598.42,2,New / Occasional Customers
+7819,138,1,433.68,2,New / Occasional Customers
+7823,173,2,1525.49,1,Loyal Customers
+7827,30,1,511.66,2,New / Occasional Customers
+7830,71,1,1536.27,2,New / Occasional Customers
+7831,350,1,7463.4,0,At Risk Customers
+7832,126,1,608.66,2,New / Occasional Customers
+7833,191,1,5630.64,3,High-Value New Customers
+7834,152,2,4587.71,1,Loyal Customers
+7836,51,2,1008.52,1,Loyal Customers
+7839,21,3,7898.07,4,Champions
+7841,1,1,1789.42,2,New / Occasional Customers
+7842,38,2,2210.49,1,Loyal Customers
+7843,141,1,210.0,2,New / Occasional Customers
+7846,44,1,678.63,2,New / Occasional Customers
+7847,73,1,1277.49,2,New / Occasional Customers
+7850,139,2,6450.37,4,Champions
+7852,26,2,2348.2799999999997,1,Loyal Customers
+7853,12,1,1625.18,2,New / Occasional Customers
+7856,1,1,531.08,2,New / Occasional Customers
+7857,1,1,1434.34,2,New / Occasional Customers
+7858,71,1,642.33,2,New / Occasional Customers
+7859,91,2,1731.69,1,Loyal Customers
+7862,36,1,2408.32,2,New / Occasional Customers
+7865,61,1,1860.9,2,New / Occasional Customers
+7867,12,3,7183.530000000001,4,Champions
+7868,131,1,1576.94,2,New / Occasional Customers
+7869,7,1,3178.95,3,High-Value New Customers
+7870,90,1,2994.15,3,High-Value New Customers
+7871,21,1,567.78,2,New / Occasional Customers
+7874,77,2,6848.200000000001,4,Champions
+7875,21,1,754.02,2,New / Occasional Customers
+7877,41,1,1653.03,2,New / Occasional Customers
+7878,286,1,4759.17,0,At Risk Customers
+7881,193,2,4655.64,1,Loyal Customers
+7882,16,3,10689.26,4,Champions
+7887,2,1,438.16,2,New / Occasional Customers
+7891,10,1,939.78,2,New / Occasional Customers
+7892,63,2,2973.26,1,Loyal Customers
+7895,141,1,1635.1,0,At Risk Customers
+7897,52,1,1077.54,2,New / Occasional Customers
+7899,276,1,5196.12,0,At Risk Customers
+7900,37,1,3077.31,3,High-Value New Customers
+7905,129,1,1510.92,2,New / Occasional Customers
+7909,19,2,8588.0,4,Champions
+7915,72,1,970.56,2,New / Occasional Customers
+7917,21,2,2538.21,1,Loyal Customers
+7919,14,1,2318.88,2,New / Occasional Customers
+7920,229,1,1129.34,0,At Risk Customers
+7922,106,2,2403.31,1,Loyal Customers
+7923,146,3,6941.27,4,Champions
+7927,23,3,4852.77,4,Champions
+7928,26,1,3433.2,3,High-Value New Customers
+7929,16,1,1554.11,2,New / Occasional Customers
+7930,39,1,183.63,2,New / Occasional Customers
+7931,68,1,2528.24,2,New / Occasional Customers
+7934,75,1,1042.21,2,New / Occasional Customers
+7936,15,1,732.52,2,New / Occasional Customers
+7938,137,1,2135.09,2,New / Occasional Customers
+7940,25,1,3299.52,3,High-Value New Customers
+7943,214,3,4124.2,4,Champions
+7945,185,1,680.4,0,At Risk Customers
+7946,9,3,2729.7799999999997,1,Loyal Customers
+7947,29,2,6286.3099999999995,4,Champions
+7949,32,2,4683.13,1,Loyal Customers
+7950,63,1,4472.26,3,High-Value New Customers
+7953,269,1,4467.16,0,At Risk Customers
+7954,134,1,1396.65,2,New / Occasional Customers
+7958,7,1,2295.92,2,New / Occasional Customers
+7959,293,1,481.52,0,At Risk Customers
+7961,121,4,7820.57,4,Champions
+7962,55,1,866.79,2,New / Occasional Customers
+7963,3,2,9165.64,4,Champions
+7964,97,2,1906.0500000000002,1,Loyal Customers
+7967,153,1,2239.58,0,At Risk Customers
+7968,73,1,1829.14,2,New / Occasional Customers
+7969,45,1,2308.38,2,New / Occasional Customers
+7970,1,2,8419.46,4,Champions
+7976,111,1,3931.05,3,High-Value New Customers
+7977,240,1,294.93,0,At Risk Customers
+7979,49,1,1203.17,2,New / Occasional Customers
+7980,35,1,3475.52,3,High-Value New Customers
+7981,69,2,1536.51,1,Loyal Customers
+7983,141,1,1115.12,2,New / Occasional Customers
+7984,88,1,746.06,2,New / Occasional Customers
+7986,88,3,9308.619999999999,4,Champions
+7991,55,1,768.33,2,New / Occasional Customers
+8000,111,3,7130.549999999999,4,Champions
+8001,47,2,2776.42,1,Loyal Customers
+8004,9,1,858.02,2,New / Occasional Customers
+8006,100,2,2218.42,1,Loyal Customers
+8007,58,1,1350.69,2,New / Occasional Customers
+8011,191,1,524.31,0,At Risk Customers
+8012,94,1,4163.64,3,High-Value New Customers
+8013,14,2,1969.25,1,Loyal Customers
+8015,58,2,1324.69,1,Loyal Customers
+8017,188,1,1676.36,0,At Risk Customers
+8018,64,1,1257.07,2,New / Occasional Customers
+8020,216,1,723.1,0,At Risk Customers
+8021,71,1,179.97,2,New / Occasional Customers
+8023,103,2,5623.85,4,Champions
+8024,44,1,660.96,2,New / Occasional Customers
+8025,32,1,570.85,2,New / Occasional Customers
+8026,283,1,3906.7,0,At Risk Customers
+8028,168,2,5580.9,4,Champions
+8029,88,1,1642.91,2,New / Occasional Customers
+8032,13,2,5992.95,4,Champions
+8034,95,1,2815.04,3,High-Value New Customers
+8035,82,2,4250.4,1,Loyal Customers
+8037,94,2,4587.35,1,Loyal Customers
+8038,17,1,976.61,2,New / Occasional Customers
+8043,46,1,1128.24,2,New / Occasional Customers
+8046,20,1,7524.36,3,High-Value New Customers
+8047,110,1,497.81,2,New / Occasional Customers
+8048,227,1,1498.6,0,At Risk Customers
+8049,15,2,2652.58,1,Loyal Customers
+8051,177,3,3749.42,1,Loyal Customers
+8054,16,1,5136.36,3,High-Value New Customers
+8057,24,1,1342.96,2,New / Occasional Customers
+8058,108,1,2755.16,3,High-Value New Customers
+8059,111,1,346.25,2,New / Occasional Customers
+8062,21,1,343.08,2,New / Occasional Customers
+8064,86,1,2374.28,2,New / Occasional Customers
+8066,110,2,2040.3500000000001,1,Loyal Customers
+8067,25,1,473.21,2,New / Occasional Customers
+8072,61,1,2643.48,3,High-Value New Customers
+8073,43,1,1453.04,2,New / Occasional Customers
+8076,2,1,2536.72,2,New / Occasional Customers
+8077,57,1,1175.29,2,New / Occasional Customers
+8078,42,2,10990.96,4,Champions
+8079,39,3,2927.23,1,Loyal Customers
+8080,100,3,4035.71,4,Champions
+8081,136,2,1068.72,1,Loyal Customers
+8082,118,1,2501.2,3,High-Value New Customers
+8084,72,1,3994.6,3,High-Value New Customers
+8085,174,2,9065.48,4,Champions
+8087,9,1,6735.0,3,High-Value New Customers
+8088,5,1,2549.44,2,New / Occasional Customers
+8089,76,2,849.45,1,Loyal Customers
+8090,115,1,3257.98,3,High-Value New Customers
+8095,184,1,285.3,0,At Risk Customers
+8101,118,1,1016.62,2,New / Occasional Customers
+8108,17,1,467.03,2,New / Occasional Customers
+8111,60,1,1489.64,2,New / Occasional Customers
+8112,206,1,2903.94,0,At Risk Customers
+8113,199,2,2766.07,0,At Risk Customers
+8114,111,1,1373.38,2,New / Occasional Customers
+8115,3,1,6333.5,3,High-Value New Customers
+8118,23,1,863.1,2,New / Occasional Customers
+8124,20,1,1617.56,2,New / Occasional Customers
+8125,217,1,337.34,0,At Risk Customers
+8129,219,1,4614.6,0,At Risk Customers
+8130,194,2,1930.8999999999999,0,At Risk Customers
+8131,187,1,1220.33,0,At Risk Customers
+8132,53,1,433.2,2,New / Occasional Customers
+8133,30,1,2994.62,3,High-Value New Customers
+8136,73,1,5074.32,3,High-Value New Customers
+8141,65,1,774.12,2,New / Occasional Customers
+8147,59,1,3398.84,3,High-Value New Customers
+8148,19,1,1061.45,2,New / Occasional Customers
+8151,41,1,3365.22,3,High-Value New Customers
+8152,16,1,158.47,2,New / Occasional Customers
+8153,80,1,472.34,2,New / Occasional Customers
+8154,183,1,780.49,0,At Risk Customers
+8158,142,1,1891.73,0,At Risk Customers
+8159,122,1,531.01,2,New / Occasional Customers
+8160,81,3,2902.92,1,Loyal Customers
+8161,121,3,2982.8999999999996,1,Loyal Customers
+8162,84,2,2871.3199999999997,1,Loyal Customers
+8163,2,1,2861.35,3,High-Value New Customers
+8166,55,1,3468.5,3,High-Value New Customers
+8167,190,1,2077.19,0,At Risk Customers
+8169,3,1,690.6,2,New / Occasional Customers
+8174,17,1,2136.93,2,New / Occasional Customers
+8175,213,1,871.73,0,At Risk Customers
+8176,55,2,4394.09,1,Loyal Customers
+8181,19,2,1670.94,1,Loyal Customers
+8182,5,1,1131.14,2,New / Occasional Customers
+8184,114,1,3504.28,3,High-Value New Customers
+8185,20,1,1032.75,2,New / Occasional Customers
+8188,167,1,347.82,0,At Risk Customers
+8191,15,1,800.07,2,New / Occasional Customers
+8192,142,2,2929.4399999999996,1,Loyal Customers
+8193,121,1,2563.56,3,High-Value New Customers
+8194,11,1,2524.81,2,New / Occasional Customers
+8198,6,1,473.9,2,New / Occasional Customers
+8199,232,1,536.47,0,At Risk Customers
+8200,84,1,891.44,2,New / Occasional Customers
+8201,219,1,4065.7,0,At Risk Customers
+8202,252,2,2980.89,0,At Risk Customers
+8203,197,1,727.13,0,At Risk Customers
+8204,35,2,2233.63,1,Loyal Customers
+8205,59,1,1170.69,2,New / Occasional Customers
+8208,22,1,3471.06,3,High-Value New Customers
+8209,13,3,1909.0900000000001,1,Loyal Customers
+8211,13,1,1905.14,2,New / Occasional Customers
+8212,122,1,621.0,2,New / Occasional Customers
+8214,116,1,181.72,2,New / Occasional Customers
+8215,24,3,4527.92,4,Champions
+8216,112,1,1230.89,2,New / Occasional Customers
+8217,84,1,3961.96,3,High-Value New Customers
+8221,54,1,754.82,2,New / Occasional Customers
+8224,51,1,2133.32,2,New / Occasional Customers
+8225,191,1,789.93,0,At Risk Customers
+8232,70,1,1348.53,2,New / Occasional Customers
+8234,28,1,178.82,2,New / Occasional Customers
+8240,30,2,2746.0600000000004,1,Loyal Customers
+8241,93,3,5663.889999999999,4,Champions
+8242,89,1,251.78,2,New / Occasional Customers
+8244,231,1,3905.96,0,At Risk Customers
+8251,238,1,105.49,0,At Risk Customers
+8255,58,1,1519.63,2,New / Occasional Customers
+8260,75,1,5959.84,3,High-Value New Customers
+8262,31,1,4317.9,3,High-Value New Customers
+8264,66,1,968.33,2,New / Occasional Customers
+8266,24,1,3312.18,3,High-Value New Customers
+8269,83,2,1975.36,1,Loyal Customers
+8270,106,1,3130.19,3,High-Value New Customers
+8271,122,1,768.22,2,New / Occasional Customers
+8274,39,2,7555.72,4,Champions
+8277,90,1,294.08,2,New / Occasional Customers
+8279,38,2,4420.73,1,Loyal Customers
+8280,33,1,181.58,2,New / Occasional Customers
+8284,53,1,4197.54,3,High-Value New Customers
+8288,43,1,1613.82,2,New / Occasional Customers
+8289,21,2,2183.03,1,Loyal Customers
+8291,20,2,1136.8400000000001,1,Loyal Customers
+8293,45,1,2968.16,3,High-Value New Customers
+8299,194,1,364.97,0,At Risk Customers
+8301,359,1,161.23,0,At Risk Customers
+8304,360,1,230.98,0,At Risk Customers
+8305,211,1,455.16,0,At Risk Customers
+8306,56,2,2189.42,1,Loyal Customers
+8307,28,1,1939.05,2,New / Occasional Customers
+8308,19,1,3630.95,3,High-Value New Customers
+8311,47,2,4807.780000000001,1,Loyal Customers
+8314,72,1,2147.47,2,New / Occasional Customers
+8316,191,1,1579.93,0,At Risk Customers
+8320,12,1,389.97,2,New / Occasional Customers
+8321,187,1,1230.16,0,At Risk Customers
+8324,59,2,5046.5199999999995,1,Loyal Customers
+8326,108,2,7153.35,4,Champions
+8327,83,3,4247.0599999999995,4,Champions
+8328,189,1,745.77,0,At Risk Customers
+8330,185,1,2293.24,0,At Risk Customers
+8331,65,1,1409.88,2,New / Occasional Customers
+8332,24,1,3381.7,3,High-Value New Customers
+8333,110,1,2551.71,3,High-Value New Customers
+8337,92,1,4229.2,3,High-Value New Customers
+8338,17,1,4820.48,3,High-Value New Customers
+8340,11,2,2735.21,1,Loyal Customers
+8341,79,3,4810.91,4,Champions
+8345,104,1,5525.43,3,High-Value New Customers
+8346,88,1,2766.34,3,High-Value New Customers
+8347,60,2,1873.3,1,Loyal Customers
+8348,90,1,1433.37,2,New / Occasional Customers
+8353,55,1,661.66,2,New / Occasional Customers
+8354,23,1,1709.72,2,New / Occasional Customers
+8356,11,1,500.76,2,New / Occasional Customers
+8359,125,1,533.12,2,New / Occasional Customers
+8360,306,1,1413.61,0,At Risk Customers
+8361,200,1,1512.3,0,At Risk Customers
+8363,21,3,2826.15,1,Loyal Customers
+8365,40,1,1254.16,2,New / Occasional Customers
+8367,308,1,445.64,0,At Risk Customers
+8368,126,1,1494.77,2,New / Occasional Customers
+8369,115,1,1541.6,2,New / Occasional Customers
+8373,23,1,4449.76,3,High-Value New Customers
+8375,60,1,1009.08,2,New / Occasional Customers
+8376,23,1,3116.76,3,High-Value New Customers
+8377,56,3,5287.29,4,Champions
+8379,17,2,6343.4400000000005,4,Champions
+8381,356,1,3119.76,0,At Risk Customers
+8384,164,1,2970.6,0,At Risk Customers
+8386,92,1,1956.24,2,New / Occasional Customers
+8388,16,1,559.57,2,New / Occasional Customers
+8389,8,1,172.62,2,New / Occasional Customers
+8391,340,1,356.0,0,At Risk Customers
+8392,186,1,849.1,0,At Risk Customers
+8393,87,2,2315.84,1,Loyal Customers
+8396,42,1,2087.94,2,New / Occasional Customers
+8399,63,1,5679.92,3,High-Value New Customers
+8402,74,1,3047.6,3,High-Value New Customers
+8404,36,1,1205.43,2,New / Occasional Customers
+8406,34,1,332.05,2,New / Occasional Customers
+8408,13,3,2694.22,1,Loyal Customers
+8412,65,1,644.06,2,New / Occasional Customers
+8417,34,1,3586.6,3,High-Value New Customers
+8418,60,1,1131.79,2,New / Occasional Customers
+8421,159,2,7162.7,4,Champions
+8423,209,1,1148.1,0,At Risk Customers
+8425,308,1,2831.48,0,At Risk Customers
+8427,6,1,578.45,2,New / Occasional Customers
+8428,84,1,3418.56,3,High-Value New Customers
+8429,17,1,2268.96,2,New / Occasional Customers
+8430,40,1,1989.15,2,New / Occasional Customers
+8431,71,1,1156.05,2,New / Occasional Customers
+8433,10,2,957.02,1,Loyal Customers
+8435,4,2,8343.869999999999,4,Champions
+8437,5,1,775.08,2,New / Occasional Customers
+8439,160,1,2060.77,0,At Risk Customers
+8442,56,2,877.52,1,Loyal Customers
+8445,12,1,2208.34,2,New / Occasional Customers
+8446,30,1,1526.76,2,New / Occasional Customers
+8447,328,1,1223.2,0,At Risk Customers
+8448,237,1,2907.24,0,At Risk Customers
+8450,24,1,1441.74,2,New / Occasional Customers
+8452,58,1,1298.49,2,New / Occasional Customers
+8453,44,2,4193.09,1,Loyal Customers
+8454,2,1,2570.53,2,New / Occasional Customers
+8455,35,1,2611.74,2,New / Occasional Customers
+8459,24,1,256.5,2,New / Occasional Customers
+8460,124,2,1505.1599999999999,1,Loyal Customers
+8461,71,1,2957.64,3,High-Value New Customers
+8464,43,1,2416.21,2,New / Occasional Customers
+8465,260,1,1026.18,0,At Risk Customers
+8476,108,1,1177.25,2,New / Occasional Customers
+8477,102,1,3485.94,3,High-Value New Customers
+8479,259,1,4037.22,0,At Risk Customers
+8481,132,1,1359.36,2,New / Occasional Customers
+8483,140,1,1608.1,2,New / Occasional Customers
+8487,18,1,1353.2,2,New / Occasional Customers
+8490,121,1,2438.69,3,High-Value New Customers
+8491,2,1,641.31,2,New / Occasional Customers
+8498,94,1,1381.46,2,New / Occasional Customers
+8499,12,2,5686.5,4,Champions
+8501,105,3,1883.69,1,Loyal Customers
+8503,62,1,465.46,2,New / Occasional Customers
+8505,85,1,3055.39,3,High-Value New Customers
+8507,54,2,1832.87,1,Loyal Customers
+8509,111,1,189.03,2,New / Occasional Customers
+8510,191,1,1105.66,0,At Risk Customers
+8512,68,1,3782.55,3,High-Value New Customers
+8515,23,1,3550.8,3,High-Value New Customers
+8521,62,1,1906.36,2,New / Occasional Customers
+8525,4,1,1629.86,2,New / Occasional Customers
+8526,27,1,1161.24,2,New / Occasional Customers
+8527,98,2,1299.31,1,Loyal Customers
+8528,39,1,2383.85,2,New / Occasional Customers
+8529,92,1,619.92,2,New / Occasional Customers
+8531,109,3,5049.22,4,Champions
+8533,44,1,3440.16,3,High-Value New Customers
+8534,184,1,5044.07,3,High-Value New Customers
+8535,49,1,3574.05,3,High-Value New Customers
+8538,117,1,2521.33,3,High-Value New Customers
+8541,24,1,769.54,2,New / Occasional Customers
+8542,24,1,1311.94,2,New / Occasional Customers
+8545,9,2,2476.46,1,Loyal Customers
+8546,166,2,3048.68,1,Loyal Customers
+8547,199,1,269.49,0,At Risk Customers
+8552,30,1,4360.83,3,High-Value New Customers
+8553,350,1,3504.67,0,At Risk Customers
+8554,62,1,1425.75,2,New / Occasional Customers
+8556,222,1,317.38,0,At Risk Customers
+8557,186,1,425.09,0,At Risk Customers
+8558,108,1,1949.77,2,New / Occasional Customers
+8562,153,1,1920.3,0,At Risk Customers
+8563,83,2,5281.4,1,Loyal Customers
+8567,48,1,852.8,2,New / Occasional Customers
+8572,10,1,2339.99,2,New / Occasional Customers
+8573,69,2,1965.52,1,Loyal Customers
+8574,203,1,1228.97,0,At Risk Customers
+8575,252,1,1024.64,0,At Risk Customers
+8577,116,1,1363.78,2,New / Occasional Customers
+8583,62,1,725.88,2,New / Occasional Customers
+8584,35,2,2063.11,1,Loyal Customers
+8585,114,1,1133.7,2,New / Occasional Customers
+8586,103,2,4753.72,1,Loyal Customers
+8588,13,1,429.02,2,New / Occasional Customers
+8589,132,1,222.62,2,New / Occasional Customers
+8593,189,2,1393.39,0,At Risk Customers
+8595,227,1,3399.54,0,At Risk Customers
+8596,341,1,1619.06,0,At Risk Customers
+8597,44,1,3589.02,3,High-Value New Customers
+8603,333,1,5573.31,0,At Risk Customers
+8604,38,1,2045.2,2,New / Occasional Customers
+8605,48,1,2349.79,2,New / Occasional Customers
+8608,29,3,11392.83,4,Champions
+8609,51,1,761.8,2,New / Occasional Customers
+8610,193,1,206.4,0,At Risk Customers
+8611,59,1,5016.35,3,High-Value New Customers
+8613,74,3,4117.28,4,Champions
+8614,145,2,1475.46,1,Loyal Customers
+8615,155,2,2043.3,1,Loyal Customers
+8616,20,1,402.05,2,New / Occasional Customers
+8617,263,1,633.84,0,At Risk Customers
+8622,328,1,1243.98,0,At Risk Customers
+8624,222,1,1983.42,0,At Risk Customers
+8625,6,1,860.52,2,New / Occasional Customers
+8628,40,2,1378.9,1,Loyal Customers
+8629,160,2,4782.21,1,Loyal Customers
+8630,33,1,321.92,2,New / Occasional Customers
+8632,8,1,599.67,2,New / Occasional Customers
+8633,52,1,228.21,2,New / Occasional Customers
+8634,69,1,3000.21,3,High-Value New Customers
+8636,126,2,3314.53,1,Loyal Customers
+8638,38,1,1292.67,2,New / Occasional Customers
+8641,143,1,293.78,2,New / Occasional Customers
+8642,104,1,1284.44,2,New / Occasional Customers
+8644,245,2,3074.87,0,At Risk Customers
+8646,25,1,3080.44,3,High-Value New Customers
+8648,66,1,3620.26,3,High-Value New Customers
+8650,118,1,1225.52,2,New / Occasional Customers
+8651,37,2,6519.0599999999995,4,Champions
+8653,200,3,3744.0,1,Loyal Customers
+8654,71,1,247.18,2,New / Occasional Customers
+8655,37,1,773.69,2,New / Occasional Customers
+8659,86,1,1051.56,2,New / Occasional Customers
+8660,172,1,303.18,0,At Risk Customers
+8664,54,1,1122.73,2,New / Occasional Customers
+8667,95,2,687.1899999999999,1,Loyal Customers
+8668,71,2,1320.7,1,Loyal Customers
+8670,49,1,192.56,2,New / Occasional Customers
+8674,34,1,419.8,2,New / Occasional Customers
+8677,199,1,2762.84,0,At Risk Customers
+8679,19,2,3688.9,1,Loyal Customers
+8681,20,1,2696.42,3,High-Value New Customers
+8682,7,2,5531.929999999999,4,Champions
+8684,127,1,1411.34,2,New / Occasional Customers
+8685,59,1,1055.11,2,New / Occasional Customers
+8686,77,2,3010.2799999999997,1,Loyal Customers
+8688,63,1,700.49,2,New / Occasional Customers
+8694,41,2,2245.58,1,Loyal Customers
+8699,78,1,1432.62,2,New / Occasional Customers
+8707,48,1,4850.2,3,High-Value New Customers
+8708,40,3,5309.18,4,Champions
+8709,207,1,321.04,0,At Risk Customers
+8710,190,1,551.11,0,At Risk Customers
+8711,132,2,3403.38,1,Loyal Customers
+8712,63,1,1549.83,2,New / Occasional Customers
+8715,274,2,2696.56,0,At Risk Customers
+8716,57,1,142.61,2,New / Occasional Customers
+8722,356,1,720.51,0,At Risk Customers
+8727,3,1,2650.26,2,New / Occasional Customers
+8729,92,2,1410.47,1,Loyal Customers
+8730,21,1,2972.55,3,High-Value New Customers
+8734,8,1,639.1,2,New / Occasional Customers
+8735,37,1,1335.54,2,New / Occasional Customers
+8736,74,1,2908.37,3,High-Value New Customers
+8737,62,2,4190.45,1,Loyal Customers
+8738,29,1,2842.11,3,High-Value New Customers
+8740,2,1,521.32,2,New / Occasional Customers
+8741,167,1,622.52,0,At Risk Customers
+8744,180,1,5100.64,3,High-Value New Customers
+8745,49,1,1771.88,2,New / Occasional Customers
+8749,11,1,2386.46,2,New / Occasional Customers
+8750,19,3,4052.46,4,Champions
+8751,363,1,961.12,0,At Risk Customers
+8754,266,1,1185.87,0,At Risk Customers
+8755,16,1,498.93,2,New / Occasional Customers
+8756,57,1,1859.51,2,New / Occasional Customers
+8761,50,1,509.3,2,New / Occasional Customers
+8768,22,1,2304.68,2,New / Occasional Customers
+8769,28,1,330.88,2,New / Occasional Customers
+8771,82,1,496.95,2,New / Occasional Customers
+8772,45,2,6876.8099999999995,4,Champions
+8773,126,1,1260.34,2,New / Occasional Customers
+8774,22,1,2742.25,3,High-Value New Customers
+8775,48,1,903.06,2,New / Occasional Customers
+8776,37,1,2103.78,2,New / Occasional Customers
+8779,53,2,4196.82,1,Loyal Customers
+8781,28,2,3952.1299999999997,1,Loyal Customers
+8782,63,1,1482.06,2,New / Occasional Customers
+8784,320,1,3335.66,0,At Risk Customers
+8785,44,1,1184.28,2,New / Occasional Customers
+8791,11,1,618.21,2,New / Occasional Customers
+8794,186,1,3869.36,0,At Risk Customers
+8795,210,1,1354.32,0,At Risk Customers
+8796,171,1,637.1,0,At Risk Customers
+8800,52,1,609.54,2,New / Occasional Customers
+8801,188,1,1935.4,0,At Risk Customers
+8806,72,1,107.6,2,New / Occasional Customers
+8808,197,1,6869.81,3,High-Value New Customers
+8811,64,2,1674.1,1,Loyal Customers
+8815,18,1,2769.81,3,High-Value New Customers
+8817,62,2,2367.32,1,Loyal Customers
+8818,76,2,1002.8199999999999,1,Loyal Customers
+8823,22,2,4389.32,1,Loyal Customers
+8824,222,1,2766.2,0,At Risk Customers
+8826,106,1,2952.3,3,High-Value New Customers
+8829,90,1,185.95,2,New / Occasional Customers
+8830,273,1,560.76,0,At Risk Customers
+8833,293,1,501.55,0,At Risk Customers
+8835,60,1,2062.68,2,New / Occasional Customers
+8840,71,1,1323.14,2,New / Occasional Customers
+8841,81,1,866.52,2,New / Occasional Customers
+8842,170,1,940.44,0,At Risk Customers
+8845,85,1,60.08,2,New / Occasional Customers
+8846,49,3,2596.08,1,Loyal Customers
+8848,29,1,5978.31,3,High-Value New Customers
+8850,22,1,2304.21,2,New / Occasional Customers
+8851,31,2,7454.47,4,Champions
+8852,339,1,1788.51,0,At Risk Customers
+8854,140,1,1066.89,2,New / Occasional Customers
+8855,31,1,665.74,2,New / Occasional Customers
+8858,49,1,1202.04,2,New / Occasional Customers
+8861,83,1,2485.73,2,New / Occasional Customers
+8863,19,1,1434.13,2,New / Occasional Customers
+8864,159,1,182.49,0,At Risk Customers
+8866,60,1,1659.78,2,New / Occasional Customers
+8872,149,1,886.42,0,At Risk Customers
+8873,50,1,167.64,2,New / Occasional Customers
+8875,245,1,696.68,0,At Risk Customers
+8876,92,1,322.82,2,New / Occasional Customers
+8878,69,1,3492.4,3,High-Value New Customers
+8879,251,1,942.82,0,At Risk Customers
+8881,4,1,675.05,2,New / Occasional Customers
+8883,27,1,566.58,2,New / Occasional Customers
+8884,56,1,494.97,2,New / Occasional Customers
+8885,188,1,1193.0,0,At Risk Customers
+8894,19,1,590.08,2,New / Occasional Customers
+8896,176,1,905.89,0,At Risk Customers
+8898,208,1,5727.51,3,High-Value New Customers
+8899,116,1,1790.1,2,New / Occasional Customers
+8903,94,1,2989.6,3,High-Value New Customers
+8904,68,2,2792.84,1,Loyal Customers
+8909,158,1,2560.58,0,At Risk Customers
+8911,41,2,3858.29,1,Loyal Customers
+8912,126,1,2004.94,2,New / Occasional Customers
+8914,34,1,1146.12,2,New / Occasional Customers
+8915,305,1,1330.45,0,At Risk Customers
+8916,5,1,639.85,2,New / Occasional Customers
+8919,2,1,625.41,2,New / Occasional Customers
+8922,187,1,2340.15,0,At Risk Customers
+8923,77,1,2826.22,3,High-Value New Customers
+8924,77,1,1136.64,2,New / Occasional Customers
+8925,314,1,1149.84,0,At Risk Customers
+8926,93,1,2941.12,3,High-Value New Customers
+8928,31,2,4793.14,1,Loyal Customers
+8929,62,1,943.18,2,New / Occasional Customers
+8932,224,1,307.76,0,At Risk Customers
+8933,75,1,1093.68,2,New / Occasional Customers
+8935,203,1,2674.83,0,At Risk Customers
+8936,72,1,1147.03,2,New / Occasional Customers
+8937,131,2,1293.58,1,Loyal Customers
+8939,11,1,518.71,2,New / Occasional Customers
+8942,53,2,4586.04,1,Loyal Customers
+8947,12,1,888.98,2,New / Occasional Customers
+8949,103,1,755.68,2,New / Occasional Customers
+8950,80,1,2974.88,3,High-Value New Customers
+8951,117,1,1593.76,2,New / Occasional Customers
+8952,13,3,6278.0,4,Champions
+8953,99,1,4176.52,3,High-Value New Customers
+8957,59,2,841.3499999999999,1,Loyal Customers
+8958,330,1,2901.75,0,At Risk Customers
+8960,294,1,483.83,0,At Risk Customers
+8962,64,1,2714.78,3,High-Value New Customers
+8963,8,1,1862.95,2,New / Occasional Customers
+8964,24,1,2891.28,3,High-Value New Customers
+8965,43,1,1756.46,2,New / Occasional Customers
+8969,23,1,4089.69,3,High-Value New Customers
+8970,21,1,2046.6,2,New / Occasional Customers
+8972,79,1,3598.59,3,High-Value New Customers
+8973,254,1,6154.85,0,At Risk Customers
+8974,178,1,1826.78,0,At Risk Customers
+8975,63,1,1198.22,2,New / Occasional Customers
+8977,86,1,402.56,2,New / Occasional Customers
+8978,88,2,3596.89,1,Loyal Customers
+8981,62,1,5001.12,3,High-Value New Customers
+8982,114,1,1453.64,2,New / Occasional Customers
+8987,17,1,1639.97,2,New / Occasional Customers
+8988,75,1,2466.45,2,New / Occasional Customers
+8990,92,1,789.99,2,New / Occasional Customers
+8994,44,1,420.51,2,New / Occasional Customers
+8996,183,1,244.1,0,At Risk Customers
+8998,15,1,2053.95,2,New / Occasional Customers
+9004,79,1,785.67,2,New / Occasional Customers
+9006,41,1,712.8,2,New / Occasional Customers
+9008,183,1,1832.87,0,At Risk Customers
+9009,13,1,662.15,2,New / Occasional Customers
+9010,26,1,1390.79,2,New / Occasional Customers
+9011,3,1,458.42,2,New / Occasional Customers
+9012,3,2,3502.39,1,Loyal Customers
+9016,8,1,4004.72,3,High-Value New Customers
+9019,13,2,2258.74,1,Loyal Customers
+9023,115,1,2171.64,2,New / Occasional Customers
+9024,59,1,380.27,2,New / Occasional Customers
+9026,104,1,989.5,2,New / Occasional Customers
+9029,132,1,1693.13,2,New / Occasional Customers
+9030,161,1,2074.84,0,At Risk Customers
+9031,75,1,1945.27,2,New / Occasional Customers
+9037,133,1,1083.01,2,New / Occasional Customers
+9038,186,1,1415.85,0,At Risk Customers
+9039,6,1,708.89,2,New / Occasional Customers
+9041,133,1,1450.28,2,New / Occasional Customers
+9046,7,1,1410.72,2,New / Occasional Customers
+9050,130,2,3988.6499999999996,1,Loyal Customers
+9056,63,1,287.88,2,New / Occasional Customers
+9059,27,3,8081.46,4,Champions
+9060,92,2,7606.759999999999,4,Champions
+9062,64,2,2974.7200000000003,1,Loyal Customers
+9064,88,1,6977.64,3,High-Value New Customers
+9067,149,1,316.04,0,At Risk Customers
+9068,112,3,5875.67,4,Champions
+9070,56,1,2482.94,2,New / Occasional Customers
+9071,125,1,1099.88,2,New / Occasional Customers
+9073,46,1,2071.44,2,New / Occasional Customers
+9075,1,1,5987.76,3,High-Value New Customers
+9078,39,1,2797.35,3,High-Value New Customers
+9082,60,1,2771.28,3,High-Value New Customers
+9084,179,2,2106.41,1,Loyal Customers
+9085,234,1,5586.68,0,At Risk Customers
+9088,209,1,2131.62,0,At Risk Customers
+9090,180,1,2195.8,0,At Risk Customers
+9093,9,1,5346.25,3,High-Value New Customers
+9094,94,1,3043.33,3,High-Value New Customers
+9095,5,1,2188.56,2,New / Occasional Customers
+9096,119,1,1079.43,2,New / Occasional Customers
+9097,94,1,1253.28,2,New / Occasional Customers
+9100,169,1,547.08,0,At Risk Customers
+9101,118,2,1734.7,1,Loyal Customers
+9103,77,1,6811.12,3,High-Value New Customers
+9104,75,1,2519.48,2,New / Occasional Customers
+9108,72,1,2310.86,2,New / Occasional Customers
+9109,20,1,1540.89,2,New / Occasional Customers
+9110,126,1,86.36,2,New / Occasional Customers
+9111,92,1,1658.09,2,New / Occasional Customers
+9116,82,1,2593.2,3,High-Value New Customers
+9122,56,2,2888.73,1,Loyal Customers
+9124,133,2,2110.72,1,Loyal Customers
+9129,1,1,2223.39,2,New / Occasional Customers
+9134,77,1,2071.94,2,New / Occasional Customers
+9137,274,1,466.59,0,At Risk Customers
+9138,92,1,768.37,2,New / Occasional Customers
+9139,36,1,866.75,2,New / Occasional Customers
+9141,196,1,721.74,0,At Risk Customers
+9142,113,1,313.57,2,New / Occasional Customers
+9148,239,1,3392.49,0,At Risk Customers
+9149,88,1,555.1,2,New / Occasional Customers
+9150,14,1,729.84,2,New / Occasional Customers
+9151,40,2,1405.28,1,Loyal Customers
+9154,29,1,2923.17,3,High-Value New Customers
+9155,17,1,1439.68,2,New / Occasional Customers
+9157,28,1,368.5,2,New / Occasional Customers
+9160,253,1,1896.5,0,At Risk Customers
+9162,25,1,631.18,2,New / Occasional Customers
+9164,228,1,438.48,0,At Risk Customers
+9166,8,1,402.79,2,New / Occasional Customers
+9167,62,1,67.71,2,New / Occasional Customers
+9168,134,2,5639.1,4,Champions
+9176,96,2,2078.0600000000004,1,Loyal Customers
+9179,62,1,898.8,2,New / Occasional Customers
+9180,45,1,1451.76,2,New / Occasional Customers
+9183,32,1,1083.04,2,New / Occasional Customers
+9185,186,2,2753.51,1,Loyal Customers
+9187,60,1,5251.83,3,High-Value New Customers
+9188,98,2,5773.44,4,Champions
+9192,172,1,938.58,0,At Risk Customers
+9193,59,1,213.68,2,New / Occasional Customers
+9195,11,1,1646.84,2,New / Occasional Customers
+9197,29,4,4642.55,4,Champions
+9200,282,1,394.1,0,At Risk Customers
+9203,11,1,2455.95,2,New / Occasional Customers
+9205,26,3,5402.23,4,Champions
+9206,9,1,603.46,2,New / Occasional Customers
+9208,68,1,1422.15,2,New / Occasional Customers
+9211,38,2,2960.7299999999996,1,Loyal Customers
+9214,4,1,657.21,2,New / Occasional Customers
+9217,28,1,2963.13,3,High-Value New Customers
+9219,90,2,8014.389999999999,4,Champions
+9223,29,1,1172.7,2,New / Occasional Customers
+9224,177,1,1661.51,0,At Risk Customers
+9225,65,2,6360.83,4,Champions
+9227,56,1,179.16,2,New / Occasional Customers
+9228,80,2,3879.87,1,Loyal Customers
+9230,103,1,2038.72,2,New / Occasional Customers
+9240,39,2,2506.96,1,Loyal Customers
+9241,155,1,1199.8,0,At Risk Customers
+9245,9,1,3844.34,3,High-Value New Customers
+9246,59,2,2775.1800000000003,1,Loyal Customers
+9249,16,1,870.14,2,New / Occasional Customers
+9250,266,1,376.18,0,At Risk Customers
+9254,71,1,374.38,2,New / Occasional Customers
+9257,107,1,2404.04,2,New / Occasional Customers
+9259,169,1,3218.71,0,At Risk Customers
+9260,115,2,3319.98,1,Loyal Customers
+9263,109,1,3721.32,3,High-Value New Customers
+9264,62,2,3952.1899999999996,1,Loyal Customers
+9266,87,1,4807.57,3,High-Value New Customers
+9267,74,2,586.41,1,Loyal Customers
+9268,155,1,3693.19,3,High-Value New Customers
+9270,74,1,676.67,2,New / Occasional Customers
+9271,22,3,3472.7200000000003,1,Loyal Customers
+9272,176,1,1597.74,0,At Risk Customers
+9274,197,2,7532.62,4,Champions
+9275,12,1,2127.22,2,New / Occasional Customers
+9276,152,2,2079.46,1,Loyal Customers
+9277,131,1,1809.84,2,New / Occasional Customers
+9278,96,1,6440.7,3,High-Value New Customers
+9279,85,1,780.74,2,New / Occasional Customers
+9287,99,1,2827.8,3,High-Value New Customers
+9289,77,2,4367.049999999999,1,Loyal Customers
+9291,13,1,273.41,2,New / Occasional Customers
+9292,130,1,1079.43,2,New / Occasional Customers
+9294,13,1,4750.29,3,High-Value New Customers
+9300,125,1,2165.7,2,New / Occasional Customers
+9302,191,1,244.52,0,At Risk Customers
+9303,24,1,857.92,2,New / Occasional Customers
+9305,8,2,3571.08,1,Loyal Customers
+9306,103,1,936.59,2,New / Occasional Customers
+9307,155,1,1916.31,0,At Risk Customers
+9308,105,3,4242.59,4,Champions
+9313,4,1,3455.61,3,High-Value New Customers
+9314,26,1,764.6,2,New / Occasional Customers
+9317,105,2,1801.12,1,Loyal Customers
+9320,39,1,287.63,2,New / Occasional Customers
+9321,127,3,2270.53,1,Loyal Customers
+9323,1,2,2524.2200000000003,1,Loyal Customers
+9327,117,1,1696.29,2,New / Occasional Customers
+9328,18,1,3915.12,3,High-Value New Customers
+9330,102,2,2483.03,1,Loyal Customers
+9331,74,1,2490.54,2,New / Occasional Customers
+9336,80,4,6680.59,4,Champions
+9337,91,2,3059.05,1,Loyal Customers
+9338,25,1,261.72,2,New / Occasional Customers
+9339,59,2,1615.92,1,Loyal Customers
+9341,63,1,2259.86,2,New / Occasional Customers
+9342,36,1,2012.56,2,New / Occasional Customers
+9344,221,1,168.58,0,At Risk Customers
+9345,94,2,2951.66,1,Loyal Customers
+9346,237,2,1029.6599999999999,0,At Risk Customers
+9348,17,3,6469.54,4,Champions
+9350,35,1,498.91,2,New / Occasional Customers
+9352,84,1,1125.18,2,New / Occasional Customers
+9360,6,1,1559.58,2,New / Occasional Customers
+9361,16,1,2416.35,2,New / Occasional Customers
+9362,29,2,7034.96,4,Champions
+9363,41,2,4971.89,1,Loyal Customers
+9366,155,2,3780.27,1,Loyal Customers
+9368,14,3,4764.46,4,Champions
+9369,50,2,6135.46,4,Champions
+9370,151,1,2268.9,0,At Risk Customers
+9371,63,1,800.95,2,New / Occasional Customers
+9374,40,1,1038.82,2,New / Occasional Customers
+9375,56,1,574.1,2,New / Occasional Customers
+9376,254,2,2177.17,0,At Risk Customers
+9378,100,1,1948.89,2,New / Occasional Customers
+9379,212,2,2624.3100000000004,0,At Risk Customers
+9381,41,1,3459.44,3,High-Value New Customers
+9382,13,2,3535.42,1,Loyal Customers
+9384,44,1,878.97,2,New / Occasional Customers
+9385,74,4,2464.18,1,Loyal Customers
+9388,74,1,828.62,2,New / Occasional Customers
+9389,81,1,376.57,2,New / Occasional Customers
+9390,276,1,854.8,0,At Risk Customers
+9391,14,1,1076.59,2,New / Occasional Customers
+9395,46,3,6916.88,4,Champions
+9398,21,1,288.14,2,New / Occasional Customers
+9399,126,1,6064.42,3,High-Value New Customers
+9408,48,1,3288.68,3,High-Value New Customers
+9411,46,1,1670.19,2,New / Occasional Customers
+9412,8,2,4866.42,1,Loyal Customers
+9416,187,1,1477.35,0,At Risk Customers
+9419,142,1,6409.44,3,High-Value New Customers
+9420,15,1,2929.95,3,High-Value New Customers
+9422,2,2,3869.2799999999997,1,Loyal Customers
+9425,16,1,1677.07,2,New / Occasional Customers
+9429,66,1,1016.61,2,New / Occasional Customers
+9431,27,2,4666.1,1,Loyal Customers
+9432,17,1,439.86,2,New / Occasional Customers
+9434,61,1,665.15,2,New / Occasional Customers
+9435,141,2,2384.99,1,Loyal Customers
+9442,4,1,267.3,2,New / Occasional Customers
+9443,52,1,4035.76,3,High-Value New Customers
+9444,228,1,1818.38,0,At Risk Customers
+9445,11,1,1950.75,2,New / Occasional Customers
+9446,140,1,3802.13,3,High-Value New Customers
+9448,55,1,4905.51,3,High-Value New Customers
+9452,192,1,1204.42,0,At Risk Customers
+9453,8,2,3981.11,1,Loyal Customers
+9454,18,1,2253.24,2,New / Occasional Customers
+9457,8,1,4352.02,3,High-Value New Customers
+9460,194,1,111.47,0,At Risk Customers
+9462,35,1,1948.29,2,New / Occasional Customers
+9466,191,1,1963.64,0,At Risk Customers
+9470,34,1,1069.28,2,New / Occasional Customers
+9473,25,1,1368.67,2,New / Occasional Customers
+9475,144,1,813.36,2,New / Occasional Customers
+9476,6,4,11059.96,4,Champions
+9477,184,1,5295.12,3,High-Value New Customers
+9479,98,1,4980.2,3,High-Value New Customers
+9480,234,1,1621.56,0,At Risk Customers
+9484,30,1,2522.52,2,New / Occasional Customers
+9485,100,1,1389.75,2,New / Occasional Customers
+9489,14,1,315.89,2,New / Occasional Customers
+9491,14,1,1838.66,2,New / Occasional Customers
+9494,26,1,7745.76,3,High-Value New Customers
+9496,74,2,1692.67,1,Loyal Customers
+9497,3,1,2928.02,3,High-Value New Customers
+9498,83,2,2448.1800000000003,1,Loyal Customers
+9504,4,1,1549.07,2,New / Occasional Customers
+9505,29,1,2681.46,3,High-Value New Customers
+9507,58,2,6597.48,4,Champions
+9509,2,2,6738.14,4,Champions
+9512,41,1,396.98,2,New / Occasional Customers
+9513,76,2,841.73,1,Loyal Customers
+9514,38,1,1219.92,2,New / Occasional Customers
+9520,70,1,1286.19,2,New / Occasional Customers
+9521,39,1,745.72,2,New / Occasional Customers
+9524,31,1,2873.3,3,High-Value New Customers
+9526,97,1,1724.65,2,New / Occasional Customers
+9528,28,3,6753.44,4,Champions
+9533,154,1,2653.75,0,At Risk Customers
+9534,20,1,3751.99,3,High-Value New Customers
+9538,9,3,2571.34,1,Loyal Customers
+9540,112,2,2398.3,1,Loyal Customers
+9542,25,1,1758.43,2,New / Occasional Customers
+9545,1,1,3289.61,3,High-Value New Customers
+9546,50,1,1567.78,2,New / Occasional Customers
+9547,2,1,3163.97,3,High-Value New Customers
+9549,74,2,2978.63,1,Loyal Customers
+9550,192,1,2025.96,0,At Risk Customers
+9552,144,1,6294.28,3,High-Value New Customers
+9557,269,1,2650.56,0,At Risk Customers
+9558,111,1,2885.61,3,High-Value New Customers
+9559,27,1,330.64,2,New / Occasional Customers
+9566,76,1,209.07,2,New / Occasional Customers
+9567,36,2,3318.52,1,Loyal Customers
+9568,93,1,2140.22,2,New / Occasional Customers
+9569,6,1,5326.77,3,High-Value New Customers
+9571,134,2,3456.59,1,Loyal Customers
+9573,350,1,1042.86,0,At Risk Customers
+9574,145,1,1026.04,0,At Risk Customers
+9575,40,1,1119.65,2,New / Occasional Customers
+9577,84,1,509.34,2,New / Occasional Customers
+9578,252,2,2187.15,0,At Risk Customers
+9584,161,1,2046.94,0,At Risk Customers
+9587,34,1,2846.35,3,High-Value New Customers
+9589,19,1,1351.04,2,New / Occasional Customers
+9592,15,1,2354.85,2,New / Occasional Customers
+9595,360,1,753.28,0,At Risk Customers
+9597,107,1,2360.92,2,New / Occasional Customers
+9598,65,1,642.27,2,New / Occasional Customers
+9599,4,2,3676.37,1,Loyal Customers
+9600,9,1,3321.07,3,High-Value New Customers
+9602,78,1,115.49,2,New / Occasional Customers
+9606,34,1,418.9,2,New / Occasional Customers
+9608,11,1,582.94,2,New / Occasional Customers
+9614,67,3,4422.33,4,Champions
+9617,77,1,2634.8,3,High-Value New Customers
+9624,79,1,1558.96,2,New / Occasional Customers
+9627,182,1,376.56,0,At Risk Customers
+9629,61,3,5906.11,4,Champions
+9630,33,2,1863.35,1,Loyal Customers
+9631,38,1,879.68,2,New / Occasional Customers
+9633,9,1,5328.79,3,High-Value New Customers
+9634,10,1,6060.36,3,High-Value New Customers
+9636,16,4,8408.52,4,Champions
+9638,166,2,5225.09,1,Loyal Customers
+9639,29,4,4585.86,4,Champions
+9641,6,1,1077.84,2,New / Occasional Customers
+9643,1,2,2144.73,1,Loyal Customers
+9646,101,1,431.04,2,New / Occasional Customers
+9648,13,1,599.94,2,New / Occasional Customers
+9651,177,1,1572.21,0,At Risk Customers
+9652,101,2,1690.88,1,Loyal Customers
+9655,289,1,1073.14,0,At Risk Customers
+9656,6,1,1691.63,2,New / Occasional Customers
+9658,47,5,11532.05,4,Champions
+9662,53,2,2792.1600000000003,1,Loyal Customers
+9663,9,1,3129.52,3,High-Value New Customers
+9666,302,1,703.68,0,At Risk Customers
+9668,198,1,4401.23,0,At Risk Customers
+9670,239,2,1531.63,0,At Risk Customers
+9677,73,1,1587.68,2,New / Occasional Customers
+9680,16,1,1684.38,2,New / Occasional Customers
+9681,52,2,643.62,1,Loyal Customers
+9684,7,1,220.97,2,New / Occasional Customers
+9685,50,2,3810.04,1,Loyal Customers
+9691,132,1,885.92,2,New / Occasional Customers
+9692,160,1,3474.48,0,At Risk Customers
+9693,137,1,171.78,2,New / Occasional Customers
+9695,96,1,798.58,2,New / Occasional Customers
+9697,206,1,1631.68,0,At Risk Customers
+9698,142,1,490.67,2,New / Occasional Customers
+9699,141,1,668.82,2,New / Occasional Customers
+9703,147,1,1500.01,0,At Risk Customers
+9704,210,1,4339.03,0,At Risk Customers
+9706,136,1,881.33,2,New / Occasional Customers
+9707,52,1,5553.0,3,High-Value New Customers
+9711,8,1,104.4,2,New / Occasional Customers
+9712,174,1,535.5,0,At Risk Customers
+9713,258,1,1197.58,0,At Risk Customers
+9718,78,1,2410.31,2,New / Occasional Customers
+9719,52,2,1323.04,1,Loyal Customers
+9723,42,1,5173.84,3,High-Value New Customers
+9726,49,2,6634.26,4,Champions
+9727,161,1,2621.8,0,At Risk Customers
+9728,32,1,205.35,2,New / Occasional Customers
+9730,19,1,3181.75,3,High-Value New Customers
+9732,29,2,4610.57,1,Loyal Customers
+9733,164,1,3555.88,0,At Risk Customers
+9734,93,2,1942.9499999999998,1,Loyal Customers
+9736,18,1,1095.18,2,New / Occasional Customers
+9738,319,1,925.88,0,At Risk Customers
+9739,123,1,1615.15,2,New / Occasional Customers
+9741,28,1,542.19,2,New / Occasional Customers
+9743,330,1,2288.69,0,At Risk Customers
+9744,10,1,1927.76,2,New / Occasional Customers
+9747,13,1,1253.28,2,New / Occasional Customers
+9748,53,2,1867.56,1,Loyal Customers
+9749,42,1,2052.83,2,New / Occasional Customers
+9752,175,1,1334.88,0,At Risk Customers
+9753,44,1,497.21,2,New / Occasional Customers
+9754,148,1,3407.82,3,High-Value New Customers
+9755,94,2,1326.72,1,Loyal Customers
+9757,66,1,81.54,2,New / Occasional Customers
+9758,152,1,1100.76,0,At Risk Customers
+9759,102,2,7465.32,4,Champions
+9760,365,1,378.47,0,At Risk Customers
+9761,61,1,346.2,2,New / Occasional Customers
+9762,5,2,7499.860000000001,4,Champions
+9763,217,1,346.78,0,At Risk Customers
+9765,67,2,5383.120000000001,4,Champions
+9766,10,1,1265.31,2,New / Occasional Customers
+9768,174,1,1970.75,0,At Risk Customers
+9770,217,1,1688.2,0,At Risk Customers
+9771,9,1,5050.12,3,High-Value New Customers
+9772,26,1,1121.12,2,New / Occasional Customers
+9777,12,1,6759.63,3,High-Value New Customers
+9780,34,1,3361.47,3,High-Value New Customers
+9781,15,1,1155.25,2,New / Occasional Customers
+9782,25,1,1946.82,2,New / Occasional Customers
+9784,13,1,2290.49,2,New / Occasional Customers
+9785,113,1,5796.39,3,High-Value New Customers
+9789,91,1,451.66,2,New / Occasional Customers
+9796,1,2,2825.51,1,Loyal Customers
+9802,94,1,957.85,2,New / Occasional Customers
+9805,186,1,1082.08,0,At Risk Customers
+9807,147,2,1228.63,1,Loyal Customers
+9809,155,1,213.74,0,At Risk Customers
+9812,1,1,655.88,2,New / Occasional Customers
+9815,1,1,626.42,2,New / Occasional Customers
+9816,13,1,436.59,2,New / Occasional Customers
+9817,10,2,5694.05,4,Champions
+9818,39,1,5903.7,3,High-Value New Customers
+9821,174,1,1170.02,0,At Risk Customers
+9822,22,1,1687.52,2,New / Occasional Customers
+9824,289,1,3184.17,0,At Risk Customers
+9825,28,2,3344.65,1,Loyal Customers
+9830,24,1,260.1,2,New / Occasional Customers
+9831,74,3,2157.76,1,Loyal Customers
+9833,218,1,2724.86,0,At Risk Customers
+9836,132,2,1398.98,1,Loyal Customers
+9838,93,1,1458.73,2,New / Occasional Customers
+9839,12,2,3991.05,1,Loyal Customers
+9845,102,2,6979.08,4,Champions
+9849,49,1,1295.74,2,New / Occasional Customers
+9856,31,1,734.02,2,New / Occasional Customers
+9857,151,1,2072.57,0,At Risk Customers
+9859,8,3,4057.34,4,Champions
+9860,10,2,5017.68,1,Loyal Customers
+9861,90,2,1026.96,1,Loyal Customers
+9862,107,2,7869.07,4,Champions
+9863,4,2,3268.36,1,Loyal Customers
+9865,341,1,713.19,0,At Risk Customers
+9867,54,2,7683.61,4,Champions
+9869,14,2,8202.76,4,Champions
+9873,70,3,3978.3900000000003,4,Champions
+9880,67,1,2133.2,2,New / Occasional Customers
+9881,3,2,7184.4400000000005,4,Champions
+9883,133,3,2216.86,1,Loyal Customers
+9885,85,1,3008.2,3,High-Value New Customers
+9886,42,1,708.13,2,New / Occasional Customers
+9887,36,1,526.18,2,New / Occasional Customers
+9888,115,1,4366.62,3,High-Value New Customers
+9891,80,1,1808.79,2,New / Occasional Customers
+9892,134,1,1252.28,2,New / Occasional Customers
+9903,247,1,1368.84,0,At Risk Customers
+9906,63,1,2658.15,3,High-Value New Customers
+9907,62,1,787.37,2,New / Occasional Customers
+9909,102,1,2419.52,2,New / Occasional Customers
+9910,7,1,613.1,2,New / Occasional Customers
+9911,3,1,2633.7,2,New / Occasional Customers
+9916,60,1,2948.28,3,High-Value New Customers
+9917,7,1,317.7,2,New / Occasional Customers
+9919,237,1,202.41,0,At Risk Customers
+9921,23,2,6298.85,4,Champions
+9922,309,1,1975.84,0,At Risk Customers
+9923,189,1,1348.96,0,At Risk Customers
+9924,68,2,4163.6,1,Loyal Customers
+9926,64,1,1483.68,2,New / Occasional Customers
+9928,45,2,3254.47,1,Loyal Customers
+9929,121,1,981.5,2,New / Occasional Customers
+9930,88,1,3192.74,3,High-Value New Customers
+9931,36,2,6026.58,4,Champions
+9932,19,2,4014.9900000000002,1,Loyal Customers
+9939,52,1,1273.44,2,New / Occasional Customers
+9940,136,2,4222.35,1,Loyal Customers
+9947,60,1,1919.04,2,New / Occasional Customers
+9948,237,2,2881.6,0,At Risk Customers
+9950,91,2,3073.7799999999997,1,Loyal Customers
+9951,100,1,937.36,2,New / Occasional Customers
+9952,21,1,4054.2,3,High-Value New Customers
+9954,27,1,3849.4,3,High-Value New Customers
+9959,58,5,7052.049999999999,4,Champions
+9961,335,1,1587.64,0,At Risk Customers
+9962,36,1,1198.66,2,New / Occasional Customers
+9963,6,2,3696.62,1,Loyal Customers
+9965,73,2,1116.83,1,Loyal Customers
+9976,48,1,3573.54,3,High-Value New Customers
+9977,25,1,879.36,2,New / Occasional Customers
+9978,159,2,5745.68,4,Champions
+9979,228,1,2429.94,0,At Risk Customers
+9982,188,2,921.9200000000001,0,At Risk Customers
+9983,1,2,5784.139999999999,4,Champions
+9985,174,1,3656.85,0,At Risk Customers
+9987,11,1,922.81,2,New / Occasional Customers
+9990,11,2,10009.98,4,Champions
+9992,51,2,4906.209999999999,1,Loyal Customers
+9993,5,2,3413.7200000000003,1,Loyal Customers
+9994,72,1,1038.24,2,New / Occasional Customers
+9997,140,1,1583.0,2,New / Occasional Customers
+9998,6,1,1295.58,2,New / Occasional Customers
