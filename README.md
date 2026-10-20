@@ -133,3 +133,108 @@ The Power BI dashboard provides an interactive view of:
 
 ### Note
 RFM analysis was performed on customers with at least one recorded purchase. Recency is calculated using the customer's last recorded visit date, while Frequency is based on recorded purchases and Monetary is based on recorded revenue.
+## Task 3: Predictive Analytics Using Historical Data
+
+### Project Title
+
+**Retail Sales Forecasting Using Random Forest Regression**
+
+### Project Overview
+
+This project focuses on analyzing historical retail sales data and predicting future sales using a Random Forest Regression model.
+
+The objective was to identify sales patterns, evaluate model performance, compare actual sales with predicted sales, and generate a 30-day sales forecast to support data-driven business decisions.
+
+### Tools & Technologies
+
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Power BI
+- Jupyter Notebook
+- CSV
+
+### Dataset
+
+The project uses `store_sales.csv`, containing **7,300 records** and five columns:
+
+- `date`
+- `store`
+- `sales`
+- `promo`
+- `holiday`
+
+The dataset contains historical sales information, store identifiers, promotion indicators, and holiday indicators.
+
+### Methodology
+
+1. Loaded the historical sales dataset using Pandas.
+2. Checked data types, missing values, and duplicate records.
+3. Converted the date column into the appropriate datetime format.
+4. Sorted the data by store and date.
+5. Created date-based features, including year, month, day, day of the week, week of the year, and weekend indicator.
+6. Explored daily and monthly sales trends.
+7. Analyzed average sales by store, promotion status, and holiday status.
+8. Split the data chronologically into 80% training data and 20% testing data.
+9. Trained a Random Forest Regression model using historical sales features.
+10. Evaluated the model using MAE, RMSE, and R² score.
+11. Compared actual sales with predicted sales and analyzed feature importance.
+12. Generated a 30-day sales forecast for 10 stores, assuming no promotions and no holidays during the forecast period.
+13. Created visualizations and a Power BI dashboard to present the findings.
+
+### Model Performance
+
+| Metric | Result |
+|---|---:|
+| Mean Absolute Error (MAE) | 6.57 |
+| Root Mean Squared Error (RMSE) | 8.29 |
+| R² Score | 0.8811 |
+
+The model achieved an R² score of 0.8811 on the held-out test set, indicating that it explained approximately 88.11% of the variation in the test sales data. The MAE and RMSE summarize the prediction errors in the dataset's sales units.
+
+### Key Business Insights
+
+- **Promotions:** Average recorded sales were approximately 251.97 when promotions were active, compared with 222.47 without promotions.
+- **Holidays:** Average recorded sales were approximately 263.52 on holidays, compared with 224.36 on non-holidays.
+- **Important Features:** Day of the week, holiday status, and promotion status were the three most important features according to the trained model.
+- **Sales Forecasting:** The model generated predictions for the next 30 days for each of the 10 stores.
+- **Model Evaluation:** Actual and predicted sales were compared on held-out test data to assess the model's performance.
+
+These comparisons are descriptive and do not, by themselves, establish that promotions or holidays cause higher sales.
+
+### Power BI Dashboard
+
+The dashboard, titled **Retail Sales Forecasting Dashboard**, presents:
+
+- Total Historical Sales
+- Average Historical Sales
+- Model MAE
+- Model R² Score
+- Actual vs Predicted Sales
+- Next 30 Days Sales Forecast
+- Total Sales by Store
+- Feature Importance in Sales Prediction
+- Promotion vs Sales Analysis
+- Holiday vs Sales Analysis
+
+### Project Output
+
+**Original Dataset:** `store_sales.csv`
+
+**Python Notebook:** `Task_3_Retail_Sales_Forecasting.ipynb`
+
+**Power BI Dashboard:** `Task_3_Retail_Sales_Forecasting_Dashboard.pbix`
+
+**Actual vs Predicted Sales:** `Task3_Actual_vs_Predicted.csv`
+
+**30-Day Sales Forecast:** `Task3_30_Day_Sales_Forecast.csv`
+
+**Feature Importance:** `Task3_Feature_Importance.csv`
+
+**Dashboard Screenshot:** `Task3_Retail_Sales_Forecasting_Dashboard.png`
+
+### Note
+
+The model uses date-based features, store identifiers, promotion indicators, and holiday indicators. Future predictions assume that promotion and holiday indicators are zero for all forecast dates. Actual future sales may differ from these estimates. Model performance metrics describe the held-out test set and are not a guarantee of future forecasting accuracy.
