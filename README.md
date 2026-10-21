@@ -238,3 +238,39 @@ The dashboard, titled **Retail Sales Forecasting Dashboard**, presents:
 ### Note
 
 The model uses date-based features, store identifiers, promotion indicators, and holiday indicators. Future predictions assume that promotion and holiday indicators are zero for all forecast dates. Actual future sales may differ from these estimates. Model performance metrics describe the held-out test set and are not a guarantee of future forecasting accuracy.
+## Task 4: Data Cleaning & Reporting Automation
+
+### Project Overview
+Automated data cleaning and reporting using the Sample Superstore dataset containing 9,994 rows and 21 columns.
+
+### Tools & Technologies
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Excel
+
+### Key Activities
+- Checked missing values and duplicate records.
+- Validated order dates, shipping dates, quantities, sales and discounts.
+- Converted date and numeric columns to appropriate data types.
+- Generated category-wise, region-wise and monthly sales summaries.
+- Exported the cleaned dataset and automated Excel report.
+- Created sales-by-category and monthly-sales-trend charts.
+
+### Key Results
+- Total Sales: 2,297,200.86
+- Total Profit: 286,397.02
+- Total Quantity: 37,873
+- Original Rows: 9,994
+- Duplicate Rows Removed: 0
+- Missing Values: 0
+
+### Output Files
+- `Superstore_Cleaned.csv`
+- `Task4_Automated_Report.xlsx`
+- `Sales_By_Category.png`
+- `Monthly_Sales_Trend.png`
+
+### Conclusion
+The project demonstrates data quality validation, data cleaning, automated reporting and visualization using Python.
